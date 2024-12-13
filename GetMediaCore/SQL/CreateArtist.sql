@@ -1,0 +1,21 @@
+USE [Media]
+GO
+
+/****** Object:  Table [dbo].[Artists]    Script Date: 12/12/2024 19:21:37 ******/
+SET ANSI_NULLS ON
+GO
+
+SET QUOTED_IDENTIFIER ON
+GO
+
+CREATE TABLE [dbo].[Artists](
+	[artistId] [int] IDENTITY(1,1) NOT NULL,
+	[artistName] [nvarchar](250) NULL,
+	[artistDisplayName] [nvarchar](250) NULL,
+ CONSTRAINT [PK_Artist] PRIMARY KEY CLUSTERED 
+(
+	[artistId] ASC
+)WITH (PAD_INDEX = OFF, STATISTICS_NORECOMPUTE = OFF, IGNORE_DUP_KEY = OFF, ALLOW_ROW_LOCKS = ON, ALLOW_PAGE_LOCKS = ON, OPTIMIZE_FOR_SEQUENTIAL_KEY = OFF) ON [PRIMARY]
+) ON [PRIMARY]
+GO
+

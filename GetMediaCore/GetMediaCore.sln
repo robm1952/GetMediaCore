@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34728.123
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GetMediaCore", "GetMediaCore\GetMediaCore.csproj", "{B5662C6A-9AEF-4477-AB07-E85E8A5FC244}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B5662C6A-9AEF-4477-AB07-E85E8A5FC244}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B5662C6A-9AEF-4477-AB07-E85E8A5FC244}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B5662C6A-9AEF-4477-AB07-E85E8A5FC244}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B5662C6A-9AEF-4477-AB07-E85E8A5FC244}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {06BEFDE1-1E59-4A1C-AA16-235A7D821B85}
+	EndGlobalSection
+EndGlobal

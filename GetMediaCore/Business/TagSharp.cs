@@ -107,7 +107,16 @@ namespace GetMediaCore.Business
             return sb.ToString().Trim();
         }
 
-        private Int32? GetGenresId(String genreName) => _genres.FirstOrDefault(x => x.GenreName.Equals(genreName, StringComparison.OrdinalIgnoreCase)).GenreId;
+        private Int32? GetGenresId(String genreName) {
+            int ret = 0;
+            if (String.IsNullOrEmpty(genreName)) {
+                ret = 20;
+            }
+            else { 
+                ret = _genres.FirstOrDefault(x => x.GenreName.Equals(genreName, StringComparison.OrdinalIgnoreCase)).GenreId;
+            }
+            return ret;
+        }
 
         private List<Genre> GetGenres()
         {

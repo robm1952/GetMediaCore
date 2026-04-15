@@ -1,0 +1,2585 @@
+artistId,artistName,albumId,albumTitle,albumYear,albumGenre,songID,songTitle,songTrackNumber
+631,3 Doors Down,972,The Better Life,2000,2,10799,Kryptonite,1
+16,AC/DC,2,Back in Black,1980,2,19,Hells Bells,1
+16,AC/DC,2,Back in Black,1980,2,23,Shoot to Thrill,2
+16,AC/DC,2,Back in Black,1980,2,24,What Do You Do for Money Honey,3
+16,AC/DC,2,Back in Black,1980,2,17,Given the Dog a Bone,4
+16,AC/DC,2,Back in Black,1980,2,20,Let Me Put My Love Into You,5
+16,AC/DC,2,Back in Black,1980,2,16,Back in Black,6
+16,AC/DC,2,Back in Black,1980,2,25,You Shook Me All Night Long,7
+16,AC/DC,2,Back in Black,1980,2,18,Have a Drink on Me,8
+16,AC/DC,2,Back in Black,1980,2,22,Shake a Leg,9
+16,AC/DC,2,Back in Black,1980,2,21,Rock and Roll Ain’t Noise Pollution,10
+16,AC/DC,3,Black Ice,2008,2,32,Rock N Roll Train,1
+16,AC/DC,3,Black Ice,2008,2,35,Skies On Fire,2
+16,AC/DC,3,Black Ice,2008,2,27,Big Jack,3
+16,AC/DC,3,Black Ice,2008,2,26,Anything Goes,4
+16,AC/DC,3,Black Ice,2008,2,39,War Machine,5
+16,AC/DC,3,Black Ice,2008,2,36,Smash N Grab,6
+16,AC/DC,3,Black Ice,2008,2,37,Spoilin' For A Fight,7
+16,AC/DC,3,Black Ice,2008,2,40,Wheels,8
+16,AC/DC,3,Black Ice,2008,2,29,Decibel,9
+16,AC/DC,3,Black Ice,2008,2,38,Stormy May Day,10
+16,AC/DC,3,Black Ice,2008,2,34,She Likes Rock N Roll,11
+16,AC/DC,3,Black Ice,2008,2,30,Money Made,12
+16,AC/DC,3,Black Ice,2008,2,31,Rock N Roll Dream,13
+16,AC/DC,3,Black Ice,2008,2,33,Rocking All The Way,14
+16,AC/DC,3,Black Ice,2008,2,28,Black Ice,15
+16,AC/DC,4,Dirty Deeds Done Dirt Cheap,2003,2,43,Dirty Deeds Done Dirt Cheap,1
+16,AC/DC,4,Dirty Deeds Done Dirt Cheap,2003,2,44,Love At First Feel,2
+16,AC/DC,4,Dirty Deeds Done Dirt Cheap,2003,2,42,Big Balls,3
+16,AC/DC,4,Dirty Deeds Done Dirt Cheap,2003,2,47,Rocker,4
+16,AC/DC,4,Dirty Deeds Done Dirt Cheap,2003,2,45,Problem Child,5
+16,AC/DC,4,Dirty Deeds Done Dirt Cheap,2003,2,49,There's Gonna Be Some Rockin',6
+16,AC/DC,4,Dirty Deeds Done Dirt Cheap,2003,2,41,Ain't No Fun (Waiting Round To Be A Millionaire,7
+16,AC/DC,4,Dirty Deeds Done Dirt Cheap,2003,2,46,Ride On,8
+16,AC/DC,4,Dirty Deeds Done Dirt Cheap,2003,2,48,Squealer,9
+16,AC/DC,5,Let There Be Rock,1977,2,52,Go Down,1
+16,AC/DC,5,Let There Be Rock,1977,2,51,Dog Eat Dog,2
+16,AC/DC,5,Let There Be Rock,1977,2,54,Let There Be Rock,3
+16,AC/DC,5,Let There Be Rock,1977,2,50,Bad Boy Boogie,4
+16,AC/DC,5,Let There Be Rock,1977,2,56,Problem Child,5
+16,AC/DC,5,Let There Be Rock,1977,2,55,Overdose,6
+16,AC/DC,5,Let There Be Rock,1977,2,53,Hell Ain't A Bad Place To Be,7
+16,AC/DC,5,Let There Be Rock,1977,2,57,Whole Lotta Rosie,8
+16,AC/DC,6,Who Made Who,1986,2,65,Who Made Who,1
+16,AC/DC,6,Who Made Who,1986,2,66,You Shook Me All Night Long,2
+16,AC/DC,6,Who Made Who,1986,2,59,D.T.,3
+16,AC/DC,6,Who Made Who,1986,2,64,Sink The Pink,4
+16,AC/DC,6,Who Made Who,1986,2,62,Ride On,5
+16,AC/DC,6,Who Made Who,1986,2,61,Hells Bells,6
+16,AC/DC,6,Who Made Who,1986,2,63,Shake Your Foundations,7
+16,AC/DC,6,Who Made Who,1986,2,58,Chase The Ace,8
+16,AC/DC,6,Who Made Who,1986,2,60,For Those About To Rock (We Salute You),9
+17,Adam Sandler,7,What the Hell Happened to Me?,1996,3,70,Joining the Cult,1
+17,Adam Sandler,7,What the Hell Happened to Me?,1996,3,74,Respect,2
+17,Adam Sandler,7,What the Hell Happened to Me?,1996,3,73,Ode to My Car,3
+17,Adam Sandler,7,What the Hell Happened to Me?,1996,3,82,The Excited Southerner Orders a Meal,4
+17,Adam Sandler,7,What the Hell Happened to Me?,1996,3,84,The Goat,5
+17,Adam Sandler,7,What the Hell Happened to Me?,1996,3,78,The Chanukah Song,6
+17,Adam Sandler,7,What the Hell Happened to Me?,1996,3,80,The Excited Southerner Gets Pulled Over,7
+17,Adam Sandler,7,What the Hell Happened to Me?,1996,3,85,The Hypnotist,8
+17,Adam Sandler,7,What the Hell Happened to Me?,1996,3,76,Steve Polychronopolous,9
+17,Adam Sandler,7,What the Hell Happened to Me?,1996,3,79,The Excited Southerner at a Job Interview,10
+17,Adam Sandler,7,What the Hell Happened to Me?,1996,3,69,Do It for Your Mama,11
+17,Adam Sandler,7,What the Hell Happened to Me?,1996,3,67,Crazy Love,12
+17,Adam Sandler,7,What the Hell Happened to Me?,1996,3,81,The Excited Southerner Meets Mel Gibson,13
+17,Adam Sandler,7,What the Hell Happened to Me?,1996,3,77,The Adventures of the Cow,14
+17,Adam Sandler,7,What the Hell Happened to Me?,1996,3,68,Dip Doodle,15
+17,Adam Sandler,7,What the Hell Happened to Me?,1996,3,83,The Excited Southerner Proposes to a Woman,16
+17,Adam Sandler,7,What the Hell Happened to Me?,1996,3,71,Memory Lane,17
+17,Adam Sandler,7,What the Hell Happened to Me?,1996,3,72,Mr. Bake-O,18
+17,Adam Sandler,7,What the Hell Happened to Me?,1996,3,75,Sex or Weight Lifting,19
+17,Adam Sandler,7,What the Hell Happened to Me?,1996,3,86,What the Hell Happened to Me?,20
+18,Aerosmith,8,A Little South of Sanity Disc 1,1998,2,90,Eat the Rich,1
+18,Aerosmith,8,A Little South of Sanity Disc 1,1998,2,95,Love in an Elevator,2
+18,Aerosmith,8,A Little South of Sanity Disc 1,1998,2,91,Falling in Love (Is Hard on the Knees),3
+18,Aerosmith,8,A Little South of Sanity Disc 1,1998,2,98,Same Old Song and Dance,4
+18,Aerosmith,8,A Little South of Sanity Disc 1,1998,2,92,Hole in My Soul,5
+18,Aerosmith,8,A Little South of Sanity Disc 1,1998,2,96,Monkey on My Back,6
+18,Aerosmith,8,A Little South of Sanity Disc 1,1998,2,94,Livin' on the Edge,7
+18,Aerosmith,8,A Little South of Sanity Disc 1,1998,2,89,Cryin',8
+18,Aerosmith,8,A Little South of Sanity Disc 1,1998,2,97,Rag Doll,9
+18,Aerosmith,8,A Little South of Sanity Disc 1,1998,2,88,Angel,10
+18,Aerosmith,8,A Little South of Sanity Disc 1,1998,2,93,Janie's Got a Gun,11
+18,Aerosmith,8,A Little South of Sanity Disc 1,1998,2,87,Amazing,12
+18,Aerosmith,9,A Little South of Sanity Disc 2,1998,2,99,Back in the Saddle,1
+18,Aerosmith,9,A Little South of Sanity Disc 2,1998,2,103,Last Child,2
+18,Aerosmith,9,A Little South of Sanity Disc 2,1998,2,106,The Other Side,3
+18,Aerosmith,9,A Little South of Sanity Disc 2,1998,2,107,Walk On Down,4
+18,Aerosmith,9,A Little South of Sanity Disc 2,1998,2,101,Dream On,5
+18,Aerosmith,9,A Little South of Sanity Disc 2,1998,2,100,Crazy,6
+18,Aerosmith,9,A Little South of Sanity Disc 2,1998,2,104,Mama Kin,7
+18,Aerosmith,9,A Little South of Sanity Disc 2,1998,2,108,Walk This Way,8
+18,Aerosmith,9,A Little South of Sanity Disc 2,1998,2,102,Dude (Looks Like a Lady),9
+18,Aerosmith,9,A Little South of Sanity Disc 2,1998,2,109,What It Takes,10
+18,Aerosmith,9,A Little South of Sanity Disc 2,1998,2,105,Sweet Emotion,11
+18,Aerosmith,10,Get a Grip,1993,2,119,Intro,1
+18,Aerosmith,10,Get a Grip,1993,2,114,Eat the Rich,2
+18,Aerosmith,10,Get a Grip,1993,2,117,Get a Grip,3
+18,Aerosmith,10,Get a Grip,1993,2,115,Fever,4
+18,Aerosmith,10,Get a Grip,1993,2,121,Livin’ on the Edge,5
+18,Aerosmith,10,Get a Grip,1993,2,116,Flesh,6
+18,Aerosmith,10,Get a Grip,1993,2,123,Walk on Down,7
+18,Aerosmith,10,Get a Grip,1993,2,122,Shut Up and Dance,8
+18,Aerosmith,10,Get a Grip,1993,2,113,Cryin’,9
+18,Aerosmith,10,Get a Grip,1993,2,118,Gotta Love It,10
+18,Aerosmith,10,Get a Grip,1993,2,112,Crazy,11
+18,Aerosmith,10,Get a Grip,1993,2,120,Line Up,12
+18,Aerosmith,10,Get a Grip,1993,2,110,Amazing,13
+18,Aerosmith,10,Get a Grip,1993,2,111,Boogie Man,14
+18,Aerosmith,11,Honkin' On Bobo,2004,2,130,Road Runner,1
+18,Aerosmith,11,Honkin' On Bobo,2004,2,131,Shame, Shame, Shame,2
+18,Aerosmith,11,Honkin' On Bobo,2004,2,126,Eyesight to the Blind,3
+18,Aerosmith,11,Honkin' On Bobo,2004,2,124,Baby, Please Don't Go,4
+18,Aerosmith,11,Honkin' On Bobo,2004,2,129,Never Loved a Girl,5
+18,Aerosmith,11,Honkin' On Bobo,2004,2,125,Back Back Train,6
+18,Aerosmith,11,Honkin' On Bobo,2004,2,135,You Gotta Move,7
+18,Aerosmith,11,Honkin' On Bobo,2004,2,134,The Grind,8
+18,Aerosmith,11,Honkin' On Bobo,2004,2,127,I'm Ready,9
+18,Aerosmith,11,Honkin' On Bobo,2004,2,133,Temperature,10
+18,Aerosmith,11,Honkin' On Bobo,2004,2,132,Stop Messin' Around,11
+18,Aerosmith,11,Honkin' On Bobo,2004,2,128,Jesus Is On The Main Line,12
+18,Aerosmith,12,Just Push Play,2001,2,137,Beyond Beautiful,1
+18,Aerosmith,12,Just Push Play,2001,2,141,Just Push Play,2
+18,Aerosmith,12,Just Push Play,2001,2,140,Jaded,3
+18,Aerosmith,12,Just Push Play,2001,2,139,Fly Away From Here,4
+18,Aerosmith,12,Just Push Play,2001,2,146,Trip Hoppin',5
+18,Aerosmith,12,Just Push Play,2001,2,145,Sunshine,6
+18,Aerosmith,12,Just Push Play,2001,2,147,Under My Skin,7
+18,Aerosmith,12,Just Push Play,2001,2,143,Luv Lies,8
+18,Aerosmith,12,Just Push Play,2001,2,144,Outta Your Head,9
+18,Aerosmith,12,Just Push Play,2001,2,138,Drop Dead Gorgeous,10
+18,Aerosmith,12,Just Push Play,2001,2,142,Light Inside,11
+18,Aerosmith,12,Just Push Play,2001,2,136,Avant Garden,12
+18,Aerosmith,13,Nine Lives,1997,2,156,Nine Lives,1
+18,Aerosmith,13,Nine Lives,1997,2,152,Falling in Love (Is Hard on the Knees),2
+18,Aerosmith,13,Nine Lives,1997,2,154,Hole in My Soul,3
+18,Aerosmith,13,Nine Lives,1997,2,159,Taste of India,4
+18,Aerosmith,13,Nine Lives,1997,2,153,Full Circle,5
+18,Aerosmith,13,Nine Lives,1997,2,158,Something's Gotta Give,6
+18,Aerosmith,13,Nine Lives,1997,2,148,Ain't That a Bitch,7
+18,Aerosmith,13,Nine Lives,1997,2,160,The Farm,8
+18,Aerosmith,13,Nine Lives,1997,2,150,Crash,9
+18,Aerosmith,13,Nine Lives,1997,2,155,Kiss Your Past Good-Bye,10
+18,Aerosmith,13,Nine Lives,1997,2,157,Pink,11
+18,Aerosmith,13,Nine Lives,1997,2,149,Attitude Adjustment,12
+18,Aerosmith,13,Nine Lives,1997,2,151,Fallen Angels,13
+18,Aerosmith,14,Permanent Vacation,1987,2,165,Heart's Done Time,1
+18,Aerosmith,14,Permanent Vacation,1987,2,167,Magic Touch,2
+18,Aerosmith,14,Permanent Vacation,1987,2,169,Rag Doll,3
+18,Aerosmith,14,Permanent Vacation,1987,2,170,Simoriah,4
+18,Aerosmith,14,Permanent Vacation,1987,2,162,Dude (Looks Like A Lady),5
+18,Aerosmith,14,Permanent Vacation,1987,2,171,St. John,6
+18,Aerosmith,14,Permanent Vacation,1987,2,164,Hangman Jury,7
+18,Aerosmith,14,Permanent Vacation,1987,2,163,Girl Keeps Coming Apart,8
+18,Aerosmith,14,Permanent Vacation,1987,2,161,Angel,9
+18,Aerosmith,14,Permanent Vacation,1987,2,168,Permanent Vacation,10
+18,Aerosmith,14,Permanent Vacation,1987,2,166,I'm Down,11
+18,Aerosmith,14,Permanent Vacation,1987,2,172,The Movie,12
+18,Aerosmith,15,Pump,1989,2,182,Young Lust,1
+18,Aerosmith,15,Pump,1989,2,175,F.I.N.E.,2
+18,Aerosmith,15,Pump,1989,2,176,Going Down / Love In An Elevator,3
+18,Aerosmith,15,Pump,1989,2,178,Monkey On My Back,4
+18,Aerosmith,15,Pump,1989,2,180,Water Song / Janie's Got A Gun,5
+18,Aerosmith,15,Pump,1989,2,174,Dulcimer Stomp / The Other Side,6
+18,Aerosmith,15,Pump,1989,2,179,My Girl,7
+18,Aerosmith,15,Pump,1989,2,173,Don't Get Mad, Get Even,8
+18,Aerosmith,15,Pump,1989,2,177,Hoodoo / Voodoo Medicine Man,9
+18,Aerosmith,15,Pump,1989,2,181,What It Takes,10
+18,Aerosmith,16,Toys In The Attic,1975,2,188,Toys In The Attic,1
+18,Aerosmith,16,Toys In The Attic,1975,2,189,Uncle Salty,2
+18,Aerosmith,16,Toys In The Attic,1975,2,183,Adam's Apple,3
+18,Aerosmith,16,Toys In The Attic,1975,2,190,Walk This Way,4
+18,Aerosmith,16,Toys In The Attic,1975,2,184,Big Ten Inch Record,5
+18,Aerosmith,16,Toys In The Attic,1975,2,187,Sweet Emotion,6
+18,Aerosmith,16,Toys In The Attic,1975,2,185,No More No More,7
+18,Aerosmith,16,Toys In The Attic,1975,2,186,Round And Round,8
+18,Aerosmith,16,Toys In The Attic,1975,2,191,You See Me Crying,9
+19,Al Di Meola,17,World Sinfonia/Heart Of The Immigrants,1993,4,198,Nightclub 1960,1
+19,Al Di Meola,17,World Sinfonia/Heart Of The Immigrants,1993,4,204,Vistaero,2
+19,Al Di Meola,17,World Sinfonia/Heart Of The Immigrants,1993,4,194,Carousel Requiem,3
+19,Al Di Meola,17,World Sinfonia/Heart Of The Immigrants,1993,4,201,Tango II,4
+19,Al Di Meola,17,World Sinfonia/Heart Of The Immigrants,1993,4,203,Under A Dark Moon,5
+19,Al Di Meola,17,World Sinfonia/Heart Of The Immigrants,1993,4,192,Bordel 1900,6
+19,Al Di Meola,17,World Sinfonia/Heart Of The Immigrants,1993,4,196,Indigo,7
+19,Al Di Meola,17,World Sinfonia/Heart Of The Immigrants,1993,4,195,Heru Mertar / Don't Go So Far Away,8
+19,Al Di Meola,17,World Sinfonia/Heart Of The Immigrants,1993,4,199,Parranda,9
+19,Al Di Meola,17,World Sinfonia/Heart Of The Immigrants,1993,4,200,Someday My Prince Will Come,10
+19,Al Di Meola,17,World Sinfonia/Heart Of The Immigrants,1993,4,193,Cafe 1930,11
+19,Al Di Meola,17,World Sinfonia/Heart Of The Immigrants,1993,4,202,They Love Me From Fifteen Feet Away,12
+19,Al Di Meola,17,World Sinfonia/Heart Of The Immigrants,1993,4,197,Milonga Del Angel,13
+50,Al Kooper/Mike Bloomfield/Stephen Stills,71,Super Session,2003,2,755,Albert's Shuffle,1
+50,Al Kooper/Mike Bloomfield/Stephen Stills,71,Super Session,2003,2,762,Stop,2
+50,Al Kooper/Mike Bloomfield/Stephen Stills,71,Super Session,2003,2,759,Man's Temptation,3
+50,Al Kooper/Mike Bloomfield/Stephen Stills,71,Super Session,2003,2,757,His Holy Modal Majesty,4
+50,Al Kooper/Mike Bloomfield/Stephen Stills,71,Super Session,2003,2,760,Really,5
+50,Al Kooper/Mike Bloomfield/Stephen Stills,71,Super Session,2003,2,758,It Takes A Lot To Laugh, It Takes A Train To Cry,6
+50,Al Kooper/Mike Bloomfield/Stephen Stills,71,Super Session,2003,2,761,Season Of The Witch,7
+50,Al Kooper/Mike Bloomfield/Stephen Stills,71,Super Session,2003,2,763,You Don't Love Me,8
+50,Al Kooper/Mike Bloomfield/Stephen Stills,71,Super Session,2003,2,756,Harvey's Tune,9
+20,Alan Price,18,Alan Price,1977,5,213,Rainbow's End,1
+20,Alan Price,18,Alan Price,1977,5,207,I've Been Hurt,2
+20,Alan Price,18,Alan Price,1977,5,205,I Wanna Dance,3
+20,Alan Price,18,Alan Price,1977,5,210,Let Yourself Go,4
+20,Alan Price,18,Alan Price,1977,5,209,Just For You,5
+20,Alan Price,18,Alan Price,1977,5,206,I'm A Gambler,6
+20,Alan Price,18,Alan Price,1977,5,212,Poor Boy,7
+20,Alan Price,18,Alan Price,1977,5,214,The Same Love,8
+20,Alan Price,18,Alan Price,1977,5,208,Is It Right,9
+20,Alan Price,18,Alan Price,1977,5,211,Life Is Good,10
+20,Alan Price,18,Alan Price,1977,5,215,The Thrill,11
+21,Alanis Morissette,19,Jagged Little Pill,1995,2,216,All I Really Want,1
+21,Alanis Morissette,19,Jagged Little Pill,1995,2,228,You Oughta Know,2
+21,Alanis Morissette,19,Jagged Little Pill,1995,2,223,Perfect,3
+21,Alanis Morissette,19,Jagged Little Pill,1995,2,218,Hand In My Pocket,4
+21,Alanis Morissette,19,Jagged Little Pill,1995,2,224,Right Through You,5
+21,Alanis Morissette,19,Jagged Little Pill,1995,2,217,Forgiven,6
+21,Alanis Morissette,19,Jagged Little Pill,1995,2,226,You Learn,7
+21,Alanis Morissette,19,Jagged Little Pill,1995,2,219,Head Over Feet,8
+21,Alanis Morissette,19,Jagged Little Pill,1995,2,221,Mary Jane,9
+21,Alanis Morissette,19,Jagged Little Pill,1995,2,220,Ironic,10
+21,Alanis Morissette,19,Jagged Little Pill,1995,2,222,Not The Doctor,11
+21,Alanis Morissette,19,Jagged Little Pill,1995,2,225,Wake Up,12
+21,Alanis Morissette,19,Jagged Little Pill,1995,2,227,You Oughta Know (Alternative) - 221863-240780  14. Your House - 245250-258804,13
+21,Alanis Morissette,20,Under Rug Swept,2002,2,229,21 Things I Want in a Lover,1
+21,Alanis Morissette,20,Under Rug Swept,2002,2,233,Narcissus,2
+21,Alanis Morissette,20,Under Rug Swept,2002,2,232,Hands Clean,3
+21,Alanis Morissette,20,Under Rug Swept,2002,2,231,Flinch,4
+21,Alanis Morissette,20,Under Rug Swept,2002,2,235,So Unsexy,5
+21,Alanis Morissette,20,Under Rug Swept,2002,2,234,Precious Illusions,6
+21,Alanis Morissette,20,Under Rug Swept,2002,2,237,That Particular Time,7
+21,Alanis Morissette,20,Under Rug Swept,2002,2,230,A Man,8
+21,Alanis Morissette,20,Under Rug Swept,2002,2,239,You Owe Me Nothing in Return,9
+21,Alanis Morissette,20,Under Rug Swept,2002,2,236,Surrendering,10
+21,Alanis Morissette,20,Under Rug Swept,2002,2,238,Utopia,11
+22,Albert Collins,21,Ice Pickin',1978,6,243,Honey Hush!,1
+22,Albert Collins,21,Ice Pickin',1978,6,247,When The Welfare Turns It's Back On You,2
+22,Albert Collins,21,Ice Pickin',1978,6,244,Ice Pick,3
+22,Albert Collins,21,Ice Pickin',1978,6,241,Cold Cold Feeling,4
+22,Albert Collins,21,Ice Pickin',1978,6,246,Too Tired,5
+22,Albert Collins,21,Ice Pickin',1978,6,245,Master Charge,6
+22,Albert Collins,21,Ice Pickin',1978,6,242,Conversation With Collins,7
+22,Albert Collins,21,Ice Pickin',1978,6,240,Avalanche,8
+23,Albert King,22,Best of Albert King Vol. 1,1986,6,257,I'll Play the Blues For You (Parts 1 and 2),1
+23,Albert King,22,Best of Albert King Vol. 1,1986,6,258,Killing Floor,2
+23,Albert King,22,Best of Albert King Vol. 1,1986,6,254,Honky Tonk Woman,3
+23,Albert King,22,Best of Albert King Vol. 1,1986,6,259,Sky Is Crying,4
+23,Albert King,22,Best of Albert King Vol. 1,1986,6,251,Breaking Up Somebody's Home,5
+23,Albert King,22,Best of Albert King Vol. 1,1986,6,255,Hound Dog,6
+23,Albert King,22,Best of Albert King Vol. 1,1986,6,260,That's What The Blues Is All About,7
+23,Albert King,22,Best of Albert King Vol. 1,1986,6,248,Angel Of Mercy,8
+23,Albert King,22,Best of Albert King Vol. 1,1986,6,253,Everybody Wants To Go To Heaven,9
+23,Albert King,22,Best of Albert King Vol. 1,1986,6,252,Can't You See What You're Doing To Me,10
+23,Albert King,22,Best of Albert King Vol. 1,1986,6,249,Answer To The Laundromat Blues,11
+23,Albert King,22,Best of Albert King Vol. 1,1986,6,256,I Wanna Get Funky,12
+23,Albert King,22,Best of Albert King Vol. 1,1986,6,250,Blues Power,13
+24,Alice Cooper,23,Billion Dollar Babies,1989,2,261,No More Mr. Nice Guy,6
+24,Alice Cooper,24,Easy Action,1970,2,266,Mr. & Misdemeanor,1
+24,Alice Cooper,24,Easy Action,1970,2,269,Shoe Salesman,2
+24,Alice Cooper,24,Easy Action,1970,2,270,Still No Air,3
+24,Alice Cooper,24,Easy Action,1970,2,263,Below Your Means,4
+24,Alice Cooper,24,Easy Action,1970,2,268,Return of the Spiders,5
+24,Alice Cooper,24,Easy Action,1970,2,264,Laughing at Me,6
+24,Alice Cooper,24,Easy Action,1970,2,267,Refrigerator Heaven,7
+24,Alice Cooper,24,Easy Action,1970,2,262,Beautiful Flyaway,8
+24,Alice Cooper,24,Easy Action,1970,2,265,Lay Down and Die, Goodbye,9
+24,Alice Cooper,25,Killer,1971,2,276,Under My Wheels,1
+24,Alice Cooper,25,Killer,1971,2,271,Be My Lover,2
+24,Alice Cooper,25,Killer,1971,2,274,Halo of Flies,3
+24,Alice Cooper,25,Killer,1971,2,273,Desperado,4
+24,Alice Cooper,25,Killer,1971,2,278,You Drive Me Nervous,5
+24,Alice Cooper,25,Killer,1971,2,277,Yeah, Yeah, Yeah,6
+24,Alice Cooper,25,Killer,1971,2,272,Dead Babies,7
+24,Alice Cooper,25,Killer,1971,2,275,Killer,8
+24,Alice Cooper,26,Love It to Death,1971,2,281,Caught in a Dream,1
+24,Alice Cooper,26,Love It to Death,1971,2,284,I’m Eighteen,2
+24,Alice Cooper,26,Love It to Death,1971,2,285,Long Way to Go,3
+24,Alice Cooper,26,Love It to Death,1971,2,280,Black Juju,4
+24,Alice Cooper,26,Love It to Death,1971,2,283,Is It My Body,5
+24,Alice Cooper,26,Love It to Death,1971,2,282,Hallowed Be My Name,6
+24,Alice Cooper,26,Love It to Death,1971,2,286,Second Coming,7
+24,Alice Cooper,26,Love It to Death,1971,2,279,Ballad of Dwight Fry,8
+24,Alice Cooper,26,Love It to Death,1971,2,287,Sun Arise,9
+24,Alice Cooper,27,Pretties For You,2012,2,299,Titanic Overture,1
+24,Alice Cooper,27,Pretties For You,2012,2,288,10 Minutes Before the Worm,2
+24,Alice Cooper,27,Pretties For You,2012,2,298,Swing Low Sweet Cheerio,3
+24,Alice Cooper,27,Pretties For You,2012,2,300,Today Mueller,4
+24,Alice Cooper,27,Pretties For You,2012,2,295,Living,5
+24,Alice Cooper,27,Pretties For You,2012,2,293,Fields of Regret,6
+24,Alice Cooper,27,Pretties For You,2012,2,296,No Longer Umpire,7
+24,Alice Cooper,27,Pretties For You,2012,2,294,Levity Ball,8
+24,Alice Cooper,27,Pretties For You,2012,2,290,B.B. on Mars,9
+24,Alice Cooper,27,Pretties For You,2012,2,297,Reflected,10
+24,Alice Cooper,27,Pretties For You,2012,2,289,Apple Bush,11
+24,Alice Cooper,27,Pretties For You,2012,2,292,Earwigs to Eternity,12
+24,Alice Cooper,27,Pretties For You,2012,2,291,Changing Arranging,13
+24,Alice Cooper,28,School’s Out,1972,2,308,School’s Out,1
+24,Alice Cooper,28,School’s Out,1972,2,305,Luney Tune,2
+24,Alice Cooper,28,School’s Out,1972,2,304,Gutter Cat vs. The Jets,3
+24,Alice Cooper,28,School’s Out,1972,2,309,Street Fight,4
+24,Alice Cooper,28,School’s Out,1972,2,302,Blue Turk,5
+24,Alice Cooper,28,School’s Out,1972,2,306,My Stars,6
+24,Alice Cooper,28,School’s Out,1972,2,307,Public Animal #9,7
+24,Alice Cooper,28,School’s Out,1972,2,301,Alma Mater,8
+24,Alice Cooper,28,School’s Out,1972,2,303,Grande Finale,9
+24,Alice Cooper,29,The Eyes Of Alice Cooper,2008,2,310,Detroit City,7
+25,Amazon Mollies,30,Promised Land,2000,2,314,Tina,1
+25,Amazon Mollies,30,Promised Land,2000,2,311,Promised Land,2
+25,Amazon Mollies,30,Promised Land,2000,2,315,Virtual Love,3
+25,Amazon Mollies,30,Promised Land,2000,2,312,Punk Rock Revolution,4
+25,Amazon Mollies,30,Promised Land,2000,2,313,Theraven,5
+26,Amy Grant,31,Home for Christmas,1992,1,319,Have Yourself a Merry Little Christmas,1
+26,Amy Grant,31,Home for Christmas,1992,1,321,It's the Most Wonderful Time of the Year,2
+26,Amy Grant,31,Home for Christmas,1992,1,323,Joy to the World/For Unto Us a Child Is Born,3
+26,Amy Grant,31,Home for Christmas,1992,1,316,Breath of Heaven (Mary's Song),4
+26,Amy Grant,31,Home for Christmas,1992,1,324,O Come All Ye Faithful,5
+26,Amy Grant,31,Home for Christmas,1992,1,318,Grown-Up Christmas List,6
+26,Amy Grant,31,Home for Christmas,1992,1,325,Rockin' Around the Christmas Tree,7
+26,Amy Grant,31,Home for Christmas,1992,1,327,Winter Wonderland,8
+26,Amy Grant,31,Home for Christmas,1992,1,320,I'll Be Home for Christmas,9
+26,Amy Grant,31,Home for Christmas,1992,1,326,The Night Before Christmas,10
+26,Amy Grant,31,Home for Christmas,1992,1,317,Emmanuel, God With Us,11
+26,Amy Grant,31,Home for Christmas,1992,1,322,Jesu, Joy of Man's Desiring,12
+27,Ana Popovic,32,Ana Popovic & Hush: Hometown,1998,6,329,Game Of Love,1
+27,Ana Popovic,32,Ana Popovic & Hush: Hometown,1998,6,334,My Hometown,2
+27,Ana Popovic,32,Ana Popovic & Hush: Hometown,1998,6,330,Girl Of Many Words,3
+27,Ana Popovic,32,Ana Popovic & Hush: Hometown,1998,6,336,New York City,4
+27,Ana Popovic,32,Ana Popovic & Hush: Hometown,1998,6,335,Neighbor, Neighbor,5
+27,Ana Popovic,32,Ana Popovic & Hush: Hometown,1998,6,333,Learn To Treat Me Right,6
+27,Ana Popovic,32,Ana Popovic & Hush: Hometown,1998,6,331,Grab Your Life,7
+27,Ana Popovic,32,Ana Popovic & Hush: Hometown,1998,6,332,I'm About To Leave You,8
+27,Ana Popovic,32,Ana Popovic & Hush: Hometown,1998,6,328,Breaking Up Somebody's Home,9
+27,Ana Popovic,32,Ana Popovic & Hush: Hometown,1998,6,338,That's Why I Cry,10
+27,Ana Popovic,32,Ana Popovic & Hush: Hometown,1998,6,337,Statesboro Blues,11
+27,Ana Popovic,33,Can You Stand the Heat,2013,6,341,Can You Stand the Heat,1
+27,Ana Popovic,33,Can You Stand the Heat,2013,6,342,Can't You See What You're Doing to Me,2
+27,Ana Popovic,33,Can You Stand the Heat,2013,6,347,Mo' Better Love,3
+27,Ana Popovic,33,Can You Stand the Heat,2013,6,348,Object of Obsession,4
+27,Ana Popovic,33,Can You Stand the Heat,2013,6,340,Boys' Night Out,5
+27,Ana Popovic,33,Can You Stand the Heat,2013,6,345,Hot Southern Night (feat. Lucky Peterson),6
+27,Ana Popovic,33,Can You Stand the Heat,2013,6,343,Every Kind of People,7
+27,Ana Popovic,33,Can You Stand the Heat,2013,6,339,Ana's Shuffle,8
+27,Ana Popovic,33,Can You Stand the Heat,2013,6,346,Leave Well Enough Alone Aka: High Maintenance You,10
+27,Ana Popovic,33,Can You Stand the Heat,2013,6,349,Rain Fall Down,12
+27,Ana Popovic,33,Can You Stand the Heat,2013,6,344,Growing up Too Soon,13
+27,Ana Popovic,34,Jam Session With Paul Personne,2008,6,351,Jam Session,1
+27,Ana Popovic,34,Jam Session With Paul Personne,2008,6,350,Hungry,2
+27,Ana Popovic,34,Jam Session With Paul Personne,2008,6,353,The Hustle Is On,3
+27,Ana Popovic,34,Jam Session With Paul Personne,2008,6,352,Night By Night,4
+27,Ana Popovic,35,The Queen Of Blues Guitar,2007,6,359,Love Fever,1
+27,Ana Popovic,35,The Queen Of Blues Guitar,2007,6,355,Comfort To The Soul,3
+27,Ana Popovic,35,The Queen Of Blues Guitar,2007,6,357,Downtown,4
+27,Ana Popovic,35,The Queen Of Blues Guitar,2007,6,362,Neighbour, Neighbour,5
+27,Ana Popovic,35,The Queen Of Blues Guitar,2007,6,361,Mended,6
+27,Ana Popovic,35,The Queen Of Blues Guitar,2007,6,365,Sittin' On Top Of The World,7
+27,Ana Popovic,35,The Queen Of Blues Guitar,2007,6,356,Don't Bear Down On Me (I'm Here To Steal The Show),10
+27,Ana Popovic,35,The Queen Of Blues Guitar,2007,6,366,Walk Away,11
+27,Ana Popovic,35,The Queen Of Blues Guitar,2007,6,364,Recall The Days,12
+27,Ana Popovic,35,The Queen Of Blues Guitar,2007,6,363,New-York City,13
+27,Ana Popovic,35,The Queen Of Blues Guitar,2007,6,358,How Lonely Can A Woman Get,14
+27,Ana Popovic,35,The Queen Of Blues Guitar,2007,6,360,Love Me Again,15
+27,Ana Popovic,35,The Queen Of Blues Guitar,2007,6,354,Change My Mind,17
+27,Ana Popovic,36,Unconditional,2011,6,369,Fearless Blues,1
+27,Ana Popovic,36,Unconditional,2011,6,368,Count Me In,2
+27,Ana Popovic,36,Unconditional,2011,6,375,Unconditional,3
+27,Ana Popovic,36,Unconditional,2011,6,371,Reset Rewind,4
+27,Ana Popovic,36,Unconditional,2011,6,372,Slideshow,5
+27,Ana Popovic,36,Unconditional,2011,6,367,Business as Usual,6
+27,Ana Popovic,36,Unconditional,2011,6,378,Your Love Ain't Real,7
+27,Ana Popovic,36,Unconditional,2011,6,377,Work Song,8
+27,Ana Popovic,36,Unconditional,2011,6,374,Summer Rain,9
+27,Ana Popovic,36,Unconditional,2011,6,376,Voodoo Woman,10
+27,Ana Popovic,36,Unconditional,2011,6,370,One Room Country Shack,11
+27,Ana Popovic,36,Unconditional,2011,6,373,Soulful Dress,12
+98,Andrew Lloyd Webber,121,Cats,1983,9,1321,The Overture,1
+98,Andrew Lloyd Webber,121,Cats,1983,9,1316,Prologue: Jellicle Songs for Jellicle Cats,2
+98,Andrew Lloyd Webber,121,Cats,1983,9,1319,The Naming of Cats,3
+98,Andrew Lloyd Webber,121,Cats,1983,9,1317,The Invitation to the Jellicle Ball,4
+98,Andrew Lloyd Webber,121,Cats,1983,9,1320,The Old Gumbie Cat,5
+98,Andrew Lloyd Webber,121,Cats,1983,9,1322,The Rum Tum Tugger,6
+98,Andrew Lloyd Webber,121,Cats,1983,9,1312,Grizabella: The Glamour Cat,7
+98,Andrew Lloyd Webber,121,Cats,1983,9,1311,Bustopher Jones,8
+98,Andrew Lloyd Webber,121,Cats,1983,9,1314,Mungojerrie and Rumpelteazer,9
+98,Andrew Lloyd Webber,121,Cats,1983,9,1315,Old Deuteronomy,10
+98,Andrew Lloyd Webber,121,Cats,1983,9,1318,The Jellicle Ball,11
+98,Andrew Lloyd Webber,121,Cats,1983,9,1313,Grizabella,12
+98,Andrew Lloyd Webber,400,Jesus Christ Superstar,1970,9,4307,Overture,1
+98,Andrew Lloyd Webber,400,Jesus Christ Superstar,1970,9,4322,The Last Supper,1
+98,Andrew Lloyd Webber,400,Jesus Christ Superstar,1970,9,4304,Heaven on Their Minds,2
+98,Andrew Lloyd Webber,400,Jesus Christ Superstar,1970,9,4314,Gethsemane (I Only Want to Say),2
+98,Andrew Lloyd Webber,400,Jesus Christ Superstar,1970,9,4312,What’s the Buzz / Strange Thing Mystifying,3
+98,Andrew Lloyd Webber,400,Jesus Christ Superstar,1970,9,4321,The Arrest,3
+98,Andrew Lloyd Webber,400,Jesus Christ Superstar,1970,9,4318,Peter’s Denial,4
+98,Andrew Lloyd Webber,400,Jesus Christ Superstar,1970,9,4319,Pilate and Christ,5
+98,Andrew Lloyd Webber,400,Jesus Christ Superstar,1970,9,4311,This Jesus Must Die,5
+98,Andrew Lloyd Webber,400,Jesus Christ Superstar,1970,9,4305,Hosanna,6
+98,Andrew Lloyd Webber,400,Jesus Christ Superstar,1970,9,4317,King Herod’s Song (Try It and See),6
+98,Andrew Lloyd Webber,400,Jesus Christ Superstar,1970,9,4316,Judas’ Death,7
+98,Andrew Lloyd Webber,400,Jesus Christ Superstar,1970,9,4309,Simon Zealotes / Poor Jerusalem,7
+98,Andrew Lloyd Webber,400,Jesus Christ Superstar,1970,9,4308,Pilate’s Dream,8
+98,Andrew Lloyd Webber,400,Jesus Christ Superstar,1970,9,4323,Trial Before Pilate (including the 39 Lashes),8
+98,Andrew Lloyd Webber,400,Jesus Christ Superstar,1970,9,4320,Superstar,9
+98,Andrew Lloyd Webber,400,Jesus Christ Superstar,1970,9,4310,The Temple,9
+98,Andrew Lloyd Webber,400,Jesus Christ Superstar,1970,9,4313,Crucifixion,10
+98,Andrew Lloyd Webber,400,Jesus Christ Superstar,1970,9,4303,Everything’s Alright,10
+98,Andrew Lloyd Webber,400,Jesus Christ Superstar,1970,9,4306,I Don’t Know How to Love Him,11
+98,Andrew Lloyd Webber,400,Jesus Christ Superstar,1970,9,4315,John Nineteen Forty-One,11
+98,Andrew Lloyd Webber,400,Jesus Christ Superstar,1970,9,4302,Damned for All Time / Blood Money,12
+28,Anti-Flag,37,A New Kind of Army,1999,7,389,Tearing Everyone Down,1
+28,Anti-Flag,37,A New Kind of Army,1999,7,380,Captain Anarchy,2
+28,Anti-Flag,37,A New Kind of Army,1999,7,379,A New Kind of Army,3
+28,Anti-Flag,37,A New Kind of Army,1999,7,390,That's Youth,4
+28,Anti-Flag,37,A New Kind of Army,1999,7,384,No Apology,5
+28,Anti-Flag,37,A New Kind of Army,1999,7,382,Got the Numbers,6
+28,Anti-Flag,37,A New Kind of Army,1999,7,385,No Difference,7
+28,Anti-Flag,37,A New Kind of Army,1999,7,383,I Don't Believe,8
+28,Anti-Flag,37,A New Kind of Army,1999,7,388,Right On,9
+28,Anti-Flag,37,A New Kind of Army,1999,7,393,What You Don't Know,10
+28,Anti-Flag,37,A New Kind of Army,1999,7,381,Free Nation?,11
+28,Anti-Flag,37,A New Kind of Army,1999,7,386,Outbreak,12
+28,Anti-Flag,37,A New Kind of Army,1999,7,387,Police Story,13
+28,Anti-Flag,37,A New Kind of Army,1999,7,391,The Consumer's Song,14
+28,Anti-Flag,37,A New Kind of Army,1999,7,392,This Is Not a Crass Song,15
+29,Aretha Franklin,38,20 Greatest Hits,1987,8,402,I Never Loved A Man (The Way I Love You),1
+29,Aretha Franklin,38,20 Greatest Hits,1987,8,405,Respect,2
+29,Aretha Franklin,38,20 Greatest Hits,1987,8,399,Do Right Woman, Do Right Man,3
+29,Aretha Franklin,38,20 Greatest Hits,1987,8,401,Dr. Feelgood,4
+29,Aretha Franklin,38,20 Greatest Hits,1987,8,394,(You Make Me Feel Like) A Natural Woman,5
+29,Aretha Franklin,38,20 Greatest Hits,1987,8,397,Chain Of Fools,6
+29,Aretha Franklin,38,20 Greatest Hits,1987,8,407,Save Me,7
+29,Aretha Franklin,38,20 Greatest Hits,1987,8,410,The House That Jack Built,8
+29,Aretha Franklin,38,20 Greatest Hits,1987,8,411,Think,9
+29,Aretha Franklin,38,20 Greatest Hits,1987,8,403,I Say A Little Prayer,10
+29,Aretha Franklin,38,20 Greatest Hits,1987,8,408,See Saw,11
+29,Aretha Franklin,38,20 Greatest Hits,1987,8,398,Daydreaming,12
+29,Aretha Franklin,38,20 Greatest Hits,1987,8,396,Call Me,13
+29,Aretha Franklin,38,20 Greatest Hits,1987,8,400,Don't Play That Song,14
+29,Aretha Franklin,38,20 Greatest Hits,1987,8,413,You're All I Need To Get By,15
+29,Aretha Franklin,38,20 Greatest Hits,1987,8,404,I'm In Love,16
+29,Aretha Franklin,38,20 Greatest Hits,1987,8,409,Spanish Harlem,17
+29,Aretha Franklin,38,20 Greatest Hits,1987,8,395,Angel,18
+29,Aretha Franklin,38,20 Greatest Hits,1987,8,406,Rock Steady,19
+29,Aretha Franklin,38,20 Greatest Hits,1987,8,412,Until You Come Back To Me,20
+30,Argent,39,All Together Now,1972,2,416,Hold Your Head Up,1
+30,Argent,39,All Together Now,1972,2,418,Keep On Rollin',2
+30,Argent,39,All Together Now,1972,2,420,Tragedy,3
+30,Argent,39,All Together Now,1972,2,417,I Am The Dance Of Ages,4
+30,Argent,39,All Together Now,1972,2,414,Be My Lover, Be My Friend,5
+30,Argent,39,All Together Now,1972,2,415,He's A Dynamo,6
+30,Argent,39,All Together Now,1972,2,419,Pure Love,7
+31,B.B. King,40,Live In Cook County Jail,1971,6,423,Introductions,1
+31,B.B. King,40,Live In Cook County Jail,1971,6,421,Every Day I Have The Blues,2
+31,B.B. King,40,Live In Cook County Jail,1971,6,422,How Blue Can You Get?,3
+31,B.B. King,40,Live In Cook County Jail,1971,6,428,Worry, Worry,4
+31,B.B. King,40,Live In Cook County Jail,1971,6,424,Medley: 3 O'Clock Blues/Darlin' You Know I Love You,5
+31,B.B. King,40,Live In Cook County Jail,1971,6,426,Sweet Sixteen,6
+31,B.B. King,40,Live In Cook County Jail,1971,6,427,The Thrill Is Gone,7
+31,B.B. King,40,Live In Cook County Jail,1971,6,425,Please Accept My Love,8
+31,B.B. King,41,Riding With the King,2000,6,436,Riding With the King,1
+31,B.B. King,41,Riding With the King,2000,6,437,Ten Long Years,2
+31,B.B. King,41,Riding With the King,2000,6,434,Key to the Highway,3
+31,B.B. King,41,Riding With the King,2000,6,435,Marry You,4
+31,B.B. King,41,Riding With the King,2000,6,438,Three O’Clock Blues,5
+31,B.B. King,41,Riding With the King,2000,6,431,Help the Poor,6
+31,B.B. King,41,Riding With the King,2000,6,433,I Wanna Be,7
+31,B.B. King,41,Riding With the King,2000,6,440,Worried Life Blues,8
+31,B.B. King,41,Riding With the King,2000,6,430,Days of Old,9
+31,B.B. King,41,Riding With the King,2000,6,439,When My Heart Beats Like a Hammer,10
+31,B.B. King,41,Riding With the King,2000,6,432,Hold On I’m Coming,11
+31,B.B. King,41,Riding With the King,2000,6,429,Come Rain or Come Shine,12
+32,Bachman-Turner Overdrive,42,Bachman-Turner Overdrive,1973,2,444,Gimme Your Money Please,1
+32,Bachman-Turner Overdrive,42,Bachman-Turner Overdrive,1973,2,445,Hold Back The Water,2
+32,Bachman-Turner Overdrive,42,Bachman-Turner Overdrive,1973,2,441,Blue Collar,3
+32,Bachman-Turner Overdrive,42,Bachman-Turner Overdrive,1973,2,446,Little Gandy Dancer,4
+32,Bachman-Turner Overdrive,42,Bachman-Turner Overdrive,1973,2,447,Stayed Awake All Night,5
+32,Bachman-Turner Overdrive,42,Bachman-Turner Overdrive,1973,2,443,Down And Out Man,6
+32,Bachman-Turner Overdrive,42,Bachman-Turner Overdrive,1973,2,442,Don't Get Yourself In Trouble,7
+32,Bachman-Turner Overdrive,42,Bachman-Turner Overdrive,1973,2,448,Thank You For The Feelin',8
+32,Bachman-Turner Overdrive,43,Bachman-Turner Overdrive II,1973,2,449,Blown,1
+32,Bachman-Turner Overdrive,43,Bachman-Turner Overdrive II,1973,2,456,Welcome Home,2
+32,Bachman-Turner Overdrive,43,Bachman-Turner Overdrive II,1973,2,453,Stonegates,3
+32,Bachman-Turner Overdrive,43,Bachman-Turner Overdrive II,1973,2,452,Let It Ride,4
+32,Bachman-Turner Overdrive,43,Bachman-Turner Overdrive II,1973,2,450,Give It Time,5
+32,Bachman-Turner Overdrive,43,Bachman-Turner Overdrive II,1973,2,455,Tramp,6
+32,Bachman-Turner Overdrive,43,Bachman-Turner Overdrive II,1973,2,451,I Don't Have To Hide,7
+32,Bachman-Turner Overdrive,43,Bachman-Turner Overdrive II,1973,2,454,Takin' Care Of Business,8
+32,Bachman-Turner Overdrive,44,Four Wheel Drive,1975,2,459,Four Wheel Drive,1
+32,Bachman-Turner Overdrive,44,Four Wheel Drive,1975,2,463,She's A Devil,2
+32,Bachman-Turner Overdrive,44,Four Wheel Drive,1975,2,460,Hey You,3
+32,Bachman-Turner Overdrive,44,Four Wheel Drive,1975,2,458,Flat Broke Love,4
+32,Bachman-Turner Overdrive,44,Four Wheel Drive,1975,2,464,She's Keepin Time,5
+32,Bachman-Turner Overdrive,44,Four Wheel Drive,1975,2,462,Quick Change Artist,6
+32,Bachman-Turner Overdrive,44,Four Wheel Drive,1975,2,461,Lowland Fling,7
+32,Bachman-Turner Overdrive,44,Four Wheel Drive,1975,2,457,Don't Let The Blues Get You Down,8
+32,Bachman-Turner Overdrive,45,Head On,1975,2,468,Find Out About Love,1
+32,Bachman-Turner Overdrive,45,Head On,1975,2,469,It's Over,2
+32,Bachman-Turner Overdrive,45,Head On,1975,2,465,Average Man,3
+32,Bachman-Turner Overdrive,45,Head On,1975,2,474,Woncha Take Me For A While,4
+32,Bachman-Turner Overdrive,45,Head On,1975,2,473,Wild Spirit,5
+32,Bachman-Turner Overdrive,45,Head On,1975,2,472,Take It Like A Man,6
+32,Bachman-Turner Overdrive,45,Head On,1975,2,470,Lookin' Out For # 1,7
+32,Bachman-Turner Overdrive,45,Head On,1975,2,466,Away From Home,8
+32,Bachman-Turner Overdrive,45,Head On,1975,2,471,Stay Alive,9
+32,Bachman-Turner Overdrive,45,Head On,1975,2,467,Down To The Line [Bonus Track],10
+32,Bachman-Turner Overdrive,46,Not Fragile,1974,2,478,Not Fragile,1
+32,Bachman-Turner Overdrive,46,Not Fragile,1974,2,479,Rock Is My Life, And This Is My Song,2
+32,Bachman-Turner Overdrive,46,Not Fragile,1974,2,480,Roll On Down The Highway,3
+32,Bachman-Turner Overdrive,46,Not Fragile,1974,2,483,You Ain't Seen Nothing Yet,4
+32,Bachman-Turner Overdrive,46,Not Fragile,1974,2,476,Free Wheelin',5
+32,Bachman-Turner Overdrive,46,Not Fragile,1974,2,482,Sledgehammer,6
+32,Bachman-Turner Overdrive,46,Not Fragile,1974,2,475,Blue Moanin',7
+32,Bachman-Turner Overdrive,46,Not Fragile,1974,2,481,Second Hand,8
+32,Bachman-Turner Overdrive,46,Not Fragile,1974,2,477,Givin' It All Away,9
+33,Badfinger,47,Straight Up,1971,5,485,Come And Get It,1
+33,Badfinger,47,Straight Up,1971,5,484,Baby Blue,2
+33,Badfinger,47,Straight Up,1971,5,486,No Matter What,3
+34,Barclay James Harvest,48,Once Again,1995,2,488,She Said,8
+34,Barclay James Harvest,48,Once Again,1995,2,487,Lady Loves,15
+36,BCUC,50,Millions of Us,2023,2,512,The Woods (A1),1
+36,BCUC,50,Millions of Us,2023,2,513,Thonga Lami (Cosmic LP Mix) A2,2
+36,BCUC,50,Millions of Us,2023,2,507,Ntuthwane (A3),3
+36,BCUC,50,Millions of Us,2023,2,505,Millions of Us (B1),4
+36,BCUC,50,Millions of Us,2023,2,509,Pieces of Isht (Digi B-Side 1),5
+36,BCUC,50,Millions of Us,2023,2,508,Ntuthwane (Radio Edit) Digi Single 2,6
+36,BCUC,50,Millions of Us,2023,2,511,Searching (Digi B-Side 2),7
+36,BCUC,50,Millions of Us,2023,2,502,Bonus Track 2: Millions of Us Part 1 (My People),8
+36,BCUC,50,Millions of Us,2023,2,503,Bonus Track 3: Millions of Us Part 2 (Don't stop the music),9
+36,BCUC,50,Millions of Us,2023,2,506,Millions of Us Part 3: Afro Pyschedelic (Digi Single 3),10
+36,BCUC,50,Millions of Us,2023,2,510,Ramaphosisa (Digi B-Side 3),11
+36,BCUC,50,Millions of Us,2023,2,501,Bonus Track 1: "Now we are getting closer to Home" Nkosi,12
+36,BCUC,50,Millions of Us,2023,2,504,Bonus Track 4: Thonga Lami,13
+38,Better Than Ezra,52,Friction, Baby,1996,2,522,King Of New Orleans,1
+38,Better Than Ezra,52,Friction, Baby,1996,2,526,Rewind,2
+38,Better Than Ezra,52,Friction, Baby,1996,2,523,Long Lost,3
+38,Better Than Ezra,52,Friction, Baby,1996,2,524,Normal Town,4
+38,Better Than Ezra,52,Friction, Baby,1996,2,527,Scared, Are You?,5
+38,Better Than Ezra,52,Friction, Baby,1996,2,525,Return Of The Post Moderns,6
+38,Better Than Ezra,52,Friction, Baby,1996,2,521,Hung The Moon,7
+38,Better Than Ezra,52,Friction, Baby,1996,2,519,Desperately Wanting,8
+38,Better Than Ezra,52,Friction, Baby,1996,2,529,Still Life With Cooley,9
+38,Better Than Ezra,52,Friction, Baby,1996,2,530,WWOZ,10
+38,Better Than Ezra,52,Friction, Baby,1996,2,520,Happy Endings,11
+38,Better Than Ezra,52,Friction, Baby,1996,2,528,Speeding Up To Slow Down,12
+38,Better Than Ezra,52,Friction, Baby,1996,2,518,At CH DEGAULLE, Etc.,13
+39,Betty Blowtorch,53,Last Call,2003,7,552,Rock My World,1
+39,Betty Blowtorch,53,Last Call,2003,7,550,Party 'Til Ya Puke,2
+39,Betty Blowtorch,53,Last Call,2003,7,541,I Wanna Be on Epitaph,3
+39,Betty Blowtorch,53,Last Call,2003,7,536,Fish Taco,4
+39,Betty Blowtorch,53,Last Call,2003,7,553,Shrinkwrap,5
+39,Betty Blowtorch,53,Last Call,2003,7,547,Limousines,6
+39,Betty Blowtorch,53,Last Call,2003,7,558,Van,7
+39,Betty Blowtorch,53,Last Call,2003,7,535,Dresses,8
+39,Betty Blowtorch,53,Last Call,2003,7,554,Shut Up and Fuck,9
+39,Betty Blowtorch,53,Last Call,2003,7,533,Diarrhea,10
+39,Betty Blowtorch,53,Last Call,2003,7,532,Changing Underwear,11
+39,Betty Blowtorch,53,Last Call,2003,7,559,Yesterday II, The Sequel,12
+39,Betty Blowtorch,53,Last Call,2003,7,537,Frankie,13
+39,Betty Blowtorch,53,Last Call,2003,7,542,I Wanna Be Your Sucker,14
+39,Betty Blowtorch,53,Last Call,2003,7,549,Ode to Dickhead,15
+39,Betty Blowtorch,53,Last Call,2003,7,534,Dickhead on the Radio,16
+39,Betty Blowtorch,53,Last Call,2003,7,539,Get Off,17
+39,Betty Blowtorch,53,Last Call,2003,7,546,Kill the Butcher,18
+39,Betty Blowtorch,53,Last Call,2003,7,557,Teenage Whore,19
+39,Betty Blowtorch,53,Last Call,2003,7,538,Funeral Crashing Tonite,20
+39,Betty Blowtorch,53,Last Call,2003,7,556,T.I.T.,21
+39,Betty Blowtorch,53,Last Call,2003,7,551,Rock 'N' Roll '85,22
+39,Betty Blowtorch,53,Last Call,2003,7,548,Love/Hate,23
+39,Betty Blowtorch,53,Last Call,2003,7,544,I've Been So Mad Lately,24
+39,Betty Blowtorch,53,Last Call,2003,7,545,Johnny Depp,25
+39,Betty Blowtorch,53,Last Call,2003,7,555,Size Queen,26
+39,Betty Blowtorch,53,Last Call,2003,7,543,I'm Ugly and I Don't Know Why,27
+39,Betty Blowtorch,53,Last Call,2003,7,531,Betty Blowtorch Anthem,28
+39,Betty Blowtorch,53,Last Call,2003,7,540,Hell on Wheels,29
+40,Beyoncé,54,CarterCowboy Carter (Act II),2024,11,563,AMERIICAN REQUIEM,1
+40,Beyoncé,54,CarterCowboy Carter (Act II),2024,11,564,BLACKBIIRD feat. Tanner Adell, Brittney Spencer, Tierra Kennedy & Reyna Roberts,2
+40,Beyoncé,54,CarterCowboy Carter (Act II),2024,11,560,16 CARRIAGES,3
+40,Beyoncé,54,CarterCowboy Carter (Act II),2024,11,576,PROTECTOR feat. Rumi Carter,4
+40,Beyoncé,54,CarterCowboy Carter (Act II),2024,11,575,MY ROSE,5
+40,Beyoncé,54,CarterCowboy Carter (Act II),2024,11,579,SMOKE HOUR * WILLIE NELSON feat. Willie Nelson,6
+40,Beyoncé,54,CarterCowboy Carter (Act II),2024,11,581,TEXAS HOLD 'EM,7
+40,Beyoncé,54,CarterCowboy Carter (Act II),2024,11,565,BODYGUARD,8
+40,Beyoncé,54,CarterCowboy Carter (Act II),2024,11,568,DOLLY P  feat. Dolly Parton,9
+40,Beyoncé,54,CarterCowboy Carter (Act II),2024,11,572,JOLENE,10
+40,Beyoncé,54,CarterCowboy Carter (Act II),2024,11,566,DAUGHTER,11
+40,Beyoncé,54,CarterCowboy Carter (Act II),2024,11,561,ALLIIGATOR TEARS,12
+40,Beyoncé,54,CarterCowboy Carter (Act II),2024,11,578,SMOKE HOUR II feat. Willie Nelson,13
+40,Beyoncé,54,CarterCowboy Carter (Act II),2024,11,573,JUST FOR FUN feat. Willie Jones,14
+40,Beyoncé,54,CarterCowboy Carter (Act II),2024,11,571,II MOST WANTED feat. Miley Cyrus,15
+40,Beyoncé,54,CarterCowboy Carter (Act II),2024,11,574,LEVII'S JEANS feat. Post Malone,16
+40,Beyoncé,54,CarterCowboy Carter (Act II),2024,11,569,FLAMENCO,17
+40,Beyoncé,54,CarterCowboy Carter (Act II),2024,11,567,DESERT EAGLE,18
+40,Beyoncé,54,CarterCowboy Carter (Act II),2024,11,577,RIIVERDANCE,19
+40,Beyoncé,54,CarterCowboy Carter (Act II),2024,11,570,II HANDS II HEAVEN,20
+40,Beyoncé,54,CarterCowboy Carter (Act II),2024,11,582,TYRANT feat. Dolly Parton,21
+40,Beyoncé,54,CarterCowboy Carter (Act II),2024,11,580,SWEET * HONEY * BUCKIIN' Feat. Shaboozey,22
+40,Beyoncé,54,CarterCowboy Carter (Act II),2024,11,562,AMEN,23
+41,Big Brother & The Holding Company,55,Cheap Thrills,1990,2,584,Combination Of The Two,1
+41,Big Brother & The Holding Company,55,Cheap Thrills,1990,2,585,I Need A Man To Love,2
+41,Big Brother & The Holding Company,55,Cheap Thrills,1990,2,588,Summertime,3
+41,Big Brother & The Holding Company,55,Cheap Thrills,1990,2,587,Piece Of My Heart,4
+41,Big Brother & The Holding Company,55,Cheap Thrills,1990,2,589,Turtle Blues,5
+41,Big Brother & The Holding Company,55,Cheap Thrills,1990,2,586,Oh, Sweet Mary,6
+41,Big Brother & The Holding Company,55,Cheap Thrills,1990,2,583,Ball And Chain,7
+41,Big Brother & The Holding Company,532,Monterey International Pop Festival Disc 1,1967,2,5762,Festival Introduction,1
+41,Big Brother & The Holding Company,532,Monterey International Pop Festival Disc 1,1967,2,5765,Love is a Hurtin' Thing,4
+41,Big Brother & The Holding Company,532,Monterey International Pop Festival Disc 1,1967,2,5759,Dead End Street,5
+41,Big Brother & The Holding Company,532,Monterey International Pop Festival Disc 1,1967,2,5769,Tobacco Road,6
+41,Big Brother & The Holding Company,532,Monterey International Pop Festival Disc 1,1967,2,5768,San Franciscan Nights,7
+41,Big Brother & The Holding Company,532,Monterey International Pop Festival Disc 1,1967,2,5764,Hey Gyp,8
+41,Big Brother & The Holding Company,532,Monterey International Pop Festival Disc 1,1967,2,5761,Dust My Broom,10
+41,Big Brother & The Holding Company,532,Monterey International Pop Festival Disc 1,1967,2,5766,Not So Sweet Martha Lorraine,12
+41,Big Brother & The Holding Company,532,Monterey International Pop Festival Disc 1,1967,2,5760,Down on Me,13
+41,Big Brother & The Holding Company,532,Monterey International Pop Festival Disc 1,1967,2,5758,Combination of the Two,14
+41,Big Brother & The Holding Company,532,Monterey International Pop Festival Disc 1,1967,2,5763,Harry,15
+41,Big Brother & The Holding Company,532,Monterey International Pop Festival Disc 1,1967,2,5767,Road Block,16
+41,Big Brother & The Holding Company,531,Monterey International Pop Festival Disc 2,1967,2,5777,Look Over Yonders Wall,1
+41,Big Brother & The Holding Company,531,Monterey International Pop Festival Disc 2,1967,2,5780,Mystery Train,2
+41,Big Brother & The Holding Company,531,Monterey International Pop Festival Disc 2,1967,2,5771,Born in Chicago,3
+41,Big Brother & The Holding Company,531,Monterey International Pop Festival Disc 2,1967,2,5774,Double Trouble,4
+41,Big Brother & The Holding Company,531,Monterey International Pop Festival Disc 2,1967,2,5778,Mary Ann,5
+41,Big Brother & The Holding Company,531,Monterey International Pop Festival Disc 2,1967,2,5779,Mercury Blues,6
+41,Big Brother & The Holding Company,531,Monterey International Pop Festival Disc 2,1967,2,5775,Groovin' is Easy,7
+41,Big Brother & The Holding Company,531,Monterey International Pop Festival Disc 2,1967,2,5783,Wine,8
+41,Big Brother & The Holding Company,531,Monterey International Pop Festival Disc 2,1967,2,5770,Bajabula Bonke (The Healing Song),9
+41,Big Brother & The Holding Company,531,Monterey International Pop Festival Disc 2,1967,2,5776,He Was a Friend of Mine,13
+41,Big Brother & The Holding Company,531,Monterey International Pop Festival Disc 2,1967,2,5772,Chimes of Freedom,15
+41,Big Brother & The Holding Company,531,Monterey International Pop Festival Disc 2,1967,2,5781,So You Wanna Be a Rock 'N' Roll Star,16
+41,Big Brother & The Holding Company,531,Monterey International Pop Festival Disc 2,1967,2,5773,Dhun: Fast Teental,17
+41,Big Brother & The Holding Company,531,Monterey International Pop Festival Disc 2,1967,2,5757,Ball and Chain,17
+41,Big Brother & The Holding Company,531,Monterey International Pop Festival Disc 2,1967,2,5782,Wake Me, Shake Me,18
+42,Billy Idol,56,Idolize Yourself: The Very Best of Billy Idol,2008,2,592,Dancing With Myself,1
+42,Billy Idol,56,Idolize Yourself: The Very Best of Billy Idol,2008,2,596,Hot in the City,2
+42,Billy Idol,56,Idolize Yourself: The Very Best of Billy Idol,2008,2,606,White Wedding, Part 1,3
+42,Billy Idol,56,Idolize Yourself: The Very Best of Billy Idol,2008,2,601,Rebel Yell,4
+42,Billy Idol,56,Idolize Yourself: The Very Best of Billy Idol,2008,2,594,Eyes Without a Face,5
+42,Billy Idol,56,Idolize Yourself: The Very Best of Billy Idol,2008,2,595,Flesh for Fantasy,6
+42,Billy Idol,56,Idolize Yourself: The Very Best of Billy Idol,2008,2,590,Catch My Fall,7
+42,Billy Idol,56,Idolize Yourself: The Very Best of Billy Idol,2008,2,605,To Be a Lover,8
+42,Billy Idol,56,Idolize Yourself: The Very Best of Billy Idol,2008,2,593,Don't Need a Gun,9
+42,Billy Idol,56,Idolize Yourself: The Very Best of Billy Idol,2008,2,604,Sweet Sixteen,10
+42,Billy Idol,56,Idolize Yourself: The Very Best of Billy Idol,2008,2,599,Mony, Mony (live),11
+42,Billy Idol,56,Idolize Yourself: The Very Best of Billy Idol,2008,2,591,Cradle of Love,12
+42,Billy Idol,56,Idolize Yourself: The Very Best of Billy Idol,2008,2,598,L.A. Woman,13
+42,Billy Idol,56,Idolize Yourself: The Very Best of Billy Idol,2008,2,602,Shock to the System,14
+42,Billy Idol,56,Idolize Yourself: The Very Best of Billy Idol,2008,2,603,Speed,15
+42,Billy Idol,56,Idolize Yourself: The Very Best of Billy Idol,2008,2,607,World Comin' Down,16
+42,Billy Idol,56,Idolize Yourself: The Very Best of Billy Idol,2008,2,597,John Wayne,17
+42,Billy Idol,56,Idolize Yourself: The Very Best of Billy Idol,2008,2,600,New Future Weapon,18
+43,Billy Joel,57,The Stranger,1977,5,611,Movin' Out (Anthony's Song),1
+43,Billy Joel,57,The Stranger,1977,5,615,The Stranger,2
+43,Billy Joel,57,The Stranger,1977,5,610,Just the Way You Are,3
+43,Billy Joel,57,The Stranger,1977,5,613,Scenes from an Italian Restaurant,4
+43,Billy Joel,57,The Stranger,1977,5,616,Vienna,5
+43,Billy Joel,57,The Stranger,1977,5,612,Only the Good Die Young,6
+43,Billy Joel,57,The Stranger,1977,5,614,She's Always A Woman,7
+43,Billy Joel,57,The Stranger,1977,5,609,Get It Right the First Time,8
+43,Billy Joel,57,The Stranger,1977,5,608,Everybody Has a Dream,9
+44,Black Sabbath,58,Black Sabbath,1988,2,618,Black Sabbath,1
+44,Black Sabbath,58,Black Sabbath,1988,2,619,The Wizard,2
+44,Black Sabbath,58,Black Sabbath,1988,2,620,Wasp / Behind the Wall of Sleep / Bassically / N.I.B.,3
+44,Black Sabbath,58,Black Sabbath,1988,2,621,Wicked World,4
+44,Black Sabbath,58,Black Sabbath,1988,2,617,A Bit of Finger / Sleeping Village / Warning,5
+44,Black Sabbath,59,Paranoid,1970,2,629,War Pigs · Luke's Wall,1
+44,Black Sabbath,59,Paranoid,1970,2,626,Paranoid,2
+44,Black Sabbath,59,Paranoid,1970,2,627,Planet Caravan,3
+44,Black Sabbath,59,Paranoid,1970,2,624,Iron Man,4
+44,Black Sabbath,59,Paranoid,1970,2,622,Electric Funeral,5
+44,Black Sabbath,59,Paranoid,1970,2,623,Hand of Doom,6
+44,Black Sabbath,59,Paranoid,1970,2,628,Rat Salad,7
+44,Black Sabbath,59,Paranoid,1970,2,625,Jack the Stripper · Fairies Wear Boots,8
+45,Blind Faith,60,Blind Faith,1969,2,632,Had to Cry Today,1
+45,Blind Faith,60,Blind Faith,1969,2,630,Can't Find My Way Home,2
+45,Blind Faith,60,Blind Faith,1969,2,635,Well All Right,3
+45,Blind Faith,60,Blind Faith,1969,2,633,Presence of the Lord,4
+45,Blind Faith,60,Blind Faith,1969,2,634,Sea of Joy,5
+45,Blind Faith,60,Blind Faith,1969,2,631,Do What You Like,6
+46,blink-182,61,blink-182,2003,7,641,Feeling This,1
+46,blink-182,61,blink-182,2003,7,646,Obvious,2
+46,blink-182,61,blink-182,2003,7,644,I Miss You,3
+46,blink-182,61,blink-182,2003,7,650,Violence,4
+46,blink-182,61,blink-182,2003,7,647,Stockholm Syndrome [Feat. Joanne Whalley],5
+46,blink-182,61,blink-182,2003,7,648,Stockholm Syndrome,5
+46,blink-182,61,blink-182,2003,7,639,Down,6
+46,blink-182,61,blink-182,2003,7,649,The Fallen Interlude,7
+46,blink-182,61,blink-182,2003,7,642,Go,8
+46,blink-182,61,blink-182,2003,7,638,Asthenia,9
+46,blink-182,61,blink-182,2003,7,637,Always,10
+46,blink-182,61,blink-182,2003,7,640,Easy Target,11
+46,blink-182,61,blink-182,2003,7,636,All Of This [Feat. Robert Smith],12
+46,blink-182,61,blink-182,2003,7,643,Here's Your Letter,13
+46,blink-182,61,blink-182,2003,7,645,I'm Lost Without You,14
+46,blink-182,62,Dude Ranch,1997,7,662,Pathetic,1
+46,blink-182,62,Dude Ranch,1997,7,664,Voyeur,2
+46,blink-182,62,Dude Ranch,1997,7,654,Dammit,3
+46,blink-182,62,Dude Ranch,1997,7,653,Boring,4
+46,blink-182,62,Dude Ranch,1997,7,656,Dick Lips,5
+46,blink-182,62,Dude Ranch,1997,7,665,Waggy,6
+46,blink-182,62,Dude Ranch,1997,7,658,Enthused,7
+46,blink-182,62,Dude Ranch,1997,7,663,Untitled,8
+46,blink-182,62,Dude Ranch,1997,7,652,Apple Shampoo,9
+46,blink-182,62,Dude Ranch,1997,7,657,Emo,10
+46,blink-182,62,Dude Ranch,1997,7,660,Josie,11
+46,blink-182,62,Dude Ranch,1997,7,651,A New Hope,12
+46,blink-182,62,Dude Ranch,1997,7,655,Degenerate,13
+46,blink-182,62,Dude Ranch,1997,7,661,Lemmings,14
+46,blink-182,62,Dude Ranch,1997,7,659,I'm Sorry,15
+46,blink-182,63,Enema Of The State,1999,7,671,Dumpweed,1
+46,blink-182,63,Enema Of The State,1999,7,670,Don't Leave Me,2
+46,blink-182,63,Enema Of The State,1999,7,667,Aliens Exist,3
+46,blink-182,63,Enema Of The State,1999,7,673,Going Away To College,4
+46,blink-182,63,Enema Of The State,1999,7,677,What's My Age Again?,5
+46,blink-182,63,Enema Of The State,1999,7,672,Dysentery Gary,6
+46,blink-182,63,Enema Of The State,1999,7,666,Adam's Song,7
+46,blink-182,63,Enema Of The State,1999,7,668,All The Small Things,8
+46,blink-182,63,Enema Of The State,1999,7,675,The Party Song,9
+46,blink-182,63,Enema Of The State,1999,7,674,Mutt,10
+46,blink-182,63,Enema Of The State,1999,7,676,Wendy Clear,11
+46,blink-182,63,Enema Of The State,1999,7,669,Anthem,12
+46,blink-182,64,Neighborhoods,2011,7,681,Ghost on the Dance Floor,1
+46,blink-182,64,Neighborhoods,2011,7,687,Natives,2
+46,blink-182,64,Neighborhoods,2011,7,690,Up All Night,3
+46,blink-182,64,Neighborhoods,2011,7,678,After Midnight,4
+46,blink-182,64,Neighborhoods,2011,7,688,Snake Charmer,5
+46,blink-182,64,Neighborhoods,2011,7,682,Heart's All Gone Interlude,6
+46,blink-182,64,Neighborhoods,2011,7,683,Heart's All Gone,7
+46,blink-182,64,Neighborhoods,2011,7,691,Wishing Well,8
+46,blink-182,64,Neighborhoods,2011,7,684,Kaleidoscope,9
+46,blink-182,64,Neighborhoods,2011,7,689,This is Home,10
+46,blink-182,64,Neighborhoods,2011,7,686,MH 4.8.2011,11
+46,blink-182,64,Neighborhoods,2011,7,685,Love is Dangerous,12
+46,blink-182,64,Neighborhoods,2011,7,680,Fighting the Gravity,13
+46,blink-182,64,Neighborhoods,2011,7,679,Even if She Falls,14
+46,blink-182,65,Take off Your Pants and Jacket,2001,7,692,Anthem, Pt. 2,1
+46,blink-182,65,Take off Your Pants and Jacket,2001,7,697,Online Songs,2
+46,blink-182,65,Take off Your Pants and Jacket,2001,7,694,First Date,3
+46,blink-182,65,Take off Your Pants and Jacket,2001,7,696,Happy Holidays, You Bastard,4
+46,blink-182,65,Take off Your Pants and Jacket,2001,7,703,Story of a Lonely Guy,5
+46,blink-182,65,Take off Your Pants and Jacket,2001,7,704,The Rock Show,6
+46,blink-182,65,Take off Your Pants and Jacket,2001,7,702,Stay Together for the Kids,7
+46,blink-182,65,Take off Your Pants and Jacket,2001,7,700,Roller Coaster,8
+46,blink-182,65,Take off Your Pants and Jacket,2001,7,699,Reckless Abandon,9
+46,blink-182,65,Take off Your Pants and Jacket,2001,7,693,Everytime I Look for You,10
+46,blink-182,65,Take off Your Pants and Jacket,2001,7,695,Give Me One Good Reason,11
+46,blink-182,65,Take off Your Pants and Jacket,2001,7,701,Shut Up,12
+46,blink-182,65,Take off Your Pants and Jacket,2001,7,698,Please Take Me Home,13
+47,Blondie,66,Eat to the Beat,1979,2,708,Dreaming,1
+47,Blondie,66,Eat to the Beat,1979,2,714,The Hardest Part,2
+47,Blondie,66,Eat to the Beat,1979,2,715,Union City Blue,3
+47,Blondie,66,Eat to the Beat,1979,2,711,Shayla,4
+47,Blondie,66,Eat to the Beat,1979,2,709,Eat to the Beat,5
+47,Blondie,66,Eat to the Beat,1979,2,705,Accidents Never Happen,6
+47,Blondie,66,Eat to the Beat,1979,2,707,Die Young Stay Pretty,7
+47,Blondie,66,Eat to the Beat,1979,2,712,Slow Motion,8
+47,Blondie,66,Eat to the Beat,1979,2,706,Atomic,9
+47,Blondie,66,Eat to the Beat,1979,2,713,Sound-A-Sleep,10
+47,Blondie,66,Eat to the Beat,1979,2,716,Victor,11
+47,Blondie,66,Eat to the Beat,1979,2,710,Living In The Real World,12
+47,Blondie,67,Parallel Lines,1978,2,719,Hanging On the Telephone,1
+47,Blondie,67,Parallel Lines,1978,2,724,One Way or Another,2
+47,Blondie,67,Parallel Lines,1978,2,725,Picture This,3
+47,Blondie,67,Parallel Lines,1978,2,718,Fade Away and Radiate,4
+47,Blondie,67,Parallel Lines,1978,2,726,Pretty Baby,5
+47,Blondie,67,Parallel Lines,1978,2,721,I Know but I Don't Know,6
+47,Blondie,67,Parallel Lines,1978,2,717,11:59,7
+47,Blondie,67,Parallel Lines,1978,2,728,Will Anything Happen,8
+47,Blondie,67,Parallel Lines,1978,2,727,Sunday Girl,9
+47,Blondie,67,Parallel Lines,1978,2,720,Heart of Glass,10
+47,Blondie,67,Parallel Lines,1978,2,722,I'm Gonna Love You Too,11
+47,Blondie,67,Parallel Lines,1978,2,723,Just Go Away,12
+48,Blood, Sweat & Tears,68,Blood, Sweat & Tears,1992,2,736,Variations on a Theme by Erik Satie (1st and 2nd Movements, Adapted From 'Trois Gymnopedies'),1
+48,Blood, Sweat & Tears,68,Blood, Sweat & Tears,1992,2,733,Smiling Phases,2
+48,Blood, Sweat & Tears,68,Blood, Sweat & Tears,1992,2,734,Sometimes in Winter,3
+48,Blood, Sweat & Tears,68,Blood, Sweat & Tears,1992,2,732,More and More,4
+48,Blood, Sweat & Tears,68,Blood, Sweat & Tears,1992,2,729,And When I Die,5
+48,Blood, Sweat & Tears,68,Blood, Sweat & Tears,1992,2,731,God Bless the Child,6
+48,Blood, Sweat & Tears,68,Blood, Sweat & Tears,1992,2,735,Spinning Wheel,7
+48,Blood, Sweat & Tears,68,Blood, Sweat & Tears,1992,2,738,You've Made Me So Very Happy,8
+48,Blood, Sweat & Tears,68,Blood, Sweat & Tears,1992,2,730,Blues, Part II,9
+48,Blood, Sweat & Tears,68,Blood, Sweat & Tears,1992,2,737,Variations on a Theme by Erik Satie (1st Movement, Adapted From 'Trois Gymnopedies'),10
+48,Blood, Sweat & Tears,69,Child Is Father To The Man,1968,2,746,Overture,1
+48,Blood, Sweat & Tears,69,Child Is Father To The Man,1968,2,741,I Love You More Than You'll Ev,2
+48,Blood, Sweat & Tears,69,Child Is Father To The Man,1968,2,744,Morning Glory,3
+48,Blood, Sweat & Tears,69,Child Is Father To The Man,1968,2,745,My Days Are Numbered,4
+48,Blood, Sweat & Tears,69,Child Is Father To The Man,1968,2,750,Without Her,5
+48,Blood, Sweat & Tears,69,Child Is Father To The Man,1968,2,742,Just One Smile,6
+48,Blood, Sweat & Tears,69,Child Is Father To The Man,1968,2,740,I Can't Quit Her,7
+48,Blood, Sweat & Tears,69,Child Is Father To The Man,1968,2,743,Meagan's Gypsy Eyes,8
+48,Blood, Sweat & Tears,69,Child Is Father To The Man,1968,2,748,Somethin' Goin' On,9
+48,Blood, Sweat & Tears,69,Child Is Father To The Man,1968,2,739,House In The Country,10
+48,Blood, Sweat & Tears,69,Child Is Father To The Man,1968,2,749,The Modern Adventure Of Plato,,11
+48,Blood, Sweat & Tears,69,Child Is Father To The Man,1968,2,747,So Much Love / Underture,12
+49,Bloodhound Gang,70,Fire Water Burn,1996,7,754,Fire Water Burn (We don't need no gog lives underwater mix),1
+49,Bloodhound Gang,70,Fire Water Burn,1996,7,752,Fire Water Burn (Jim Makin' Jamaican Mix),2
+49,Bloodhound Gang,70,Fire Water Burn,1996,7,753,Fire Water Burn (Rudimental Jammy Mix),3
+49,Bloodhound Gang,70,Fire Water Burn,1996,7,751,Fire Water Burn (A Coo Dic Ver Din),4
+51,Blue Cheer,72,Vincebus Eruptum,1993,2,769,Summertime Blues,1
+51,Blue Cheer,72,Vincebus Eruptum,1993,2,767,Rock Me Baby,2
+51,Blue Cheer,72,Vincebus Eruptum,1993,2,764,Doctor Please,3
+51,Blue Cheer,72,Vincebus Eruptum,1993,2,765,Out Of Focus,4
+51,Blue Cheer,72,Vincebus Eruptum,1993,2,766,Parchment Farm,5
+51,Blue Cheer,72,Vincebus Eruptum,1993,2,768,Second Time Around,6
+52,Blue Mountain Eagle,73,Blue Mountain Eagle,1970,2,771,Love is Here,1
+52,Blue Mountain Eagle,73,Blue Mountain Eagle,1970,2,779,Yellows' Dream,2
+52,Blue Mountain Eagle,73,Blue Mountain Eagle,1970,2,770,Feel Like A Bandit,3
+52,Blue Mountain Eagle,73,Blue Mountain Eagle,1970,2,777,Troubles,4
+52,Blue Mountain Eagle,73,Blue Mountain Eagle,1970,2,772,Loveless Lives,5
+52,Blue Mountain Eagle,73,Blue Mountain Eagle,1970,2,773,No Regrets,6
+52,Blue Mountain Eagle,73,Blue Mountain Eagle,1970,2,778,Winding Your String,7
+52,Blue Mountain Eagle,73,Blue Mountain Eagle,1970,2,775,Sweet Mama,8
+52,Blue Mountain Eagle,73,Blue Mountain Eagle,1970,2,774,Promise Of Love,9
+52,Blue Mountain Eagle,73,Blue Mountain Eagle,1970,2,776,Trivial Sum,10
+53,Blues Traveler,74,Four,1994,6,788,Run-Around,1
+53,Blues Traveler,74,Four,1994,6,789,Stand,2
+53,Blues Traveler,74,Four,1994,6,786,Look Around,3
+53,Blues Traveler,74,Four,1994,6,782,Fallible,4
+53,Blues Traveler,74,Four,1994,6,791,The Mountains Win Again,5
+53,Blues Traveler,74,Four,1994,6,783,Freedom,6
+53,Blues Traveler,74,Four,1994,6,781,Crash Burn,7
+53,Blues Traveler,74,Four,1994,6,787,Price to Pay,8
+53,Blues Traveler,74,Four,1994,6,784,Hook,9
+53,Blues Traveler,74,Four,1994,6,790,The Good, The Bad, and The Ugly,10
+53,Blues Traveler,74,Four,1994,6,785,Just Wait,11
+53,Blues Traveler,74,Four,1994,6,780,Brother John,12
+54,Bob Dylan,75,Blonde on Blonde,1966,2,801,Rainy Day Women #12 & 35,1
+54,Bob Dylan,75,Blonde on Blonde,1966,2,800,Pledging My Time,2
+54,Bob Dylan,75,Blonde on Blonde,1966,2,805,Visions of Johanna,3
+54,Bob Dylan,75,Blonde on Blonde,1966,2,799,One of Us Must Know (Sooner or Later),4
+54,Bob Dylan,75,Blonde on Blonde,1966,2,794,I Want You,5
+54,Bob Dylan,75,Blonde on Blonde,1966,2,803,Stuck Inside of Mobile with the Memphis Blues Again,6
+54,Bob Dylan,75,Blonde on Blonde,1966,2,796,Leopard-Skin Pill-Box Hat,7
+54,Bob Dylan,75,Blonde on Blonde,1966,2,795,Just Like a Woman,8
+54,Bob Dylan,75,Blonde on Blonde,1966,2,797,Most Likely You Go Your Way (And I'll Go Mine),9
+54,Bob Dylan,75,Blonde on Blonde,1966,2,804,Temporary Like Achilles,10
+54,Bob Dylan,75,Blonde on Blonde,1966,2,793,Absolutely Sweet Marie,11
+54,Bob Dylan,75,Blonde on Blonde,1966,2,792,4th Time Around,12
+54,Bob Dylan,75,Blonde on Blonde,1966,2,798,Obviously 5 Believers,13
+54,Bob Dylan,75,Blonde on Blonde,1966,2,802,Sad Eyed Lady of the Lowlands,14
+54,Bob Dylan,76,Blood On The Tracks,1975,2,813,Tangled Up In Blue,1
+54,Bob Dylan,76,Blood On The Tracks,1975,2,812,Simple Twist Of Fate,2
+54,Bob Dylan,76,Blood On The Tracks,1975,2,814,You're A Big Girl Now,3
+54,Bob Dylan,76,Blood On The Tracks,1975,2,807,Idiot Wind,4
+54,Bob Dylan,76,Blood On The Tracks,1975,2,815,You're Gonna Make Me Lonesome When You Go,5
+54,Bob Dylan,76,Blood On The Tracks,1975,2,810,Meet Me In The Morning,6
+54,Bob Dylan,76,Blood On The Tracks,1975,2,809,Lily, Rosemary And The Jack Of Hearts,7
+54,Bob Dylan,76,Blood On The Tracks,1975,2,808,If You See Her, Say Hello,8
+54,Bob Dylan,76,Blood On The Tracks,1975,2,811,Shelter From The Storm,9
+54,Bob Dylan,76,Blood On The Tracks,1975,2,806,Buckets Of Rain,10
+54,Bob Dylan,77,Highway 61 Revisited,1965,2,822,Like a Rolling Stone,1
+54,Bob Dylan,77,Highway 61 Revisited,1965,2,824,Tombstone Blues,2
+54,Bob Dylan,77,Highway 61 Revisited,1965,2,820,It Takes a Lot to Laugh, It Takes a Train to Cry,3
+54,Bob Dylan,77,Highway 61 Revisited,1965,2,818,From a Buick 6,4
+54,Bob Dylan,77,Highway 61 Revisited,1965,2,816,Ballad of a Thin Man,5
+54,Bob Dylan,77,Highway 61 Revisited,1965,2,823,Queen Jane Approximately,6
+54,Bob Dylan,77,Highway 61 Revisited,1965,2,819,Highway 61 Revisited,7
+54,Bob Dylan,77,Highway 61 Revisited,1965,2,821,Just Like Tom Thumb’s Blues,8
+54,Bob Dylan,77,Highway 61 Revisited,1965,2,817,Desolation Row,9
+54,Bob Dylan,78,Love and Theft,2001,2,836,Tweedle Dee & Tweedle Dum,1
+54,Bob Dylan,78,Love and Theft,2001,2,831,Mississippi,2
+54,Bob Dylan,78,Love and Theft,2001,2,835,Summer Days,3
+54,Bob Dylan,78,Love and Theft,2001,2,825,Bye and Bye,4
+54,Bob Dylan,78,Love and Theft,2001,2,830,Lonesome Day Blues,5
+54,Bob Dylan,78,Love and Theft,2001,2,827,Floater (Too Much to Ask),6
+54,Bob Dylan,78,Love and Theft,2001,2,828,High Water (For Charley Patton),7
+54,Bob Dylan,78,Love and Theft,2001,2,832,Moonlight,8
+54,Bob Dylan,78,Love and Theft,2001,2,829,Honest With Me,9
+54,Bob Dylan,78,Love and Theft,2001,2,833,Po' Boy,10
+54,Bob Dylan,78,Love and Theft,2001,2,826,Cry A While,11
+54,Bob Dylan,78,Love and Theft,2001,2,834,Sugar Baby,12
+54,Bob Dylan,85,MTV Unplugged,1995,2,921,Tombstone Blues,1
+54,Bob Dylan,85,MTV Unplugged,1995,2,919,Shooting Star,2
+54,Bob Dylan,85,MTV Unplugged,1995,2,912,All Along the Watchtower,3
+54,Bob Dylan,85,MTV Unplugged,1995,2,920,The Times They Are a-Changin',4
+54,Bob Dylan,85,MTV Unplugged,1995,2,915,John Brown,5
+54,Bob Dylan,85,MTV Unplugged,1995,2,918,Rainy Day Women #12 & 35,6
+54,Bob Dylan,85,MTV Unplugged,1995,2,913,Desolation Row,7
+54,Bob Dylan,85,MTV Unplugged,1995,2,914,Dignity,8
+54,Bob Dylan,85,MTV Unplugged,1995,2,916,Knockin' on Heaven's Door,9
+54,Bob Dylan,85,MTV Unplugged,1995,2,917,Like a Rolling Stone,10
+54,Bob Dylan,85,MTV Unplugged,1995,2,922,With God on Our Side,11
+54,Bob Dylan,79,Nashville Skyline,1969,2,838,Girl From the North Country,1
+54,Bob Dylan,79,Nashville Skyline,1969,2,841,Nashville Skyline Rag,2
+54,Bob Dylan,79,Nashville Skyline,1969,2,845,To Be Alone With You,3
+54,Bob Dylan,79,Nashville Skyline,1969,2,839,I Threw It All Away,4
+54,Bob Dylan,79,Nashville Skyline,1969,2,843,Peggy Day,5
+54,Bob Dylan,79,Nashville Skyline,1969,2,840,Lay Lady Lay,6
+54,Bob Dylan,79,Nashville Skyline,1969,2,842,One More Night,7
+54,Bob Dylan,79,Nashville Skyline,1969,2,844,Tell Me That It Isn't True,8
+54,Bob Dylan,79,Nashville Skyline,1969,2,837,Country Pie,9
+54,Bob Dylan,79,Nashville Skyline,1969,2,846,Tonight I'll Be Staying Here With You,10
+54,Bob Dylan,82,The "Royal Albert Hall" Concert,1998,2,881,She Belongs to Me,1
+54,Bob Dylan,82,The "Royal Albert Hall" Concert,1998,2,890,Tell Me, Momma,1
+54,Bob Dylan,82,The "Royal Albert Hall" Concert,1998,2,885,I Don't Believe You (She Acts Like We Never Have Met),2
+54,Bob Dylan,82,The "Royal Albert Hall" Concert,1998,2,877,Fourth Time Around,2
+54,Bob Dylan,82,The "Royal Albert Hall" Concert,1998,2,882,Visions of Johanna,3
+54,Bob Dylan,82,The "Royal Albert Hall" Concert,1998,2,883,Baby, Let Me Follow You Down,3
+54,Bob Dylan,82,The "Royal Albert Hall" Concert,1998,2,886,Just Like Tom Thumb's Blues,4
+54,Bob Dylan,82,The "Royal Albert Hall" Concert,1998,2,878,It's All over Now, Baby Blue,4
+54,Bob Dylan,82,The "Royal Albert Hall" Concert,1998,2,876,Desolation Row,5
+54,Bob Dylan,82,The "Royal Albert Hall" Concert,1998,2,887,Leopard-Skin Pill-Box Hat,5
+54,Bob Dylan,82,The "Royal Albert Hall" Concert,1998,2,889,One Too Many Mornings,6
+54,Bob Dylan,82,The "Royal Albert Hall" Concert,1998,2,879,Just Like a Woman,6
+54,Bob Dylan,82,The "Royal Albert Hall" Concert,1998,2,880,Mr. Tambourine Man,7
+54,Bob Dylan,82,The "Royal Albert Hall" Concert,1998,2,884,Ballad of a Thin Man,7
+54,Bob Dylan,82,The "Royal Albert Hall" Concert,1998,2,888,Like a Rolling Stone,8
+54,Bob Dylan,83,Time Out Of Mind,1997,2,896,Love Sick,1
+54,Bob Dylan,83,Time Out Of Mind,1997,2,894,Dirt Road Blues,2
+54,Bob Dylan,83,Time Out Of Mind,1997,2,900,Standing In The Doorway,3
+54,Bob Dylan,83,Time Out Of Mind,1997,2,898,Million Miles,4
+54,Bob Dylan,83,Time Out Of Mind,1997,2,901,Tryin' To Get To Heaven,5
+54,Bob Dylan,83,Time Out Of Mind,1997,2,891,'Til I Fell In Love With You,6
+54,Bob Dylan,83,Time Out Of Mind,1997,2,899,Not Dark Yet,7
+54,Bob Dylan,83,Time Out Of Mind,1997,2,893,Cold Irons Bound,8
+54,Bob Dylan,83,Time Out Of Mind,1997,2,897,Make You Feel My Love,9
+54,Bob Dylan,83,Time Out Of Mind,1997,2,892,Can't Wait,10
+54,Bob Dylan,83,Time Out Of Mind,1997,2,895,Highlands,11
+54,Bob Dylan,84,Together Through Life,2009,2,902,Beyond Here Lies Nothin',1
+54,Bob Dylan,84,Together Through Life,2009,2,908,Life Is Hard,2
+54,Bob Dylan,84,Together Through Life,2009,2,909,My Wife's Home Town,3
+54,Bob Dylan,84,Together Through Life,2009,2,905,If You Ever Go To Houston,4
+54,Bob Dylan,84,Together Through Life,2009,2,904,Forgetful Heart,5
+54,Bob Dylan,84,Together Through Life,2009,2,907,Jolene,6
+54,Bob Dylan,84,Together Through Life,2009,2,911,This Dream Of You,7
+54,Bob Dylan,84,Together Through Life,2009,2,910,Shake Shake Mama,8
+54,Bob Dylan,84,Together Through Life,2009,2,903,Feel A Change Comin' On,9
+54,Bob Dylan,84,Together Through Life,2009,2,906,It's All Good,10
+76,Bob Marley & The Wailers,86,Legend Disc 1,2000,12,929,Is This Love,1
+76,Bob Marley & The Wailers,86,Legend Disc 1,2000,12,931,No Woman No Cry [*],2
+76,Bob Marley & The Wailers,86,Legend Disc 1,2000,12,924,Could You Be Loved,3
+76,Bob Marley & The Wailers,86,Legend Disc 1,2000,12,937,Three Little Birds,4
+76,Bob Marley & The Wailers,86,Legend Disc 1,2000,12,923,Buffalo Soldier,5
+76,Bob Marley & The Wailers,86,Legend Disc 1,2000,12,927,Get Up Stand Up,6
+76,Bob Marley & The Wailers,86,Legend Disc 1,2000,12,936,Stir It Up,7
+76,Bob Marley & The Wailers,86,Legend Disc 1,2000,12,925,Easy Skanking,8
+76,Bob Marley & The Wailers,86,Legend Disc 1,2000,12,932,One Love/People Get Ready,9
+76,Bob Marley & The Wailers,86,Legend Disc 1,2000,12,928,I Shot the Sheriff,10
+76,Bob Marley & The Wailers,86,Legend Disc 1,2000,12,938,Waiting in Vain,11
+76,Bob Marley & The Wailers,86,Legend Disc 1,2000,12,934,Redemption Song,12
+76,Bob Marley & The Wailers,86,Legend Disc 1,2000,12,935,Satisfy My Soul,13
+76,Bob Marley & The Wailers,86,Legend Disc 1,2000,12,926,Exodus,14
+76,Bob Marley & The Wailers,86,Legend Disc 1,2000,12,930,Jamming,15
+76,Bob Marley & The Wailers,86,Legend Disc 1,2000,12,933,Punky Reggae Party [*],16
+76,Bob Marley & The Wailers,87,Legend Disc 2,2000,12,943,One Love/People Get Ready [Extended Version],1
+76,Bob Marley & The Wailers,87,Legend Disc 2,2000,12,944,Three Little Birds/Three Little Birds [Dub Version],4
+76,Bob Marley & The Wailers,87,Legend Disc 2,2000,12,941,No Woman No Cry,6
+76,Bob Marley & The Wailers,87,Legend Disc 2,2000,12,939,Coming in from the Cold,7
+76,Bob Marley & The Wailers,87,Legend Disc 2,2000,12,940,Lively Up Yourself [#],12
+76,Bob Marley & The Wailers,87,Legend Disc 2,2000,12,942,One Love/People Get Ready [Dub Version] [Dub Version],13
+76,Bob Marley & The Wailers,88,Rastaman Vibration,1976,12,949,Positive Vibration,1
+76,Bob Marley & The Wailers,88,Rastaman Vibration,1976,12,951,Roots, Rock, Reggae,2
+76,Bob Marley & The Wailers,88,Rastaman Vibration,1976,12,947,Johnny Was,3
+76,Bob Marley & The Wailers,88,Rastaman Vibration,1976,12,946,Cry to Me,4
+76,Bob Marley & The Wailers,88,Rastaman Vibration,1976,12,952,Want More (Want More),5
+76,Bob Marley & The Wailers,88,Rastaman Vibration,1976,12,945,Crazy Baldhead,6
+76,Bob Marley & The Wailers,88,Rastaman Vibration,1976,12,954,Who the Cap Fit,7
+76,Bob Marley & The Wailers,88,Rastaman Vibration,1976,12,948,Nightshift,8
+76,Bob Marley & The Wailers,88,Rastaman Vibration,1976,12,953,War,9
+76,Bob Marley & The Wailers,88,Rastaman Vibration,1976,12,950,Rat Race,10
+1,Bon Jovi,1,A Very Special Christmas,1987,1,11,Santa Claus Is Coming to Town,1
+1,Bon Jovi,1,A Very Special Christmas,1987,1,15,Winter Wonderland,2
+1,Bon Jovi,1,A Very Special Christmas,1987,1,4,Do You Hear What I Hear?,3
+1,Bon Jovi,1,A Very Special Christmas,1987,1,8,Merry Christmas Baby,4
+1,Bon Jovi,1,A Very Special Christmas,1987,1,6,Have Yourself a Merry Little Christmas,5
+1,Bon Jovi,1,A Very Special Christmas,1987,1,7,I Saw Mommy Kissing Santa Claus,6
+1,Bon Jovi,1,A Very Special Christmas,1987,1,5,Gabriel’s Message,7
+1,Bon Jovi,1,A Very Special Christmas,1987,1,3,Christmas in Hollis,8
+1,Bon Jovi,1,A Very Special Christmas,1987,1,2,Christmas (Baby Please Come Home),9
+1,Bon Jovi,1,A Very Special Christmas,1987,1,10,Santa Baby,10
+1,Bon Jovi,1,A Very Special Christmas,1987,1,14,The Little Drummer Boy,11
+1,Bon Jovi,1,A Very Special Christmas,1987,1,9,Run Rudolph Run,12
+1,Bon Jovi,1,A Very Special Christmas,1987,1,1,Back Door Santa,13
+1,Bon Jovi,1,A Very Special Christmas,1987,1,13,The Coventry Carol,14
+1,Bon Jovi,1,A Very Special Christmas,1987,1,12,Silent Night,15
+1,Bon Jovi,89,These Days,1995,2,959,Hey God,1
+1,Bon Jovi,89,These Days,1995,2,963,Something for the Pain,2
+1,Bon Jovi,89,These Days,1995,2,966,This Ain’t a Love Song,3
+1,Bon Jovi,89,These Days,1995,2,965,These Days,4
+1,Bon Jovi,89,These Days,1995,2,961,Lie to Me,5
+1,Bon Jovi,89,These Days,1995,2,956,Damned,6
+1,Bon Jovi,89,These Days,1995,2,962,My Guitar Lies Bleeding in My Arms,7
+1,Bon Jovi,89,These Days,1995,2,955,(It’s Hard) Letting You Go,8
+1,Bon Jovi,89,These Days,1995,2,958,Hearts Breaking Even,9
+1,Bon Jovi,89,These Days,1995,2,964,Something to Believe In,10
+1,Bon Jovi,89,These Days,1995,2,960,If That’s What It Takes,11
+1,Bon Jovi,89,These Days,1995,2,957,Diamond Ring,12
+77,Bonnie Raitt,90,Luck Of The Draw,1991,2,977,Something To Talk About,1
+77,Bonnie Raitt,90,Luck Of The Draw,1991,2,969,Good Man, Good Woman,2
+77,Bonnie Raitt,90,Luck Of The Draw,1991,2,970,I Can't Make You Love Me,3
+77,Bonnie Raitt,90,Luck Of The Draw,1991,2,978,Tangled And Dark,4
+77,Bonnie Raitt,90,Luck Of The Draw,1991,2,968,Come To Me,5
+77,Bonnie Raitt,90,Luck Of The Draw,1991,2,972,No Business,6
+77,Bonnie Raitt,90,Luck Of The Draw,1991,2,974,One Part Be My Lover,7
+77,Bonnie Raitt,90,Luck Of The Draw,1991,2,973,Not The Only One,8
+77,Bonnie Raitt,90,Luck Of The Draw,1991,2,975,Papa Come Quick (Jody And Chico),9
+77,Bonnie Raitt,90,Luck Of The Draw,1991,2,976,Slow Ride,10
+77,Bonnie Raitt,90,Luck Of The Draw,1991,2,971,Luck Of The Draw,11
+77,Bonnie Raitt,90,Luck Of The Draw,1991,2,967,All At Once,12
+78,Boston,91,Boston,2006,2,982,More Than A Feeling,1
+78,Boston,91,Boston,2006,2,983,Peace Of Mind,2
+78,Boston,91,Boston,2006,2,979,Foreplay/Long Time,3
+78,Boston,91,Boston,2006,2,984,Rock & Roll Band,4
+78,Boston,91,Boston,2006,2,985,Smokin',5
+78,Boston,91,Boston,2006,2,980,Hitch A Ride,6
+78,Boston,91,Boston,2006,2,986,Something About You,7
+78,Boston,91,Boston,2006,2,981,Let Me Take You Home Tonight,8
+79,Bow Wow Wow,92,I Want Candy,1982,2,992,I Want Candy,1
+79,Bow Wow Wow,92,I Want Candy,1982,2,988,Baby, Oh No,2
+79,Bow Wow Wow,92,I Want Candy,1982,2,995,Louis Quatorze,3
+79,Bow Wow Wow,92,I Want Candy,1982,2,989,Cowboy,4
+79,Bow Wow Wow,92,I Want Candy,1982,2,996,Mile High Club,5
+79,Bow Wow Wow,92,I Want Candy,1982,2,991,Go Wild In The Country,6
+79,Bow Wow Wow,92,I Want Candy,1982,2,993,Jungle Boy,7
+79,Bow Wow Wow,92,I Want Candy,1982,2,990,El Boss Dicho,8
+79,Bow Wow Wow,92,I Want Candy,1982,2,987,(I'm A) TV Savage,9
+79,Bow Wow Wow,92,I Want Candy,1982,2,994,King Kong,10
+80,Box Car Racer,93,Box Car Racer,2002,7,1001,I Feel So,1
+80,Box Car Racer,93,Box Car Racer,2002,7,997,All Systems Go,2
+80,Box Car Racer,93,Box Car Racer,2002,7,1009,Watch The World,3
+80,Box Car Racer,93,Box Car Racer,2002,7,1008,Tiny Voices,4
+80,Box Car Racer,93,Box Car Racer,2002,7,999,Cat Like Thief,5
+80,Box Car Racer,93,Box Car Racer,2002,7,998,And I,6
+80,Box Car Racer,93,Box Car Racer,2002,7,1003,Letters To God,7
+80,Box Car Racer,93,Box Car Racer,2002,7,1004,My First Punk Song,8
+80,Box Car Racer,93,Box Car Racer,2002,7,1005,Sorrow,9
+80,Box Car Racer,93,Box Car Racer,2002,7,1007,There Is,10
+80,Box Car Racer,93,Box Car Racer,2002,7,1006,The End With You,11
+80,Box Car Racer,93,Box Car Racer,2002,7,1000,Elevator,12
+80,Box Car Racer,93,Box Car Racer,2002,7,1002,Instrumental,13
+81,Brian Auger, Julie Tippets,94,Encore,1978,6,1018,Spirit,1
+81,Brian Auger, Julie Tippets,94,Encore,1978,6,1010,Don't Let Me Be Misunderstood,2
+81,Brian Auger, Julie Tippets,94,Encore,1978,6,1013,Git Up,3
+81,Brian Auger, Julie Tippets,94,Encore,1978,6,1011,Freedom Highway,4
+81,Brian Auger, Julie Tippets,94,Encore,1978,6,1012,Future Pilot,5
+81,Brian Auger, Julie Tippets,94,Encore,1978,6,1017,Rope Ladder To The Moon,6
+81,Brian Auger, Julie Tippets,94,Encore,1978,6,1015,No Time To Live,7
+81,Brian Auger, Julie Tippets,94,Encore,1978,6,1016,Nothing Will Be As It Was,8
+81,Brian Auger, Julie Tippets,94,Encore,1978,6,1014,Lock All The Gates,9
+82,Brian Ray,95,On My Way To You,2022,2,1019,On My Way To You,1
+82,Brian Ray,95,On My Way To You,2022,2,1020,The Story Of Bonnie And Clyde,2
+83,Brian Wilson,96,SMiLE,2004,5,1031,Our Prayer - Gee,1
+83,Brian Wilson,96,SMiLE,2004,5,1025,Heroes and Villains,2
+83,Brian Wilson,96,SMiLE,2004,5,1032,Roll Plymouth Rock,3
+83,Brian Wilson,96,SMiLE,2004,5,1021,Barnyard,4
+83,Brian Wilson,96,SMiLE,2004,5,1029,Old Master Painter - You Are My Sunshine,5
+83,Brian Wilson,96,SMiLE,2004,5,1022,Cabin Essence,6
+83,Brian Wilson,96,SMiLE,2004,5,1037,Wonderful,7
+83,Brian Wilson,96,SMiLE,2004,5,1033,Song For Children,8
+83,Brian Wilson,96,SMiLE,2004,5,1023,Child Is Father of the Man,9
+83,Brian Wilson,96,SMiLE,2004,5,1034,Surf's Up,10
+83,Brian Wilson,96,SMiLE,2004,5,1026,I'm in Great Shape - I Wanna Be Around - Workshop,11
+83,Brian Wilson,96,SMiLE,2004,5,1035,Vega-Tables,12
+83,Brian Wilson,96,SMiLE,2004,5,1030,On A Holiday,13
+83,Brian Wilson,96,SMiLE,2004,5,1036,Wind Chimes,14
+83,Brian Wilson,96,SMiLE,2004,5,1028,Mrs. O'Leary's Cow,15
+83,Brian Wilson,96,SMiLE,2004,5,1027,In Blue Hawaii,16
+83,Brian Wilson,96,SMiLE,2004,5,1024,Good Vibrations,17
+85,Bruce Springsteen,98,Born in the U.S.A.,1984,2,1056,Born In The U.S.A.,1
+85,Bruce Springsteen,98,Born in the U.S.A.,1984,2,1057,Cover Me,2
+85,Bruce Springsteen,98,Born in the U.S.A.,1984,2,1059,Darlington County,3
+85,Bruce Springsteen,98,Born in the U.S.A.,1984,2,1066,Working On The Highway,4
+85,Bruce Springsteen,98,Born in the U.S.A.,1984,2,1060,Downbound Train,5
+85,Bruce Springsteen,98,Born in the U.S.A.,1984,2,1063,I'm On Fire,6
+85,Bruce Springsteen,98,Born in the U.S.A.,1984,2,1065,No Surrender,7
+85,Bruce Springsteen,98,Born in the U.S.A.,1984,2,1055,Bobby Jean,8
+85,Bruce Springsteen,98,Born in the U.S.A.,1984,2,1062,I'm Goin' Down,9
+85,Bruce Springsteen,98,Born in the U.S.A.,1984,2,1061,Glory Days,10
+85,Bruce Springsteen,98,Born in the U.S.A.,1984,2,1058,Dancing In The Dark,11
+85,Bruce Springsteen,98,Born in the U.S.A.,1984,2,1064,My Hometown,12
+85,Bruce Springsteen,99,Born To Run,1975,2,1074,Thunder Road,1
+85,Bruce Springsteen,99,Born To Run,1975,2,1073,Tenth Avenue Freeze-Out,2
+85,Bruce Springsteen,99,Born To Run,1975,2,1071,Night,3
+85,Bruce Springsteen,99,Born To Run,1975,2,1067,Backstreets,4
+85,Bruce Springsteen,99,Born To Run,1975,2,1068,Born To Run,5
+85,Bruce Springsteen,99,Born To Run,1975,2,1072,She's The One,6
+85,Bruce Springsteen,99,Born To Run,1975,2,1070,Meeting Across The River,7
+85,Bruce Springsteen,99,Born To Run,1975,2,1069,Jungleland,8
+85,Bruce Springsteen,100,Wrecking Ball,2012,2,1083,We Take Care of Our Own,1
+85,Bruce Springsteen,100,Wrecking Ball,2012,2,1076,Easy Money,2
+85,Bruce Springsteen,100,Wrecking Ball,2012,2,1080,Shackled and Drawn,3
+85,Bruce Springsteen,100,Wrecking Ball,2012,2,1077,Jack of All Trades,4
+85,Bruce Springsteen,100,Wrecking Ball,2012,2,1075,Death to My Hometown,5
+85,Bruce Springsteen,100,Wrecking Ball,2012,2,1081,This Depression,6
+85,Bruce Springsteen,100,Wrecking Ball,2012,2,1084,Wrecking Ball,7
+85,Bruce Springsteen,100,Wrecking Ball,2012,2,1085,You've Got It,8
+85,Bruce Springsteen,100,Wrecking Ball,2012,2,1079,Rocky Ground,9
+85,Bruce Springsteen,100,Wrecking Ball,2012,2,1078,Land of Hope and Dreams,10
+85,Bruce Springsteen,100,Wrecking Ball,2012,2,1082,We Are Alive,11
+86,Buddy Guy,102,Drinkin' TNT 'n' Smokin' Dynamite,1988,6,1102,Introduction,1
+86,Buddy Guy,102,Drinkin' TNT 'n' Smokin' Dynamite,1988,6,1097,Ahw Baby / Everything Gonna Be Alright,2
+86,Buddy Guy,102,Drinkin' TNT 'n' Smokin' Dynamite,1988,6,1100,How Can One Woman Be So Mean,3
+86,Buddy Guy,102,Drinkin' TNT 'n' Smokin' Dynamite,1988,6,1098,Checking on My Baby,4
+86,Buddy Guy,102,Drinkin' TNT 'n' Smokin' Dynamite,1988,6,1106,When You See the Tears From My Eyes,5
+86,Buddy Guy,102,Drinkin' TNT 'n' Smokin' Dynamite,1988,6,1101,Introduction 2,6
+86,Buddy Guy,102,Drinkin' TNT 'n' Smokin' Dynamite,1988,6,1105,Ten Years Ago,7
+86,Buddy Guy,102,Drinkin' TNT 'n' Smokin' Dynamite,1988,6,1103,Messing With the Kid,8
+86,Buddy Guy,102,Drinkin' TNT 'n' Smokin' Dynamite,1988,6,1099,Hoodoo Man Blues,9
+86,Buddy Guy,102,Drinkin' TNT 'n' Smokin' Dynamite,1988,6,1104,My Younger Days,10
+86,Buddy Guy,101,Slippin' In,1994,6,1089,I Smell Trouble,1
+86,Buddy Guy,101,Slippin' In,1994,6,1093,Please Don't Drive Me Away,2
+86,Buddy Guy,101,Slippin' In,1994,6,1086,7-11,3
+86,Buddy Guy,101,Slippin' In,1994,6,1094,Shame, Shame, Shame,4
+86,Buddy Guy,101,Slippin' In,1994,6,1091,Love Her With a Feeling,5
+86,Buddy Guy,101,Slippin' In,1994,6,1090,Little Dab-A-Doo,6
+86,Buddy Guy,101,Slippin' In,1994,6,1095,Someone Else Is Steppin' In (Slippin' Out, Slippin' In),7
+86,Buddy Guy,101,Slippin' In,1994,6,1096,Trouble Blues,8
+86,Buddy Guy,101,Slippin' In,1994,6,1092,Man of Many Words,9
+86,Buddy Guy,101,Slippin' In,1994,6,1088,Don't Tell Me About the Blues,10
+86,Buddy Guy,101,Slippin' In,1994,6,1087,Cities Need Help,11
+87,Buddy Holly,103,Ultimate Collection,2005,5,1108,Heartbeat,1
+87,Buddy Holly,103,Ultimate Collection,2005,5,1120,That'll Be The Day,2
+87,Buddy Holly,103,Ultimate Collection,2005,5,1114,Oh Boy,4
+87,Buddy Holly,103,Ultimate Collection,2005,5,1115,Peggy Sue,8
+87,Buddy Holly,103,Ultimate Collection,2005,5,1117,Rave On,8
+87,Buddy Holly,103,Ultimate Collection,2005,5,1111,Listen To Me,9
+87,Buddy Holly,103,Ultimate Collection,2005,5,1113,Not Fade Away,11
+87,Buddy Holly,103,Ultimate Collection,2005,5,1118,Reminiscing,11
+87,Buddy Holly,103,Ultimate Collection,2005,5,1112,Maybe Baby,14
+87,Buddy Holly,103,Ultimate Collection,2005,5,1121,Wishing,16
+87,Buddy Holly,103,Ultimate Collection,2005,5,1116,Raining In My Heart,23
+87,Buddy Holly,103,Ultimate Collection,2005,5,1122,Words Of Love,26
+87,Buddy Holly,103,Ultimate Collection,2005,5,1119,That Makes It Tough,32
+87,Buddy Holly,103,Ultimate Collection,2005,5,1110,It's Too Late,33
+87,Buddy Holly,103,Ultimate Collection,2005,5,1107,Brown Eyed Handsome Man,37
+87,Buddy Holly,103,Ultimate Collection,2005,5,1109,It Doesn't Matter Anymore,39
+88,Buffalo Springfield,104,Buffalo Springfield,1997,2,1133,Go and Say Goodbye (mono),1
+88,Buffalo Springfield,104,Buffalo Springfield,1997,2,1145,Sit Down I Think I Love You (mono),2
+88,Buffalo Springfield,104,Buffalo Springfield,1997,2,1137,Leave (mono),3
+88,Buffalo Springfield,104,Buffalo Springfield,1997,2,1139,Nowadays Clancy Can’t Even Sing (mono),4
+88,Buffalo Springfield,104,Buffalo Springfield,1997,2,1135,Hot Dusty Roads (mono),5
+88,Buffalo Springfield,104,Buffalo Springfield,1997,2,1128,Everybody’s Wrong (mono),6
+88,Buffalo Springfield,104,Buffalo Springfield,1997,2,1130,Flying on the Ground Is Wrong (mono),7
+88,Buffalo Springfield,104,Buffalo Springfield,1997,2,1124,Burned (mono),8
+88,Buffalo Springfield,104,Buffalo Springfield,1997,2,1126,Do I Have to Come Right Out and Say It (mono),9
+88,Buffalo Springfield,104,Buffalo Springfield,1997,2,1123,Baby Don’t Scold Me (mono),10
+88,Buffalo Springfield,104,Buffalo Springfield,1997,2,1141,Out of My Mind (mono),11
+88,Buffalo Springfield,104,Buffalo Springfield,1997,2,1143,Pay the Price (mono),12
+88,Buffalo Springfield,104,Buffalo Springfield,1997,2,1132,For What It’s Worth (stereo),13
+88,Buffalo Springfield,104,Buffalo Springfield,1997,2,1134,Go and Say Goodbye (stereo),14
+88,Buffalo Springfield,104,Buffalo Springfield,1997,2,1146,Sit Down I Think I Love You (stereo),15
+88,Buffalo Springfield,104,Buffalo Springfield,1997,2,1140,Nowadays Clancy Can’t Even Sing (stereo),16
+88,Buffalo Springfield,104,Buffalo Springfield,1997,2,1136,Hot Dusty Roads (stereo),17
+88,Buffalo Springfield,104,Buffalo Springfield,1997,2,1129,Everybody’s Wrong (stereo),18
+88,Buffalo Springfield,104,Buffalo Springfield,1997,2,1131,Flying on the Ground Is Wrong (stereo),19
+88,Buffalo Springfield,104,Buffalo Springfield,1997,2,1125,Burned (stereo),20
+88,Buffalo Springfield,104,Buffalo Springfield,1997,2,1127,Do I Have to Come Right Out and Say It (stereo),21
+88,Buffalo Springfield,104,Buffalo Springfield,1997,2,1138,Leave (stereo),22
+88,Buffalo Springfield,104,Buffalo Springfield,1997,2,1142,Out of My Mind (stereo),23
+88,Buffalo Springfield,104,Buffalo Springfield,1997,2,1144,Pay the Price (stereo),24
+88,Buffalo Springfield,105,Retrospective: The Best of Buffalo Springfield,1989,2,1150,For What It’s Worth,1
+88,Buffalo Springfield,105,Retrospective: The Best of Buffalo Springfield,1989,2,1154,Mr. Soul,2
+88,Buffalo Springfield,105,Retrospective: The Best of Buffalo Springfield,1989,2,1158,Sit Down, I Think I Love You,3
+88,Buffalo Springfield,105,Retrospective: The Best of Buffalo Springfield,1989,2,1153,Kind Woman,4
+88,Buffalo Springfield,105,Retrospective: The Best of Buffalo Springfield,1989,2,1147,Bluebird,5
+88,Buffalo Springfield,105,Retrospective: The Best of Buffalo Springfield,1989,2,1156,On the Way Home,6
+88,Buffalo Springfield,105,Retrospective: The Best of Buffalo Springfield,1989,2,1155,Nowadays Clancy Can’t Even Sing,7
+88,Buffalo Springfield,105,Retrospective: The Best of Buffalo Springfield,1989,2,1148,Broken Arrow,8
+88,Buffalo Springfield,105,Retrospective: The Best of Buffalo Springfield,1989,2,1157,Rock and Roll Woman,9
+88,Buffalo Springfield,105,Retrospective: The Best of Buffalo Springfield,1989,2,1152,I Am a Child,10
+88,Buffalo Springfield,105,Retrospective: The Best of Buffalo Springfield,1989,2,1151,Go and Say Goodbye,11
+88,Buffalo Springfield,105,Retrospective: The Best of Buffalo Springfield,1989,2,1149,Expecting to Fly,12
+89,Butthole Surfers,106,Electriclarryland,1996,7,1160,Birds,1
+89,Butthole Surfers,106,Electriclarryland,1996,7,1161,Cough Syrup,2
+89,Butthole Surfers,106,Electriclarryland,1996,7,1166,Pepper,3
+89,Butthole Surfers,106,Electriclarryland,1996,7,1169,Thermador,4
+89,Butthole Surfers,106,Electriclarryland,1996,7,1171,Ulcer Breakout,5
+89,Butthole Surfers,106,Electriclarryland,1996,7,1162,Jingle Of A Dog's Collar,6
+89,Butthole Surfers,106,Electriclarryland,1996,7,1170,TV Star,7
+89,Butthole Surfers,106,Electriclarryland,1996,7,1165,My Brother's Wife,8
+89,Butthole Surfers,106,Electriclarryland,1996,7,1159,Ah Ha,9
+89,Butthole Surfers,106,Electriclarryland,1996,7,1168,The Lord Is A Monkey,10
+89,Butthole Surfers,106,Electriclarryland,1996,7,1164,Let's Talk About Cars,11
+89,Butthole Surfers,106,Electriclarryland,1996,7,1163,L.A.,12
+89,Butthole Surfers,106,Electriclarryland,1996,7,1167,Space,13
+90,Cactus,107,Fully Unleashed The Live Gigs Disc 1,2004,2,1174,Intro / Long Tall Sally,1
+90,Cactus,107,Fully Unleashed The Live Gigs Disc 1,2004,2,1179,Parchman Farm,1
+90,Cactus,107,Fully Unleashed The Live Gigs Disc 1,2004,2,1176,My Lady from South of Detroit,2
+90,Cactus,107,Fully Unleashed The Live Gigs Disc 1,2004,2,1173,Bro. Bill,3
+90,Cactus,107,Fully Unleashed The Live Gigs Disc 1,2004,2,1175,Let Me Swim,5
+90,Cactus,107,Fully Unleashed The Live Gigs Disc 1,2004,2,1172,Alaska,5
+90,Cactus,107,Fully Unleashed The Live Gigs Disc 1,2004,2,1177,No Need to Worry,6
+90,Cactus,107,Fully Unleashed The Live Gigs Disc 1,2004,2,1178,Oleo,7
+90,Cactus,108,Fully Unleashed The Live Gigs Disc 2,2004,2,1182,Big Mama Boogie - Parts 1 & 2,1
+90,Cactus,108,Fully Unleashed The Live Gigs Disc 2,2004,2,1183,Medley: Heeby Jeebies / Money / Hound Dog / What'd I Say,2
+90,Cactus,108,Fully Unleashed The Live Gigs Disc 2,2004,2,1184,One Way ... Or Another,5
+90,Cactus,108,Fully Unleashed The Live Gigs Disc 2,2004,2,1186,Swim,7
+90,Cactus,108,Fully Unleashed The Live Gigs Disc 2,2004,2,1180,Bad Mother Boogie,8
+90,Cactus,108,Fully Unleashed The Live Gigs Disc 2,2004,2,1185,Our Lil Rock-N-Roll Thing,9
+90,Cactus,108,Fully Unleashed The Live Gigs Disc 2,2004,2,1181,Bedroom Mazurka,10
+91,CAKE,109,Fashion Nugget,1996,7,1188,Frank Sinatra,1
+91,CAKE,109,Fashion Nugget,1996,7,1200,The Distance,2
+91,CAKE,109,Fashion Nugget,1996,7,1189,Friend Is a Four Letter Word,3
+91,CAKE,109,Fashion Nugget,1996,7,1194,Open Book,4
+91,CAKE,109,Fashion Nugget,1996,7,1187,Daria,5
+91,CAKE,109,Fashion Nugget,1996,7,1196,Race Car Ya-Yas,6
+91,CAKE,109,Fashion Nugget,1996,7,1190,I Will Survive,7
+91,CAKE,109,Fashion Nugget,1996,7,1199,Stickshifts and Safetybelts,8
+91,CAKE,109,Fashion Nugget,1996,7,1195,Perhaps, Perhaps, Perhaps,9
+91,CAKE,109,Fashion Nugget,1996,7,1192,It’s Coming Down,10
+91,CAKE,109,Fashion Nugget,1996,7,1193,Nugget,11
+91,CAKE,109,Fashion Nugget,1996,7,1198,She’ll Come Back to Me,12
+91,CAKE,109,Fashion Nugget,1996,7,1191,Italian Leather Sofa,13
+91,CAKE,109,Fashion Nugget,1996,7,1197,Sad Songs and Waltzes,14
+92,Canned Heat,110,The Best Of Canned Heat,1987,6,1207,On The Road Again,1
+92,Canned Heat,110,The Best Of Canned Heat,1987,6,1209,Same All Over,2
+92,Canned Heat,110,The Best Of Canned Heat,1987,6,1206,Let's Work Together,3
+92,Canned Heat,110,The Best Of Canned Heat,1987,6,1203,Bullfrog Blues,4
+92,Canned Heat,110,The Best Of Canned Heat,1987,6,1210,Time Was,5
+92,Canned Heat,110,The Best Of Canned Heat,1987,6,1202,Boogie Music,6
+92,Canned Heat,110,The Best Of Canned Heat,1987,6,1205,Going Up The Country,7
+92,Canned Heat,110,The Best Of Canned Heat,1987,6,1201,Amphetamine Annie,8
+92,Canned Heat,110,The Best Of Canned Heat,1987,6,1208,Rollin' And Tumblin',9
+92,Canned Heat,110,The Best Of Canned Heat,1987,6,1204,Fried Hockey Boogie,10
+93,Carly Simon,111,Coming Around Again,1987,5,1213,Coming Around Again,1
+93,Carly Simon,111,Coming Around Again,1987,5,1215,Give Me All Night,2
+93,Carly Simon,111,Coming Around Again,1987,5,1212,As Time Goes By,3
+93,Carly Simon,111,Coming Around Again,1987,5,1214,Do The Walls Come Down,4
+93,Carly Simon,111,Coming Around Again,1987,5,1219,The Stuff That Dreams Are Made Of,5
+93,Carly Simon,111,Coming Around Again,1987,5,1217,It Should Have Been Me,6
+93,Carly Simon,111,Coming Around Again,1987,5,1220,Two Hot Girls (On A Hot Summer Night),7
+93,Carly Simon,111,Coming Around Again,1987,5,1221,You Have to Hurt,8
+93,Carly Simon,111,Coming Around Again,1987,5,1211,All I Want Is You,9
+93,Carly Simon,111,Coming Around Again,1987,5,1216,Hold What You've Got,10
+93,Carly Simon,111,Coming Around Again,1987,5,1218,Itsy Bitsy Spider,11
+94,Carole King,112,Tapestry,1999,5,1225,I Feel The Earth Move,1
+94,Carole King,112,Tapestry,1999,5,1230,So Far Away,2
+94,Carole King,112,Tapestry,1999,5,1226,It's Too Late,3
+94,Carole King,112,Tapestry,1999,5,1224,Home Again,4
+94,Carole King,112,Tapestry,1999,5,1223,Beautiful,5
+94,Carole King,112,Tapestry,1999,5,1232,Way Over Yonder,6
+94,Carole King,112,Tapestry,1999,5,1235,You've Got A Friend,7
+94,Carole King,112,Tapestry,1999,5,1233,Where You Lead,8
+94,Carole King,112,Tapestry,1999,5,1234,Will You Love Me Tomorrow ?,9
+94,Carole King,112,Tapestry,1999,5,1229,Smackwater Jack,10
+94,Carole King,112,Tapestry,1999,5,1231,Tapestry,11
+94,Carole King,112,Tapestry,1999,5,1222,(You Make Me Feel Like) A Natural Woman,12
+94,Carole King,112,Tapestry,1999,5,1227,Out In The Cold [Previously Unreleased],13
+94,Carole King,112,Tapestry,1999,5,1228,Smackwater Jack [Previously Unreleased Live Version],14
+95,Carolyn Wonderland,113,Alcohol and Salvation,2003,6,1242,I'm Innocent,1
+95,Carolyn Wonderland,113,Alcohol and Salvation,2003,6,1243,I'm Out Sick,2
+95,Carolyn Wonderland,113,Alcohol and Salvation,2003,6,1240,How Many Crowes,3
+95,Carolyn Wonderland,113,Alcohol and Salvation,2003,6,1238,Brick Wall,4
+95,Carolyn Wonderland,113,Alcohol and Salvation,2003,6,1247,The Only Girl You Know,5
+95,Carolyn Wonderland,113,Alcohol and Salvation,2003,6,1248,Worst Day Of My Life,6
+95,Carolyn Wonderland,113,Alcohol and Salvation,2003,6,1236,Bad Girl,7
+95,Carolyn Wonderland,113,Alcohol and Salvation,2003,6,1237,Beer,8
+95,Carolyn Wonderland,113,Alcohol and Salvation,2003,6,1245,Pieces Of A Postcard,9
+95,Carolyn Wonderland,113,Alcohol and Salvation,2003,6,1246,Sober,11
+95,Carolyn Wonderland,113,Alcohol and Salvation,2003,6,1244,I'm The Man,12
+95,Carolyn Wonderland,113,Alcohol and Salvation,2003,6,1239,Gospel Song,13
+95,Carolyn Wonderland,113,Alcohol and Salvation,2003,6,1241,I Don't Wanna Fall For You,14
+95,Carolyn Wonderland,114,Bloodless Revolution,2008,6,1257,Smile,1
+95,Carolyn Wonderland,114,Bloodless Revolution,2008,6,1258,This Land,2
+95,Carolyn Wonderland,114,Bloodless Revolution,2008,6,1249,Annie's Scarlet Letter,3
+95,Carolyn Wonderland,114,Bloodless Revolution,2008,6,1253,He Said, She Said,4
+95,Carolyn Wonderland,114,Bloodless Revolution,2008,6,1259,Unbroken,5
+95,Carolyn Wonderland,114,Bloodless Revolution,2008,6,1256,Judgment Day Blues,6
+95,Carolyn Wonderland,114,Bloodless Revolution,2008,6,1250,Bloodless Revolution,7
+95,Carolyn Wonderland,114,Bloodless Revolution,2008,6,1254,Heart,8
+95,Carolyn Wonderland,114,Bloodless Revolution,2008,6,1255,Homelessness In Austin,9
+95,Carolyn Wonderland,114,Bloodless Revolution,2008,6,1252,From A Waffle Booth Six,10
+95,Carolyn Wonderland,114,Bloodless Revolution,2008,6,1251,Driving Into The Sun,11
+95,Carolyn Wonderland,115,Miss Understood,2008,6,1266,Misunderstood,1
+95,Carolyn Wonderland,115,Miss Understood,2008,6,1263,I Found The Lions,2
+95,Carolyn Wonderland,115,Miss Understood,2008,6,1260,Bad Girl Blues,3
+95,Carolyn Wonderland,115,Miss Understood,2008,6,1271,Walk On,4
+95,Carolyn Wonderland,115,Miss Understood,2008,6,1267,Still Alive And Well,5
+95,Carolyn Wonderland,115,Miss Understood,2008,6,1265,Long Way To Go,6
+95,Carolyn Wonderland,115,Miss Understood,2008,6,1262,I Don't Want To Fall For You,7
+95,Carolyn Wonderland,115,Miss Understood,2008,6,1270,Trouble In The City,8
+95,Carolyn Wonderland,115,Miss Understood,2008,6,1269,Throw My Love,9
+95,Carolyn Wonderland,115,Miss Understood,2008,6,1264,I Live Alone With Someone,10
+95,Carolyn Wonderland,115,Miss Understood,2008,6,1268,The Farmer Song,11
+95,Carolyn Wonderland,115,Miss Understood,2008,6,1261,Feed Me To The Lions,12
+95,Carolyn Wonderland,116,Moon Goes Missing,2017,6,1278,Moon Goes Missing,1
+95,Carolyn Wonderland,116,Moon Goes Missing,2017,6,1279,Open Eyes,2
+95,Carolyn Wonderland,116,Moon Goes Missing,2017,6,1276,Hellfire Bitters,3
+95,Carolyn Wonderland,116,Moon Goes Missing,2017,6,1273,Can't Nobody Hide From God,4
+95,Carolyn Wonderland,116,Moon Goes Missing,2017,6,1281,Swamp,5
+95,Carolyn Wonderland,116,Moon Goes Missing,2017,6,1277,Leopard Skin Pillbox Hat,6
+95,Carolyn Wonderland,116,Moon Goes Missing,2017,6,1280,She Wants to Know,7
+95,Carolyn Wonderland,116,Moon Goes Missing,2017,6,1282,To Be Free,8
+95,Carolyn Wonderland,116,Moon Goes Missing,2017,6,1275,Every Time You Go,9
+95,Carolyn Wonderland,116,Moon Goes Missing,2017,6,1274,Come Together,10
+95,Carolyn Wonderland,116,Moon Goes Missing,2017,6,1272,Bad to the Bone,11
+95,Carolyn Wonderland,117,Peace Meal,2011,6,1294,What Good Can Drinkin' Do,1
+95,Carolyn Wonderland,117,Peace Meal,2011,6,1293,Victory of Flying,2
+95,Carolyn Wonderland,117,Peace Meal,2011,6,1288,Only God Knows When,3
+95,Carolyn Wonderland,117,Peace Meal,2011,6,1290,St. Marks,4
+95,Carolyn Wonderland,117,Peace Meal,2011,6,1284,Golden Stairs,5
+95,Carolyn Wonderland,117,Peace Meal,2011,6,1283,Dust My Broom,6
+95,Carolyn Wonderland,117,Peace Meal,2011,6,1285,I Can Tell,7
+95,Carolyn Wonderland,117,Peace Meal,2011,6,1292,Usurper,8
+95,Carolyn Wonderland,117,Peace Meal,2011,6,1287,No Exception,9
+95,Carolyn Wonderland,117,Peace Meal,2011,6,1286,Meet Me In The Morning,10
+95,Carolyn Wonderland,117,Peace Meal,2011,6,1291,Two Trains,11
+95,Carolyn Wonderland,117,Peace Meal,2011,6,1289,Shine On,12
+96,Cassandra Wilson,118,Blue Light ’Til Dawn,1993,4,1306,You Don’t Know What Love Is,1
+96,Cassandra Wilson,118,Blue Light ’Til Dawn,1993,4,1298,Come On in My Kitchen,2
+96,Cassandra Wilson,118,Blue Light ’Til Dawn,1993,4,1304,Tell Me You’ll Wait for Me,3
+96,Cassandra Wilson,118,Blue Light ’Til Dawn,1993,4,1297,Children of the Night,4
+96,Cassandra Wilson,118,Blue Light ’Til Dawn,1993,4,1300,Hellhound on My Trail,5
+96,Cassandra Wilson,118,Blue Light ’Til Dawn,1993,4,1295,Black Crow,6
+96,Cassandra Wilson,118,Blue Light ’Til Dawn,1993,4,1303,Sankofa,7
+96,Cassandra Wilson,118,Blue Light ’Til Dawn,1993,4,1299,Estrellas,8
+96,Cassandra Wilson,118,Blue Light ’Til Dawn,1993,4,1302,Redbone,9
+96,Cassandra Wilson,118,Blue Light ’Til Dawn,1993,4,1305,Tupelo Honey,10
+96,Cassandra Wilson,118,Blue Light ’Til Dawn,1993,4,1296,Blue Light ’Til Dawn,11
+96,Cassandra Wilson,118,Blue Light ’Til Dawn,1993,4,1301,I Can’t Stand the Rain,12
+97,Cat Stevens,119,Tea For The Tillerman,1970,5,1307,Where Do The Children Play?,2
+97,Cat Stevens,120,Teaser and the Firecat,1971,5,1310,The Wind,1
+97,Cat Stevens,120,Teaser and the Firecat,1971,5,1308,Moonshadow,3
+97,Cat Stevens,120,Teaser and the Firecat,1971,5,1309,Peace Train,4
+99,Chad & Jeremy,122,Distant Shores,1966,5,1326,Distant Shores (stereo),1
+99,Chad & Jeremy,122,Distant Shores,1966,5,1323,Ain't It Nice (stereo),2
+99,Chad & Jeremy,122,Distant Shores,1966,5,1341,When Your Love Has Gone (stereo),3
+99,Chad & Jeremy,122,Distant Shores,1966,5,1330,Homeward Bound (stereo),4
+99,Chad & Jeremy,122,Distant Shores,1966,5,1339,The Way You Look Tonight (stereo),5
+99,Chad & Jeremy,122,Distant Shores,1966,5,1335,Morning (stereo),6
+99,Chad & Jeremy,122,Distant Shores,1966,5,1344,You Are She (stereo),7
+99,Chad & Jeremy,122,Distant Shores,1966,5,1329,Everyone's Gone To The Moon (stereo),8
+99,Chad & Jeremy,122,Distant Shores,1966,5,1331,I Won't Cry (stereo),9
+99,Chad & Jeremy,122,Distant Shores,1966,5,1328,Early Mornin' Rain (stereo),10
+99,Chad & Jeremy,122,Distant Shores,1966,5,1327,Don't Make Me Do It (stereo),11
+99,Chad & Jeremy,122,Distant Shores,1966,5,1333,Last Night (stereo),12
+99,Chad & Jeremy,122,Distant Shores,1966,5,1338,Teenage Failure (stereo),13
+99,Chad & Jeremy,122,Distant Shores,1966,5,1324,Anytime (stereo),14
+99,Chad & Jeremy,122,Distant Shores,1966,5,1346,Your Mama's Out Of Town (stereo),15
+99,Chad & Jeremy,122,Distant Shores,1966,5,1345,You've Got Your Troubles (stereo),16
+99,Chad & Jeremy,122,Distant Shores,1966,5,1342,Wonderful Land (inst) (stereo),17
+99,Chad & Jeremy,122,Distant Shores,1966,5,1337,Sticks And Stones (stereo),18
+99,Chad & Jeremy,122,Distant Shores,1966,5,1336,Sixpence (stereo),19
+99,Chad & Jeremy,122,Distant Shores,1966,5,1334,Love Is Strange (stereo),20
+99,Chad & Jeremy,122,Distant Shores,1966,5,1332,If You Need Somebody (stereo),21
+99,Chad & Jeremy,122,Distant Shores,1966,5,1340,When Your Love Has Gone (alt) (stereo),22
+99,Chad & Jeremy,122,Distant Shores,1966,5,1325,Distant Shores (French version) (stereo),23
+99,Chad & Jeremy,122,Distant Shores,1966,5,1343,You Are She (French version) (stereo),24
+100,Chicago,123,Chicago Transit Authority,2002,2,1351,Introduction [2002 Remaster],1
+100,Chicago,123,Chicago Transit Authority,2002,2,1348,Does Anybody Really Know What Time It Is [2002 Remaster],2
+100,Chicago,123,Chicago Transit Authority,2002,2,1347,Beginnings [2002 Remaster],3
+100,Chicago,123,Chicago Transit Authority,2002,2,1356,Questions 67 and 68 [2002 Remaster],4
+100,Chicago,123,Chicago Transit Authority,2002,2,1353,Listen [2002 Remaster],5
+100,Chicago,123,Chicago Transit Authority,2002,2,1354,Poem 58 [2002 Remaster],6
+100,Chicago,123,Chicago Transit Authority,2002,2,1349,Free Form Guitar [2002 Remaster],7
+100,Chicago,123,Chicago Transit Authority,2002,2,1358,South California Purples [2002 Remaster],8
+100,Chicago,123,Chicago Transit Authority,2002,2,1350,I'm a Man [2002 Remaster],9
+100,Chicago,123,Chicago Transit Authority,2002,2,1355,Prologue, August 29, 1968 [2002 Remaster],10
+100,Chicago,123,Chicago Transit Authority,2002,2,1357,Someday (August 29, 1968) [2002 Remaster],11
+100,Chicago,123,Chicago Transit Authority,2002,2,1352,Liberation [2002 Remaster],12
+101,Christina Aguilera,124,Stripped,2002,5,1368,Stripped (Intro),1
+101,Christina Aguilera,124,Stripped,2002,5,1359,Can't Hold Us Down,2
+101,Christina Aguilera,124,Stripped,2002,5,1372,Walk Away,3
+101,Christina Aguilera,124,Stripped,2002,5,1362,Fighter,4
+101,Christina Aguilera,124,Stripped,2002,5,1366,Primer Amor (Interlude),5
+101,Christina Aguilera,124,Stripped,2002,5,1365,Loves Embrace (Interlude),7
+101,Christina Aguilera,124,Stripped,2002,5,1371,Underappreciated,10
+101,Christina Aguilera,124,Stripped,2002,5,1360,Cruz,13
+101,Christina Aguilera,124,Stripped,2002,5,1367,Soar,14
+101,Christina Aguilera,124,Stripped,2002,5,1363,Get Mine, Get Yours,15
+101,Christina Aguilera,124,Stripped,2002,5,1361,Dirrty,16
+101,Christina Aguilera,124,Stripped,2002,5,1369,Stripped, Pt. 2,17
+101,Christina Aguilera,124,Stripped,2002,5,1370,The Voice Within,18
+101,Christina Aguilera,124,Stripped,2002,5,1364,Keep on Singin' My Song,20
+102,Chuck Berry,125,Berry Is On Top,1959,2,1373,Almost Grown,1
+102,Chuck Berry,125,Berry Is On Top,1959,2,1377,Carol,2
+102,Chuck Berry,125,Berry Is On Top,1959,2,1382,Maybellene,3
+102,Chuck Berry,125,Berry Is On Top,1959,2,1384,Sweet Little Rock 'N' Roller,4
+102,Chuck Berry,125,Berry Is On Top,1959,2,1374,Anthony Boy,5
+102,Chuck Berry,125,Berry Is On Top,1959,2,1380,Johnny B. Goode,6
+102,Chuck Berry,125,Berry Is On Top,1959,2,1381,Little Queenie,7
+102,Chuck Berry,125,Berry Is On Top,1959,2,1379,Jo Jo Gunne,8
+102,Chuck Berry,125,Berry Is On Top,1959,2,1383,Roll Over Beethoven,9
+102,Chuck Berry,125,Berry Is On Top,1959,2,1375,Around And Around,10
+102,Chuck Berry,125,Berry Is On Top,1959,2,1378,Hey Pedro,11
+102,Chuck Berry,125,Berry Is On Top,1959,2,1376,Blues For Hawaiians,12
+103,Climax Blues Band,126,FM: Live,2006,6,1385,All The Time In The World,1
+103,Climax Blues Band,126,FM: Live,2006,6,1389,I Am Constant,2
+103,Climax Blues Band,126,FM: Live,2006,6,1387,Flight,3
+103,Climax Blues Band,126,FM: Live,2006,6,1392,Seventh Son,4
+103,Climax Blues Band,126,FM: Live,2006,6,1395,Standing By A River,5
+103,Climax Blues Band,126,FM: Live,2006,6,1394,So Many Roads,6
+103,Climax Blues Band,126,FM: Live,2006,6,1391,Mesopopmania,7
+103,Climax Blues Band,126,FM: Live,2006,6,1386,Country Hat,8
+103,Climax Blues Band,126,FM: Live,2006,6,1396,You Make Me Sick,9
+103,Climax Blues Band,126,FM: Live,2006,6,1393,Shake Your Love,10
+103,Climax Blues Band,126,FM: Live,2006,6,1388,Goin' To New York,11
+103,Climax Blues Band,126,FM: Live,2006,6,1390,Let's Work Together,12
+104,Cocktail Slippers,127,Wicked Cool Coming Attractions,2009,2,1397,You Do Run,1
+104,Cocktail Slippers,127,Wicked Cool Coming Attractions,2009,2,9473,Keep Your Eyes On Me,2
+104,Cocktail Slippers,127,Wicked Cool Coming Attractions,2009,2,8538,Kremlin Karamel,3
+104,Cocktail Slippers,127,Wicked Cool Coming Attractions,2009,2,10354,Mine Mine Mine,4
+104,Cocktail Slippers,127,Wicked Cool Coming Attractions,2009,2,8798,The Go Go's Back,5
+104,Cocktail Slippers,127,Wicked Cool Coming Attractions,2009,2,8944,Better Than They Seem,6
+104,Cocktail Slippers,127,Wicked Cool Coming Attractions,2009,2,10740,The Elbow Twist,7
+104,Cocktail Slippers,127,Wicked Cool Coming Attractions,2009,2,10526,You Don’t Look So Good,8
+104,Cocktail Slippers,127,Wicked Cool Coming Attractions,2009,2,8912,Sing Me Back Home (Live),9
+105,Cold Blood,128,The Best Of Cold Blood,1995,2,1400,I Just Want To Make Love To You,1
+105,Cold Blood,128,The Best Of Cold Blood,1995,2,1403,I'm A Good Woman,2
+105,Cold Blood,128,The Best Of Cold Blood,1995,2,1405,Let Me Down Easy,3
+105,Cold Blood,128,The Best Of Cold Blood,1995,2,1410,You Got Me Hummin',4
+105,Cold Blood,128,The Best Of Cold Blood,1995,2,1399,Funky On My Back,5
+105,Cold Blood,128,The Best Of Cold Blood,1995,2,1406,Lo And Behold,6
+105,Cold Blood,128,The Best Of Cold Blood,1995,2,1398,Down To The Bone,7
+105,Cold Blood,128,The Best Of Cold Blood,1995,2,1411,You Had To Know,8
+105,Cold Blood,128,The Best Of Cold Blood,1995,2,1407,My Lady Woman,9
+105,Cold Blood,128,The Best Of Cold Blood,1995,2,1409,Watch Your Step,10
+105,Cold Blood,128,The Best Of Cold Blood,1995,2,1401,I Wish I Knew How It Would Feel To Be Free,11
+105,Cold Blood,128,The Best Of Cold Blood,1995,2,1404,If You Will,12
+105,Cold Blood,128,The Best Of Cold Blood,1995,2,1408,No Way Home,13
+105,Cold Blood,128,The Best Of Cold Blood,1995,2,1402,I'll Be Long Gone,14
+106,Collective Soul,129,Disciplined Breakdown,1997,2,1423,Precious Declaration,1
+106,Collective Soul,129,Disciplined Breakdown,1997,2,1421,Listen,2
+106,Collective Soul,129,Disciplined Breakdown,1997,2,1422,Maybe,3
+106,Collective Soul,129,Disciplined Breakdown,1997,2,1417,Full Circle,4
+106,Collective Soul,129,Disciplined Breakdown,1997,2,1412,Blame,5
+106,Collective Soul,129,Disciplined Breakdown,1997,2,1414,Disciplined Breakdown,6
+106,Collective Soul,129,Disciplined Breakdown,1997,2,1416,Forgiveness,7
+106,Collective Soul,129,Disciplined Breakdown,1997,2,1420,Link,8
+106,Collective Soul,129,Disciplined Breakdown,1997,2,1418,Giving,9
+106,Collective Soul,129,Disciplined Breakdown,1997,2,1419,In Between,10
+106,Collective Soul,129,Disciplined Breakdown,1997,2,1413,Crowded Head,11
+106,Collective Soul,129,Disciplined Breakdown,1997,2,1415,Everything,12
+107,Count Five,130,Psychotic Reaction,1992,2,1424,Psychotic Reaction,6
+108,Country Joe & The Fish,131,Electric Music for the Mind & Body,1967,2,1427,Flying High,1
+108,Country Joe & The Fish,131,Electric Music for the Mind & Body,1967,2,1426,Death Sound,3
+108,Country Joe & The Fish,131,Electric Music for the Mind & Body,1967,2,1430,Porpoise Mouth,4
+108,Country Joe & The Fish,131,Electric Music for the Mind & Body,1967,2,1432,Section 43,5
+108,Country Joe & The Fish,131,Electric Music for the Mind & Body,1967,2,1433,Super Bird,6
+108,Country Joe & The Fish,131,Electric Music for the Mind & Body,1967,2,1431,Sad And Lonely Times,7
+108,Country Joe & The Fish,131,Electric Music for the Mind & Body,1967,2,1429,Love,8
+108,Country Joe & The Fish,131,Electric Music for the Mind & Body,1967,2,1425,Bass Strings,9
+108,Country Joe & The Fish,131,Electric Music for the Mind & Body,1967,2,1434,The Masked Marauder,10
+108,Country Joe & The Fish,131,Electric Music for the Mind & Body,1967,2,1428,Grace,11
+108,Country Joe & The Fish,132,Here We Are Again,1969,2,1440,Here I Go Again,1
+108,Country Joe & The Fish,132,Here We Are Again,1969,2,1438,Donnovan's Reef,2
+108,Country Joe & The Fish,132,Here We Are Again,1969,2,1442,It's So Nice to Have Your Love,3
+108,Country Joe & The Fish,132,Here We Are Again,1969,2,1435,Baby, You're Driving Me Crazy,4
+108,Country Joe & The Fish,132,Here We Are Again,1969,2,1436,Crystal Blues,5
+108,Country Joe & The Fish,132,Here We Are Again,1969,2,1439,For No Reason,6
+108,Country Joe & The Fish,132,Here We Are Again,1969,2,1441,I'll Survive,7
+108,Country Joe & The Fish,132,Here We Are Again,1969,2,1443,Maria,8
+108,Country Joe & The Fish,132,Here We Are Again,1969,2,1444,My Girl,9
+108,Country Joe & The Fish,132,Here We Are Again,1969,2,1437,Doctor of Electricity,10
+108,Country Joe & The Fish,133,I Feel Like I´m Fixing To Die,1967,2,1446,I Feel Like Im Fixing To Die,1
+108,Country Joe & The Fish,133,I Feel Like I´m Fixing To Die,1967,2,1453,Who Am I,2
+108,Country Joe & The Fish,133,I Feel Like I´m Fixing To Die,1967,2,1449,Pat's Song,3
+108,Country Joe & The Fish,133,I Feel Like I´m Fixing To Die,1967,2,1450,Rock Coast Blues,4
+108,Country Joe & The Fish,133,I Feel Like I´m Fixing To Die,1967,2,1448,Magoo,5
+108,Country Joe & The Fish,133,I Feel Like I´m Fixing To Die,1967,2,1447,Janis,6
+108,Country Joe & The Fish,133,I Feel Like I´m Fixing To Die,1967,2,1451,Thought Dream,7
+108,Country Joe & The Fish,133,I Feel Like I´m Fixing To Die,1967,2,1452,Thursday,8
+108,Country Joe & The Fish,133,I Feel Like I´m Fixing To Die,1967,2,1445,Eastern Jam,9
+109,Cream,134,Disraeli Gears,1967,2,1458,Strange Brew,1
+109,Cream,134,Disraeli Gears,1967,2,1459,Sunshine of Your Love,2
+109,Cream,134,Disraeli Gears,1967,2,1464,World of Pain,3
+109,Cream,134,Disraeli Gears,1967,2,1455,Dance the Night Away,4
+109,Cream,134,Disraeli Gears,1967,2,1454,Blue Condition,5
+109,Cream,134,Disraeli Gears,1967,2,1462,Tales of Brave Ulysses,6
+109,Cream,134,Disraeli Gears,1967,2,1460,SWLABR,7
+109,Cream,134,Disraeli Gears,1967,2,1463,We’re Going Wrong,8
+109,Cream,134,Disraeli Gears,1967,2,1457,Outside Woman Blues,9
+109,Cream,134,Disraeli Gears,1967,2,1461,Take It Back,10
+109,Cream,134,Disraeli Gears,1967,2,1456,Mother’s Lament,11
+109,Cream,135,Fresh Cream,1966,2,1468,I Feel Free,1
+109,Cream,135,Fresh Cream,1966,2,1470,N.S.U.,2
+109,Cream,135,Fresh Cream,1966,2,1472,Sleepy Time Time,3
+109,Cream,135,Fresh Cream,1966,2,1466,Dreaming,4
+109,Cream,135,Fresh Cream,1966,2,1474,Sweet Wine,5
+109,Cream,135,Fresh Cream,1966,2,1473,Spoonful,6
+109,Cream,135,Fresh Cream,1966,2,1465,Cat's Squirrel,7
+109,Cream,135,Fresh Cream,1966,2,1467,Four Until Late,8
+109,Cream,135,Fresh Cream,1966,2,1471,Rollin' And Tumblin',9
+109,Cream,135,Fresh Cream,1966,2,1469,I'm So Glad,10
+109,Cream,135,Fresh Cream,1966,2,1475,Toad,11
+109,Cream,136,Royal Albert Hall May 2005,2005,2,1476,Born Under a Bad Sign,1
+109,Cream,136,Royal Albert Hall May 2005,2005,2,1485,I'm So Glad,1
+109,Cream,136,Royal Albert Hall May 2005,2005,2,1481,We're Going Wrong,2
+109,Cream,136,Royal Albert Hall May 2005,2005,2,1492,Spoonful,2
+109,Cream,136,Royal Albert Hall May 2005,2005,2,1487,Outside Woman Blues,3
+109,Cream,136,Royal Albert Hall May 2005,2005,2,1477,Crossroads,3
+109,Cream,136,Royal Albert Hall May 2005,2005,2,1482,White Room,4
+109,Cream,136,Royal Albert Hall May 2005,2005,2,1489,Pressed Rat & Warthog,4
+109,Cream,136,Royal Albert Hall May 2005,2005,2,1491,Sleepy Time Time,5
+109,Cream,136,Royal Albert Hall May 2005,2005,2,1480,Toad,5
+109,Cream,136,Royal Albert Hall May 2005,2005,2,1479,Sunshine of Your Love,6
+109,Cream,136,Royal Albert Hall May 2005,2005,2,1486,N.S.U.,6
+109,Cream,136,Royal Albert Hall May 2005,2005,2,1483,Badge,7
+109,Cream,136,Royal Albert Hall May 2005,2005,2,1478,Sleepy Time Time (Alternate),7
+109,Cream,136,Royal Albert Hall May 2005,2005,2,1488,Politician,8
+109,Cream,136,Royal Albert Hall May 2005,2005,2,1494,Sweet Wine,9
+109,Cream,136,Royal Albert Hall May 2005,2005,2,1490,Rollin' and Tumblin',10
+109,Cream,136,Royal Albert Hall May 2005,2005,2,1493,Stormy Monday,11
+109,Cream,136,Royal Albert Hall May 2005,2005,2,1484,Deserted Cities of the Heart,12
+109,Cream,137,Wheels Of Fire Disc 1,1968,2,1503,White Room,1
+109,Cream,137,Wheels Of Fire Disc 1,1968,2,1501,Sitting On Top Of The World,2
+109,Cream,137,Wheels Of Fire Disc 1,1968,2,1498,Passing The Time,3
+109,Cream,137,Wheels Of Fire Disc 1,1968,2,1495,As You Said,4
+109,Cream,137,Wheels Of Fire Disc 1,1968,2,1500,Pressed Rat And Warthog,5
+109,Cream,137,Wheels Of Fire Disc 1,1968,2,1499,Politician,6
+109,Cream,137,Wheels Of Fire Disc 1,1968,2,1502,Those Were The Days,7
+109,Cream,137,Wheels Of Fire Disc 1,1968,2,1496,Born Under A Bad Sign,8
+109,Cream,137,Wheels Of Fire Disc 1,1968,2,1497,Deserted Cities Of The Heart,9
+109,Cream,138,Wheels of Fire Disc 2,1968,2,1504,Crossroads (Live at the Filmore),1
+109,Cream,138,Wheels of Fire Disc 2,1968,2,1505,Spoonful (Live at the Filmore),2
+109,Cream,138,Wheels of Fire Disc 2,1968,2,1507,Traintime (Live at the Filmore),3
+109,Cream,138,Wheels of Fire Disc 2,1968,2,1506,Toad (Live at the Filmore),4
+110,Creedence Clearwater Revival,139,Bayou Country,1969,2,1509,Born On The Bayou,1
+110,Creedence Clearwater Revival,139,Bayou Country,1969,2,1508,Bootleg,2
+110,Creedence Clearwater Revival,139,Bayou Country,1969,2,1511,Graveyard Train,3
+110,Creedence Clearwater Revival,139,Bayou Country,1969,2,1510,Good Golly Miss Molly,4
+110,Creedence Clearwater Revival,139,Bayou Country,1969,2,1513,Penthouse Pauper,5
+110,Creedence Clearwater Revival,139,Bayou Country,1969,2,1514,Proud Mary,6
+110,Creedence Clearwater Revival,139,Bayou Country,1969,2,1512,Keep On Chooglin',7
+110,Creedence Clearwater Revival,140,Chronicle,1994,2,1530,Susie Q,1
+110,Creedence Clearwater Revival,140,Chronicle,1994,2,1523,I Put A Spell On You,2
+110,Creedence Clearwater Revival,140,Chronicle,1994,2,1527,Proud Mary,3
+110,Creedence Clearwater Revival,140,Chronicle,1994,2,1515,Bad Moon Rising,4
+110,Creedence Clearwater Revival,140,Chronicle,1994,2,1524,Lodi,5
+110,Creedence Clearwater Revival,140,Chronicle,1994,2,1519,Green River,6
+110,Creedence Clearwater Revival,140,Chronicle,1994,2,1516,Commotion,7
+110,Creedence Clearwater Revival,140,Chronicle,1994,2,1517,Down On The Corner,8
+110,Creedence Clearwater Revival,140,Chronicle,1994,2,1518,Fortunate Son,9
+110,Creedence Clearwater Revival,140,Chronicle,1994,2,1532,Travelin' Band,10
+110,Creedence Clearwater Revival,140,Chronicle,1994,2,1534,Who'll Stop The Rain,11
+110,Creedence Clearwater Revival,140,Chronicle,1994,2,1533,Up Around The Bend,12
+110,Creedence Clearwater Revival,140,Chronicle,1994,2,1528,Run Through The Jungle,13
+110,Creedence Clearwater Revival,140,Chronicle,1994,2,1526,Lookin' Out My Back Door,14
+110,Creedence Clearwater Revival,140,Chronicle,1994,2,1525,Long As I Can See The Light,15
+110,Creedence Clearwater Revival,140,Chronicle,1994,2,1522,I Heard It Through The Grapevine,16
+110,Creedence Clearwater Revival,140,Chronicle,1994,2,1520,Have You Ever Seen The Rain?,17
+110,Creedence Clearwater Revival,140,Chronicle,1994,2,1521,Hey Tonight,18
+110,Creedence Clearwater Revival,140,Chronicle,1994,2,1531,Sweet Hitch-Hiker,19
+110,Creedence Clearwater Revival,140,Chronicle,1994,2,1529,Someday Never Comes,20
+110,Creedence Clearwater Revival,141,Creedence Clearwater Revival,1968,2,1540,The Working Man,2
+110,Creedence Clearwater Revival,141,Creedence Clearwater Revival,1968,2,1539,Susie-Q,3
+110,Creedence Clearwater Revival,141,Creedence Clearwater Revival,1968,2,1537,Ninety-Nine and a Half (Won't Do),4
+110,Creedence Clearwater Revival,141,Creedence Clearwater Revival,1968,2,1535,Get Down Woman,5
+110,Creedence Clearwater Revival,141,Creedence Clearwater Revival,1968,2,1538,Porterville,6
+110,Creedence Clearwater Revival,141,Creedence Clearwater Revival,1968,2,1536,Gloomy,7
+110,Creedence Clearwater Revival,141,Creedence Clearwater Revival,1968,2,1541,Walking on the Water,8
+110,Creedence Clearwater Revival,142,Creedence Clearwater Revival:  Live at Woodstock, 1969,2019,2,1544,Born on the Bayou,1
+110,Creedence Clearwater Revival,142,Creedence Clearwater Revival:  Live at Woodstock, 1969,2019,2,1546,Green River,2
+110,Creedence Clearwater Revival,142,Creedence Clearwater Revival:  Live at Woodstock, 1969,2019,2,1549,Ninety-Nine and a Half (Won't Do),3
+110,Creedence Clearwater Revival,142,Creedence Clearwater Revival:  Live at Woodstock, 1969,2019,2,1543,Bootleg,4
+110,Creedence Clearwater Revival,142,Creedence Clearwater Revival:  Live at Woodstock, 1969,2019,2,1545,Commotion,5
+110,Creedence Clearwater Revival,142,Creedence Clearwater Revival:  Live at Woodstock, 1969,2019,2,1542,Bad Moon Rising,6
+110,Creedence Clearwater Revival,142,Creedence Clearwater Revival:  Live at Woodstock, 1969,2019,2,1550,Proud Mary,7
+110,Creedence Clearwater Revival,142,Creedence Clearwater Revival:  Live at Woodstock, 1969,2019,2,1547,I Put a Spell on You,8
+110,Creedence Clearwater Revival,142,Creedence Clearwater Revival:  Live at Woodstock, 1969,2019,2,1552,The Night Time is the Right Time,9
+110,Creedence Clearwater Revival,142,Creedence Clearwater Revival:  Live at Woodstock, 1969,2019,2,1548,Keep on Chooglin',10
+110,Creedence Clearwater Revival,142,Creedence Clearwater Revival:  Live at Woodstock, 1969,2019,2,1551,Suzie Q.,11
+110,Creedence Clearwater Revival,143,Willy And The Poor Boys,1969,2,1555,Down On The Corner,1
+110,Creedence Clearwater Revival,143,Willy And The Poor Boys,1969,2,1559,It Came Out Of The Sky,2
+110,Creedence Clearwater Revival,143,Willy And The Poor Boys,1969,2,1553,Cotton Fields,3
+110,Creedence Clearwater Revival,143,Willy And The Poor Boys,1969,2,1560,Poorboy Shuffle,4
+110,Creedence Clearwater Revival,143,Willy And The Poor Boys,1969,2,1557,Feelin' Blue,5
+110,Creedence Clearwater Revival,143,Willy And The Poor Boys,1969,2,1558,Fortunate Son,6
+110,Creedence Clearwater Revival,143,Willy And The Poor Boys,1969,2,1554,Don't Look Now,7
+110,Creedence Clearwater Revival,143,Willy And The Poor Boys,1969,2,1562,The Midnight Special,8
+110,Creedence Clearwater Revival,143,Willy And The Poor Boys,1969,2,1561,Side O' The Road,9
+110,Creedence Clearwater Revival,143,Willy And The Poor Boys,1969,2,1556,Effigy,10
+111,Crosby, Stills & Nash,144,Crosby Stills and Nash,1969,2,1570,Suite Judy Blue Eyes,1
+111,Crosby, Stills & Nash,144,Crosby Stills and Nash,1969,2,1568,Marrakesh Express,2
+111,Crosby, Stills & Nash,144,Crosby Stills and Nash,1969,2,1564,Guinnevere,3
+111,Crosby, Stills & Nash,144,Crosby Stills and Nash,1969,2,1572,You Dont Have To Cry,4
+111,Crosby, Stills & Nash,144,Crosby Stills and Nash,1969,2,1569,Pre Road Downs,5
+111,Crosby, Stills & Nash,144,Crosby Stills and Nash,1969,2,1571,Wooden Ships,6
+111,Crosby, Stills & Nash,144,Crosby Stills and Nash,1969,2,1566,Lady Of The Island,7
+111,Crosby, Stills & Nash,144,Crosby Stills and Nash,1969,2,1565,Helplessly Hoping,8
+111,Crosby, Stills & Nash,144,Crosby Stills and Nash,1969,2,1567,Long Time Gone,9
+111,Crosby, Stills & Nash,144,Crosby Stills and Nash,1969,2,1563,49 Bye Byes,10
+112,Crosby, Stills, Nash & Young,145,American Dream,1988,2,1573,American Dream,1
+112,Crosby, Stills, Nash & Young,145,American Dream,1988,2,1579,Got It Made,2
+112,Crosby, Stills, Nash & Young,145,American Dream,1988,2,1580,Name of Love,3
+112,Crosby, Stills, Nash & Young,145,American Dream,1988,2,1576,Don't Say Goodbye,4
+112,Crosby, Stills, Nash & Young,145,American Dream,1988,2,1586,This Old House,5
+112,Crosby, Stills, Nash & Young,145,American Dream,1988,2,1582,Nighttime for the Generals,6
+112,Crosby, Stills, Nash & Young,145,American Dream,1988,2,1583,Shadowland,7
+112,Crosby, Stills, Nash & Young,145,American Dream,1988,2,1577,Drivin' Thunder,8
+112,Crosby, Stills, Nash & Young,145,American Dream,1988,2,1574,Clear Blue Skies,9
+112,Crosby, Stills, Nash & Young,145,American Dream,1988,2,1585,That Girl,10
+112,Crosby, Stills, Nash & Young,145,American Dream,1988,2,1575,Compass,11
+112,Crosby, Stills, Nash & Young,145,American Dream,1988,2,1584,Soldiers of Peace,12
+112,Crosby, Stills, Nash & Young,145,American Dream,1988,2,1578,Feel Your Love,13
+112,Crosby, Stills, Nash & Young,145,American Dream,1988,2,1581,Night Song,14
+112,Crosby, Stills, Nash & Young,146,Déjà vu,1994,2,1589,Carry On,1
+112,Crosby, Stills, Nash & Young,146,Déjà vu,1994,2,1595,Teach Your Children,2
+112,Crosby, Stills, Nash & Young,146,Déjà vu,1994,2,1588,Almost Cut My Hair,3
+112,Crosby, Stills, Nash & Young,146,Déjà vu,1994,2,1593,Helpless,4
+112,Crosby, Stills, Nash & Young,146,Déjà vu,1994,2,1596,Woodstock,5
+112,Crosby, Stills, Nash & Young,146,Déjà vu,1994,2,1591,Déjà vu,6
+112,Crosby, Stills, Nash & Young,146,Déjà vu,1994,2,1594,Our House,7
+112,Crosby, Stills, Nash & Young,146,Déjà vu,1994,2,1587,4 + 20,8
+112,Crosby, Stills, Nash & Young,146,Déjà vu,1994,2,1590,Country Girl: Whiskey Boot Hill – Down, Down, Down – “Country Girl” (I Think You’re Pretty),9
+112,Crosby, Stills, Nash & Young,146,Déjà vu,1994,2,1592,Everybody I Love You,10
+113,Curtis Salgado,147,Soul Activated,2001,8,1604,Old Enough To Know Better,1
+113,Curtis Salgado,147,Soul Activated,2001,8,1601,I'd Rather Be Blind,2
+113,Curtis Salgado,147,Soul Activated,2001,8,1605,Portable Man,3
+113,Curtis Salgado,147,Soul Activated,2001,8,1606,Summertime Life,4
+113,Curtis Salgado,147,Soul Activated,2001,8,1607,The Harder They Come,5
+113,Curtis Salgado,147,Soul Activated,2001,8,1600,I Sleep With The TV On,6
+113,Curtis Salgado,147,Soul Activated,2001,8,1602,Lip Whippin,7
+113,Curtis Salgado,147,Soul Activated,2001,8,1598,Funny Man,8
+113,Curtis Salgado,147,Soul Activated,2001,8,1597,Every Time You Go Away,9
+113,Curtis Salgado,147,Soul Activated,2001,8,1599,Hip Hip Baby,10
+113,Curtis Salgado,147,Soul Activated,2001,8,1603,More Love Less Attitude,11
+114,Cyndi Lauper,148,Great Cyndi Lauper,2003,5,1608,Girls Just Want To Have Fun,1
+114,Cyndi Lauper,148,Great Cyndi Lauper,2003,5,1609,Time After Time,2
+469,Dani Wilde, Cassie Taylor & Samantha Fish,677,Girls With Guitars,2011,2,7421,Bitch,1
+469,Dani Wilde, Cassie Taylor & Samantha Fish,677,Girls With Guitars,2011,2,7429,Satisfy My Soul,2
+469,Dani Wilde, Cassie Taylor & Samantha Fish,677,Girls With Guitars,2011,2,7427,Mr. Loving Man,3
+469,Dani Wilde, Cassie Taylor & Samantha Fish,677,Girls With Guitars,2011,2,7431,We Ain't Gonna Get Out Alive,4
+469,Dani Wilde, Cassie Taylor & Samantha Fish,677,Girls With Guitars,2011,2,7428,Reason To Stay,5
+469,Dani Wilde, Cassie Taylor & Samantha Fish,677,Girls With Guitars,2011,2,7423,Get Back,6
+469,Dani Wilde, Cassie Taylor & Samantha Fish,677,Girls With Guitars,2011,2,7422,Come On Home,7
+469,Dani Wilde, Cassie Taylor & Samantha Fish,677,Girls With Guitars,2011,2,7425,Leaving Chicago,8
+469,Dani Wilde, Cassie Taylor & Samantha Fish,677,Girls With Guitars,2011,2,7430,Wait A Minute,9
+469,Dani Wilde, Cassie Taylor & Samantha Fish,677,Girls With Guitars,2011,2,7426,Move On,10
+469,Dani Wilde, Cassie Taylor & Samantha Fish,677,Girls With Guitars,2011,2,7420,Are You Ready,11
+469,Dani Wilde, Cassie Taylor & Samantha Fish,677,Girls With Guitars,2011,2,7424,Jet Airliner,12
+115,Dani Wilde, Victoria Smith & Samantha Fish,149,Girls With Guitars - Live,2012,6,1610,Bitch,1
+115,Dani Wilde, Victoria Smith & Samantha Fish,149,Girls With Guitars - Live,2012,6,1611,Don't Go Making Me Cry,2
+115,Dani Wilde, Victoria Smith & Samantha Fish,149,Girls With Guitars - Live,2012,6,1619,Red Bloode Woman,3
+115,Dani Wilde, Victoria Smith & Samantha Fish,149,Girls With Guitars - Live,2012,6,1613,I Put a Spell On You,4
+115,Dani Wilde, Victoria Smith & Samantha Fish,149,Girls With Guitars - Live,2012,6,1616,Leaving Kind,5
+115,Dani Wilde, Victoria Smith & Samantha Fish,149,Girls With Guitars - Live,2012,6,1618,Money to Burn,6
+115,Dani Wilde, Victoria Smith & Samantha Fish,149,Girls With Guitars - Live,2012,6,1615,Juice Me Up,7
+115,Dani Wilde, Victoria Smith & Samantha Fish,149,Girls With Guitars - Live,2012,6,1621,Who's Loving You,8
+115,Dani Wilde, Victoria Smith & Samantha Fish,149,Girls With Guitars - Live,2012,6,1612,Down in the Swamp,9
+115,Dani Wilde, Victoria Smith & Samantha Fish,149,Girls With Guitars - Live,2012,6,1617,Mississippi Kisses,10
+115,Dani Wilde, Victoria Smith & Samantha Fish,149,Girls With Guitars - Live,2012,6,1620,Runaway,11
+115,Dani Wilde, Victoria Smith & Samantha Fish,149,Girls With Guitars - Live,2012,6,1614,Jet Airliner,12
+150,Danny Elfman,190,Edward Scissorhands,1990,9,2057,Introduction (Titles),1
+150,Danny Elfman,190,Edward Scissorhands,1990,9,2058,Storytime,2
+150,Danny Elfman,190,Edward Scissorhands,1990,9,2050,Castle on the Hill,3
+150,Danny Elfman,190,Edward Scissorhands,1990,9,2049,Beautiful New World / Home Sweet Home,4
+150,Danny Elfman,190,Edward Scissorhands,1990,9,2059,The Cookie Factory,5
+150,Danny Elfman,190,Edward Scissorhands,1990,9,2048,Ballet de Suburbia (Suite),6
+150,Danny Elfman,190,Edward Scissorhands,1990,9,2056,Ice Dance,7
+150,Danny Elfman,190,Edward Scissorhands,1990,9,2054,Etiquette Lesson,8
+150,Danny Elfman,190,Edward Scissorhands,1990,9,2052,Edwardo the Barber,9
+150,Danny Elfman,190,Edward Scissorhands,1990,9,2053,Esmeralda,10
+150,Danny Elfman,190,Edward Scissorhands,1990,9,2051,Death!,11
+150,Danny Elfman,190,Edward Scissorhands,1990,9,2063,The Tide Turns (Suite),12
+150,Danny Elfman,190,Edward Scissorhands,1990,9,2061,The Final Confrontation,13
+150,Danny Elfman,190,Edward Scissorhands,1990,9,2055,Farewell....,14
+150,Danny Elfman,190,Edward Scissorhands,1990,9,2062,The Grand Finale,15
+150,Danny Elfman,190,Edward Scissorhands,1990,9,2060,The End,16
+150,Danny Elfman,190,Edward Scissorhands,1990,9,2064,With These Hands,17
+116,Danny O'Keefe,150,O'Keefe,2006,11,1623,Good Time Charlie's Got The Blues,1
+116,Danny O'Keefe,150,O'Keefe,2006,11,1630,Shooting Star,2
+116,Danny O'Keefe,150,O'Keefe,2006,11,1631,The Question (Obviously),3
+116,Danny O'Keefe,150,O'Keefe,2006,11,1625,Honky Tonkin',4
+116,Danny O'Keefe,150,O'Keefe,2006,11,1632,The Road,5
+116,Danny O'Keefe,150,O'Keefe,2006,11,1624,Grease it,6
+116,Danny O'Keefe,150,O'Keefe,2006,11,1622,An American Dream,7
+116,Danny O'Keefe,150,O'Keefe,2006,11,1628,Louie The Hook vs. The Preacher,8
+116,Danny O'Keefe,150,O'Keefe,2006,11,1633,The Valentine Pieces,9
+116,Danny O'Keefe,150,O'Keefe,2006,11,1626,I'm Sober Now,10
+116,Danny O'Keefe,150,O'Keefe,2006,11,1629,Roseland Taxi Dancer,11
+116,Danny O'Keefe,150,O'Keefe,2006,11,1627,Know You Really Love Me,12
+117,Darlene Love,151,Introducing Darlene Love,2015,8,1634,Among The Believers,1
+117,Darlene Love,151,Introducing Darlene Love,2015,8,1635,Forbidden Nights,2
+117,Darlene Love,151,Introducing Darlene Love,2015,8,1641,Love Kept Us Foolin' Around,3
+117,Darlene Love,151,Introducing Darlene Love,2015,8,1642,Love Kept Us Foolin’ Around,3
+117,Darlene Love,151,Introducing Darlene Love,2015,8,1640,Little Liar,4
+117,Darlene Love,151,Introducing Darlene Love,2015,8,1647,Still Too Soon To Know,5
+117,Darlene Love,151,Introducing Darlene Love,2015,8,1649,Who Under Heaven,6
+117,Darlene Love,151,Introducing Darlene Love,2015,8,1644,Night Closing In,7
+117,Darlene Love,151,Introducing Darlene Love,2015,8,1645,Painkiller,8
+117,Darlene Love,151,Introducing Darlene Love,2015,8,1638,Just Another Lonely Mile,9
+117,Darlene Love,151,Introducing Darlene Love,2015,8,1639,Last Time,10
+117,Darlene Love,151,Introducing Darlene Love,2015,8,1646,River Deep, Mountain High,11
+117,Darlene Love,151,Introducing Darlene Love,2015,8,1648,Sweet Freedom,12
+117,Darlene Love,151,Introducing Darlene Love,2015,8,1643,Marvelous,13
+117,Darlene Love,151,Introducing Darlene Love,2015,8,1636,Jesus Is The Rock (That Keeps Me Rollin'),14
+117,Darlene Love,151,Introducing Darlene Love,2015,8,1637,Jesus Is the Rock (That Keeps Me Rollin’),14
+118,Darrin Meyer,152,The Angry Guy,1995,3,1655,Firehouse, Meat Market,1
+118,Darrin Meyer,152,The Angry Guy,1995,3,1657,Karaoke, Disgruntled,2
+118,Darrin Meyer,152,The Angry Guy,1995,3,1658,Kids at R-rated Movies,3
+118,Darrin Meyer,152,The Angry Guy,1995,3,1650,Annoying Kids, Loud Stereos,4
+118,Darrin Meyer,152,The Angry Guy,1995,3,1661,News Items, Baseball Playoffs,5
+118,Darrin Meyer,152,The Angry Guy,1995,3,1665,Shopping Malls, Veteran's Day,6
+118,Darrin Meyer,152,The Angry Guy,1995,3,1652,Crowded Stores,7
+118,Darrin Meyer,152,The Angry Guy,1995,3,1654,Eye of the Beholder, Johnny Law,8
+118,Darrin Meyer,152,The Angry Guy,1995,3,1659,Mission to Mars, Road Work, Mom of the Year,9
+118,Darrin Meyer,152,The Angry Guy,1995,3,1660,Need to Talk, Darva Conger, Chuck Heston,10
+118,Darrin Meyer,152,The Angry Guy,1995,3,1666,Star Wars Geeks, Primary Election,11
+118,Darrin Meyer,152,The Angry Guy,1995,3,1653,Elian, Madonna, Ban Strip Clubs,12
+118,Darrin Meyer,152,The Angry Guy,1995,3,1664,Secretary's Day, P.C.,13
+118,Darrin Meyer,152,The Angry Guy,1995,3,1651,Bad Commercials,14
+118,Darrin Meyer,152,The Angry Guy,1995,3,1667,WNBA,15
+118,Darrin Meyer,152,The Angry Guy,1995,3,1663,PETA,16
+118,Darrin Meyer,152,The Angry Guy,1995,3,1662,PETA (Again), P.C. Patriot,17
+118,Darrin Meyer,152,The Angry Guy,1995,3,1656,GOP Convention, Survivor,18
+119,Dave Anderson,153,Who Will Find Me - Who Will Care,1995,3,1672,I Am Done Being Rejected,1
+119,Dave Anderson,153,Who Will Find Me - Who Will Care,1995,3,1677,Men Are Sensitive But...,2
+119,Dave Anderson,153,Who Will Find Me - Who Will Care,1995,3,1680,What Do Women Want,3
+119,Dave Anderson,153,Who Will Find Me - Who Will Care,1995,3,1669,Dating Is Dangerous,4
+119,Dave Anderson,153,Who Will Find Me - Who Will Care,1995,3,1678,Old Girlfriends,5
+119,Dave Anderson,153,Who Will Find Me - Who Will Care,1995,3,1670,Dirst DFates & Video Tapes,6
+119,Dave Anderson,153,Who Will Find Me - Who Will Care,1995,3,1679,Weddings He Vs. She,7
+119,Dave Anderson,153,Who Will Find Me - Who Will Care,1995,3,1675,Mail Order Brides,8
+119,Dave Anderson,153,Who Will Find Me - Who Will Care,1995,3,1673,Internet Dating,9
+119,Dave Anderson,153,Who Will Find Me - Who Will Care,1995,3,1681,Who Will Find Me - Who Will Care,10
+119,Dave Anderson,153,Who Will Find Me - Who Will Care,1995,3,1674,Love Means Saying You're Sorry,11
+119,Dave Anderson,153,Who Will Find Me - Who Will Care,1995,3,1676,Marriage is 50/50,12
+119,Dave Anderson,153,Who Will Find Me - Who Will Care,1995,3,1668,Children Are Just Sloppy Roomates,13
+119,Dave Anderson,153,Who Will Find Me - Who Will Care,1995,3,1671,Good Parents Making Babies,14
+120,Dave Mason,154,Alone Together,1970,2,1685,Only You Know and I Know,1
+120,Dave Mason,154,Alone Together,1970,2,1682,Can't Stop Worrying, Can't Stop Loving,2
+120,Dave Mason,154,Alone Together,1970,2,1688,Waitin' on You,3
+120,Dave Mason,154,Alone Together,1970,2,1687,Shouldn't Have Took More Than You Gave,4
+120,Dave Mason,154,Alone Together,1970,2,1689,World in Changes,5
+120,Dave Mason,154,Alone Together,1970,2,1686,Sad and Deep as You,6
+120,Dave Mason,154,Alone Together,1970,2,1683,Just a Song,7
+120,Dave Mason,154,Alone Together,1970,2,1684,Look at You, Look at Me,8
+121,David Bowie,155,Aladdin Sane,1999,2,1691,Let's Spend the Night Together,8
+121,David Bowie,155,Aladdin Sane,1999,2,1690,Lady Grinning Soul,10
+121,David Bowie,156,Ziggy Stardust,1999,2,1692,Five Years,1
+121,David Bowie,156,Ziggy Stardust,1999,2,1698,Soul Love,2
+121,David Bowie,156,Ziggy Stardust,1999,2,1696,Moonage Daydream,3
+121,David Bowie,156,Ziggy Stardust,1999,2,1700,Starman,4
+121,David Bowie,156,Ziggy Stardust,1999,2,1694,It Ain't Easy,5
+121,David Bowie,156,Ziggy Stardust,1999,2,1695,Lady Stardust,6
+121,David Bowie,156,Ziggy Stardust,1999,2,1699,Star,7
+121,David Bowie,156,Ziggy Stardust,1999,2,1693,Hang On To Yourself,8
+121,David Bowie,156,Ziggy Stardust,1999,2,1702,Ziggy Stardust,9
+121,David Bowie,156,Ziggy Stardust,1999,2,1701,Suffragette City,10
+121,David Bowie,156,Ziggy Stardust,1999,2,1697,Rock 'N' Roll Suicide,11
+122,David Lee Roth,157,Eat Em & Smile,1977,2,1703,Tobacco Road,6
+123,Deep Purple,158,Machine Head,2006,2,1704,Highway Star,1
+123,Deep Purple,158,Machine Head,2006,2,1706,Maybe I’m a Leo,2
+123,Deep Purple,158,Machine Head,2006,2,1708,Pictures of Home,3
+123,Deep Purple,158,Machine Head,2006,2,1707,Never Before,4
+123,Deep Purple,158,Machine Head,2006,2,1709,Smoke on the Water,5
+123,Deep Purple,158,Machine Head,2006,2,1705,Lazy,6
+123,Deep Purple,158,Machine Head,2006,2,1710,Space Truckin’,7
+123,Deep Purple,159,The Book of Taliesyn,1968,2,1714,Listen, Learn, Read On,1
+123,Deep Purple,159,The Book of Taliesyn,1968,2,1712,Hard Road (Wring That Neck),2
+123,Deep Purple,159,The Book of Taliesyn,1968,2,1713,Kentucky Woman,3
+123,Deep Purple,159,The Book of Taliesyn,1968,2,1715,Shield,4
+123,Deep Purple,159,The Book of Taliesyn,1968,2,1711,Anthem,5
+124,Def Leppard,160,Pyromania,1983,2,1723,Rock rock,1
+124,Def Leppard,160,Pyromania,1983,2,1724,Rock! Rock! (Till You Drop),1
+124,Def Leppard,160,Pyromania,1983,2,1721,Photograph,2
+124,Def Leppard,160,Pyromania,1983,2,1725,Stagefright,3
+124,Def Leppard,160,Pyromania,1983,2,1726,Too late for love,4
+124,Def Leppard,160,Pyromania,1983,2,1719,Die hard the hunter,5
+124,Def Leppard,160,Pyromania,1983,2,1720,Foolin’,6
+124,Def Leppard,160,Pyromania,1983,2,1722,Rock of ages,7
+124,Def Leppard,160,Pyromania,1983,2,1718,Comin’ under fire,8
+124,Def Leppard,160,Pyromania,1983,2,1716,Action! not words,9
+124,Def Leppard,160,Pyromania,1983,2,1717,Billy’s got a gun,10
+124,Def Leppard,160,Pyromania,1983,2,1745,Billy’s got a gun,18
+124,Def Leppard,161,Rock Of Ages: The Definitive Collection,2005,2,1755,Rock Rock (Till You Drop),1
+124,Def Leppard,161,Rock Of Ages: The Definitive Collection,2005,2,1738,Pour Some Sugar On Me (Historia Video Edit),1
+124,Def Leppard,161,Rock Of Ages: The Definitive Collection,2005,2,1737,Photograph,2
+124,Def Leppard,161,Rock Of Ages: The Definitive Collection,2005,2,1748,Let It Go,2
+124,Def Leppard,161,Rock Of Ages: The Definitive Collection,2005,2,1747,High 'N' Dry (Saturday Night),3
+124,Def Leppard,161,Rock Of Ages: The Definitive Collection,2005,2,1735,Love Bites,3
+124,Def Leppard,161,Rock Of Ages: The Definitive Collection,2005,2,1734,Let's Get Rocked,4
+124,Def Leppard,161,Rock Of Ages: The Definitive Collection,2005,2,1758,Too late for love,4
+124,Def Leppard,161,Rock Of Ages: The Definitive Collection,2005,2,1750,No Matter What,5
+124,Def Leppard,161,Rock Of Ages: The Definitive Collection,2005,2,1741,Two Steps Behind (Acoustic Version),5
+124,Def Leppard,161,Rock Of Ages: The Definitive Collection,2005,2,1753,Promises,6
+124,Def Leppard,161,Rock Of Ages: The Definitive Collection,2005,2,1727,Animal,6
+124,Def Leppard,161,Rock Of Ages: The Definitive Collection,2005,2,1749,Mirror, Mirror (Look Into My Eyes),7
+124,Def Leppard,161,Rock Of Ages: The Definitive Collection,2005,2,1732,Heaven Is,7
+124,Def Leppard,161,Rock Of Ages: The Definitive Collection,2005,2,1730,Foolin',8
+124,Def Leppard,161,Rock Of Ages: The Definitive Collection,2005,2,1760,Women,8
+124,Def Leppard,161,Rock Of Ages: The Definitive Collection,2005,2,1743,Another Hit And Run,9
+124,Def Leppard,161,Rock Of Ages: The Definitive Collection,2005,2,1739,Rocket (Visualize Video Edit),9
+124,Def Leppard,161,Rock Of Ages: The Definitive Collection,2005,2,1742,When Love And Hate Collide,10
+124,Def Leppard,161,Rock Of Ages: The Definitive Collection,2005,2,1756,Slang,10
+124,Def Leppard,161,Rock Of Ages: The Definitive Collection,2005,2,1757,Stand Up (Kick Love Into Motion),11
+124,Def Leppard,161,Rock Of Ages: The Definitive Collection,2005,2,1728,Armageddon It,11
+124,Def Leppard,161,Rock Of Ages: The Definitive Collection,2005,2,1754,Rock Brigade,12
+124,Def Leppard,161,Rock Of Ages: The Definitive Collection,2005,2,1731,Have You Ever Needed Someone So Bad,12
+124,Def Leppard,161,Rock Of Ages: The Definitive Collection,2005,2,1751,Now,13
+124,Def Leppard,161,Rock Of Ages: The Definitive Collection,2005,2,1752,Paper Sun,14
+124,Def Leppard,161,Rock Of Ages: The Definitive Collection,2005,2,1733,Hysteria,14
+124,Def Leppard,161,Rock Of Ages: The Definitive Collection,2005,2,1736,Miss You In A Heartbeat,15
+124,Def Leppard,161,Rock Of Ages: The Definitive Collection,2005,2,1761,Work It Out,15
+124,Def Leppard,161,Rock Of Ages: The Definitive Collection,2005,2,1746,Die hard the hunter,16
+124,Def Leppard,161,Rock Of Ages: The Definitive Collection,2005,2,1729,Bringin' On The Heartbreak,16
+124,Def Leppard,161,Rock Of Ages: The Definitive Collection,2005,2,1759,Wasted,17
+124,Def Leppard,161,Rock Of Ages: The Definitive Collection,2005,2,1740,Switch 625,17
+124,Def Leppard,161,Rock Of Ages: The Definitive Collection,2005,2,1744,Billy's Got A Gun,18
+126,Delaney & Bonnie,163,The Best of Delaney & Bonnie,1969,6,1772,Get Ourselves Together,1
+126,Delaney & Bonnie,163,The Best of Delaney & Bonnie,1969,6,1785,When the Battle Is Over,2
+126,Delaney & Bonnie,163,The Best of Delaney & Bonnie,1969,6,1773,Ghetto,3
+126,Delaney & Bonnie,163,The Best of Delaney & Bonnie,1969,6,1780,Piece of My Heart,4
+126,Delaney & Bonnie,163,The Best of Delaney & Bonnie,1969,6,1770,Comin’ Home,5
+126,Delaney & Bonnie,163,The Best of Delaney & Bonnie,1969,6,1775,Groupie (Superstar),6
+126,Delaney & Bonnie,163,The Best of Delaney & Bonnie,1969,6,1784,Things Get Better,7
+126,Delaney & Bonnie,163,The Best of Delaney & Bonnie,1969,6,1786,Where There’s a Will, There’s a Way,8
+126,Delaney & Bonnie,163,The Best of Delaney & Bonnie,1969,6,1782,That’s What My Man Is For,9
+126,Delaney & Bonnie,163,The Best of Delaney & Bonnie,1969,6,1776,I Don’t Want to Discuss It,10
+126,Delaney & Bonnie,163,The Best of Delaney & Bonnie,1969,6,1781,Soul Shake,11
+126,Delaney & Bonnie,163,The Best of Delaney & Bonnie,1969,6,1771,Free the People,12
+126,Delaney & Bonnie,163,The Best of Delaney & Bonnie,1969,6,1783,The Love of My Man,13
+126,Delaney & Bonnie,163,The Best of Delaney & Bonnie,1969,6,1787,Will the Circle Be Unbroken,14
+126,Delaney & Bonnie,163,The Best of Delaney & Bonnie,1969,6,1778,Never Ending Song of Love,15
+126,Delaney & Bonnie,163,The Best of Delaney & Bonnie,1969,6,1774,Going Down the Road Feeling Bad,16
+126,Delaney & Bonnie,163,The Best of Delaney & Bonnie,1969,6,1779,Only You Know and I Know,17
+126,Delaney & Bonnie,163,The Best of Delaney & Bonnie,1969,6,1777,Move ’em Out,18
+125,Delaney & Bonnie & Friends,162,On Tour With Eric Clapton,1970,6,1768,Things Get Better,1
+125,Delaney & Bonnie & Friends,162,On Tour With Eric Clapton,1970,6,1766,Poor Elijah | Tribute To Johnson {Medley},2
+125,Delaney & Bonnie & Friends,162,On Tour With Eric Clapton,1970,6,1765,Only You Know And I Know,3
+125,Delaney & Bonnie & Friends,162,On Tour With Eric Clapton,1970,6,1763,I Don't Want To Discuss It,4
+125,Delaney & Bonnie & Friends,162,On Tour With Eric Clapton,1970,6,1767,That's What My Man Is For,5
+125,Delaney & Bonnie & Friends,162,On Tour With Eric Clapton,1970,6,1769,Where There's A Will There's A Way,6
+125,Delaney & Bonnie & Friends,162,On Tour With Eric Clapton,1970,6,1762,Coming Home,7
+125,Delaney & Bonnie & Friends,162,On Tour With Eric Clapton,1970,6,1764,Little Richard Medley,8
+127,Demi Lovato,164,Demi,2014,5,1790,Heart Attack,1
+127,Demi Lovato,164,Demi,2014,5,1792,Made in the USA,2
+127,Demi Lovato,164,Demi,2014,5,1801,Without the Love,3
+127,Demi Lovato,164,Demi,2014,5,1793,Neon Lights,4
+127,Demi Lovato,164,Demi,2014,5,1799,Two Pieces,5
+127,Demi Lovato,164,Demi,2014,5,1795,Nightingale,6
+127,Demi Lovato,164,Demi,2014,5,1791,In Case,7
+127,Demi Lovato,164,Demi,2014,5,1796,Really Don't Care,8
+127,Demi Lovato,164,Demi,2014,5,1788,Fire Starter,9
+127,Demi Lovato,164,Demi,2014,5,1798,Something That We're Not,10
+127,Demi Lovato,164,Demi,2014,5,1794,Never Been Hurt,11
+127,Demi Lovato,164,Demi,2014,5,1797,Shouldn't Come Back,12
+127,Demi Lovato,164,Demi,2014,5,1800,Warrior,13
+127,Demi Lovato,164,Demi,2014,5,1789,Give Me Love (Live at the Capital FM Studios in London, UK / May 30, 2014),14
+128,Derek and the Dominos,165,Layla and Other Assorted Love Songs,1996,6,1806,I Looked Away,1
+128,Derek and the Dominos,165,Layla and Other Assorted Love Songs,1996,6,1803,Bell Bottom Blues,2
+128,Derek and the Dominos,165,Layla and Other Assorted Love Songs,1996,6,1808,Keep On Growing,3
+128,Derek and the Dominos,165,Layla and Other Assorted Love Songs,1996,6,1812,Nobody Knows You When You’re Down and Out,4
+128,Derek and the Dominos,165,Layla and Other Assorted Love Songs,1996,6,1805,I Am Yours,5
+128,Derek and the Dominos,165,Layla and Other Assorted Love Songs,1996,6,1802,Anyday,6
+128,Derek and the Dominos,165,Layla and Other Assorted Love Songs,1996,6,1809,Key to the Highway,7
+128,Derek and the Dominos,165,Layla and Other Assorted Love Songs,1996,6,1813,Tell the Truth,8
+128,Derek and the Dominos,165,Layla and Other Assorted Love Songs,1996,6,1815,Why Does Love Got to Be So Sad?,9
+128,Derek and the Dominos,165,Layla and Other Assorted Love Songs,1996,6,1804,Have You Ever Loved a Woman,10
+128,Derek and the Dominos,165,Layla and Other Assorted Love Songs,1996,6,1811,Little Wing,11
+128,Derek and the Dominos,165,Layla and Other Assorted Love Songs,1996,6,1807,It’s Too Late,12
+128,Derek and the Dominos,165,Layla and Other Assorted Love Songs,1996,6,1810,Layla,13
+128,Derek and the Dominos,165,Layla and Other Assorted Love Songs,1996,6,1814,Thorn Tree in the Garden,14
+129,Desmond Dekker,166,The Harder They Come,1972,12,4421,Draw Your Breaks,1
+129,Desmond Dekker,166,The Harder They Come,1972,12,4424,Rivers of Babylon,2
+129,Desmond Dekker,166,The Harder They Come,1972,12,4425,Sweet and Dandy,3
+129,Desmond Dekker,166,The Harder They Come,1972,12,4422,Johnny Too Bad,4
+129,Desmond Dekker,166,The Harder They Come,1972,12,1816,Shanty Town,5
+129,Desmond Dekker,166,The Harder They Come,1972,12,4423,Pressure Drop,6
+130,Destiny's Child,167,Survivor,2001,8,1825,Independent Women, Pt. 1,1
+130,Destiny's Child,167,Survivor,2001,8,1829,Survivor,2
+130,Destiny's Child,167,Survivor,2001,8,1818,Bootylicious,3
+130,Destiny's Child,167,Survivor,2001,8,1827,Nasty Girl,4
+130,Destiny's Child,167,Survivor,2001,8,1822,Fancy,5
+130,Destiny's Child,167,Survivor,2001,8,1817,Apple Pie à la Mode,6
+130,Destiny's Child,167,Survivor,2001,8,1828,Sexy Daddy,7
+130,Destiny's Child,167,Survivor,2001,8,1826,Independent Women, Pt. 2,8
+130,Destiny's Child,167,Survivor,2001,8,1824,Happy Face,9
+130,Destiny's Child,167,Survivor,2001,8,1821,Emotion,10
+130,Destiny's Child,167,Survivor,2001,8,1820,Dangerously in Love,11
+130,Destiny's Child,167,Survivor,2001,8,1819,Brown Eyes,12
+130,Destiny's Child,167,Survivor,2001,8,1830,The Story of Beauty,13
+130,Destiny's Child,167,Survivor,2001,8,1823,Gospel Medley,14
+131,Devo,168,Freedom of Choice,1976,2,1831,Whip It,1
+132,Dick Dale & Del-Tones,169,King Of The Surf Guitar: The Best Of Dick Dale & His Del-Tones,1989,13,1835,Let's Go Trippin,1
+132,Dick Dale & Del-Tones,169,King Of The Surf Guitar: The Best Of Dick Dale & His Del-Tones,1989,13,1843,Shake 'N' Stomp,2
+132,Dick Dale & Del-Tones,169,King Of The Surf Guitar: The Best Of Dick Dale & His Del-Tones,1989,13,1836,Misirlou,3
+132,Dick Dale & Del-Tones,169,King Of The Surf Guitar: The Best Of Dick Dale & His Del-Tones,1989,13,1838,Mr. Peppermint Man,4
+132,Dick Dale & Del-Tones,169,King Of The Surf Guitar: The Best Of Dick Dale & His Del-Tones,1989,13,1844,Surf Beat,5
+132,Dick Dale & Del-Tones,169,King Of The Surf Guitar: The Best Of Dick Dale & His Del-Tones,1989,13,1846,Take It Off,6
+132,Dick Dale & Del-Tones,169,King Of The Surf Guitar: The Best Of Dick Dale & His Del-Tones,1989,13,1834,King Of The Surf Guitar,7
+132,Dick Dale & Del-Tones,169,King Of The Surf Guitar: The Best Of Dick Dale & His Del-Tones,1989,13,1833,Hava Nagila,8
+132,Dick Dale & Del-Tones,169,King Of The Surf Guitar: The Best Of Dick Dale & His Del-Tones,1989,13,1842,Riders In The Sky,9
+132,Dick Dale & Del-Tones,169,King Of The Surf Guitar: The Best Of Dick Dale & His Del-Tones,1989,13,1849,The Wedge,10
+132,Dick Dale & Del-Tones,169,King Of The Surf Guitar: The Best Of Dick Dale & His Del-Tones,1989,13,1839,Night Rider,11
+132,Dick Dale & Del-Tones,169,King Of The Surf Guitar: The Best Of Dick Dale & His Del-Tones,1989,13,1837,Mr. Eliminator,12
+132,Dick Dale & Del-Tones,169,King Of The Surf Guitar: The Best Of Dick Dale & His Del-Tones,1989,13,1847,The Victor,13
+132,Dick Dale & Del-Tones,169,King Of The Surf Guitar: The Best Of Dick Dale & His Del-Tones,1989,13,1845,Taco Wagon,14
+132,Dick Dale & Del-Tones,169,King Of The Surf Guitar: The Best Of Dick Dale & His Del-Tones,1989,13,1850,Tidal Wave,15
+132,Dick Dale & Del-Tones,169,King Of The Surf Guitar: The Best Of Dick Dale & His Del-Tones,1989,13,1832,Banzi Washout,16
+132,Dick Dale & Del-Tones,169,King Of The Surf Guitar: The Best Of Dick Dale & His Del-Tones,1989,13,1840,One Double One Oh!,17
+132,Dick Dale & Del-Tones,169,King Of The Surf Guitar: The Best Of Dick Dale & His Del-Tones,1989,13,1841,Pipeline - Dick Dale And His Del Tones w/ Stevie Ray Vaughan,18
+132,Dick Dale & Del-Tones,169,King Of The Surf Guitar: The Best Of Dick Dale & His Del-Tones,1989,13,1848,the Viktor,19
+133,Dire Straits,170,Dire Straits,2000,2,1851,Down To The Waterline,1
+133,Dire Straits,170,Dire Straits,2000,2,1858,Water Of Love,2
+133,Dire Straits,170,Dire Straits,2000,2,1854,Settin' Me Up,3
+133,Dire Straits,170,Dire Straits,2000,2,1855,Six Blade Knife,4
+133,Dire Straits,170,Dire Straits,2000,2,1856,Southbound Again,5
+133,Dire Straits,170,Dire Straits,2000,2,1857,Sultans Of Swing,6
+133,Dire Straits,170,Dire Straits,2000,2,1852,In The Gallery,7
+133,Dire Straits,170,Dire Straits,2000,2,1859,Wild West End,8
+133,Dire Straits,170,Dire Straits,2000,2,1853,Lions,9
+133,Dire Straits,171,Making Movies,2000,2,1865,Tunnel Of Love,1
+133,Dire Straits,171,Making Movies,2000,2,1862,Romeo & Juliet,2
+133,Dire Straits,171,Making Movies,2000,2,1863,Skateaway,3
+133,Dire Straits,171,Making Movies,2000,2,1860,Expresso Love,4
+133,Dire Straits,171,Making Movies,2000,2,1864,Solid Rock,6
+133,Dire Straits,171,Making Movies,2000,2,1861,Les Boys,7
+134,Dixie Chicks,172,Fly,1999,11,1876,Ready to Run,1
+134,Dixie Chicks,172,Fly,1999,11,1874,If I Fall You're Going Down With Me,2
+134,Dixie Chicks,172,Fly,1999,11,1868,Cowboy Take Me Away,3
+134,Dixie Chicks,172,Fly,1999,11,1867,Cold Day in July,4
+134,Dixie Chicks,172,Fly,1999,11,1870,Goodbye Earl,5
+134,Dixie Chicks,172,Fly,1999,11,1872,Hello Mr. Heartache,6
+134,Dixie Chicks,172,Fly,1999,11,1869,Don't Waste Your Heart,7
+134,Dixie Chicks,172,Fly,1999,11,1877,Sin Wagon,8
+134,Dixie Chicks,172,Fly,1999,11,1879,Without You,9
+134,Dixie Chicks,172,Fly,1999,11,1878,Some Days You Gotta Dance,10
+134,Dixie Chicks,172,Fly,1999,11,1873,Hole in My Head,11
+134,Dixie Chicks,172,Fly,1999,11,1871,Heartbreak Town,12
+134,Dixie Chicks,172,Fly,1999,11,1866,Ain't No Thang but a Chickin' Wang,13
+134,Dixie Chicks,172,Fly,1999,11,1880,[Silence],13
+134,Dixie Chicks,172,Fly,1999,11,1875,Let Him Fly,14
+134,Dixie Chicks,173,Taking the Long Way,2006,11,1893,The Long Way Around,1
+134,Dixie Chicks,173,Taking the Long Way,2006,11,1883,Easy Silence,2
+134,Dixie Chicks,173,Taking the Long Way,2006,11,1890,Not Ready To Make Nice,3
+134,Dixie Chicks,173,Taking the Long Way,2006,11,1884,Everybody Knows,4
+134,Dixie Chicks,173,Taking the Long Way,2006,11,1882,Bitter End,5
+134,Dixie Chicks,173,Taking the Long Way,2006,11,1889,Lullaby,6
+134,Dixie Chicks,173,Taking the Long Way,2006,11,1888,Lubbock Or Leave It,7
+134,Dixie Chicks,173,Taking the Long Way,2006,11,1891,Silent House,8
+134,Dixie Chicks,173,Taking the Long Way,2006,11,1885,Favorite Year,9
+134,Dixie Chicks,173,Taking the Long Way,2006,11,1894,Voice Inside My Head,10
+134,Dixie Chicks,173,Taking the Long Way,2006,11,1887,I Like It,11
+134,Dixie Chicks,173,Taking the Long Way,2006,11,1881,Baby Hold On,12
+134,Dixie Chicks,173,Taking the Long Way,2006,11,1892,So Hard,13
+134,Dixie Chicks,173,Taking the Long Way,2006,11,1886,I Hope,14
+135,Dobie Gray,174,Best Of,2005,8,1895,Drift Away,1
+136,Dolly Parton,175,Pure & Simple,2016,11,1903,Pure and Simple,1
+136,Dolly Parton,175,Pure & Simple,2016,11,1904,Say Forever You'll Be Mine,2
+136,Dolly Parton,175,Pure & Simple,2016,11,1901,Never Not Love You,3
+136,Dolly Parton,175,Pure & Simple,2016,11,1900,Kiss It (and Make It All Better),4
+136,Dolly Parton,175,Pure & Simple,2016,11,1896,Can't Be That Wrong,5
+136,Dolly Parton,175,Pure & Simple,2016,11,1902,Outside Your Door,6
+136,Dolly Parton,175,Pure & Simple,2016,11,1905,Tomorrow Is Forever,7
+136,Dolly Parton,175,Pure & Simple,2016,11,1899,I'm Sixteen,8
+136,Dolly Parton,175,Pure & Simple,2016,11,1898,Head Over High Heels,9
+136,Dolly Parton,175,Pure & Simple,2016,11,1897,Forever Love,10
+137,Donovan,176,Donovan's Greatest Hits,1999,2,1906,Hurdy Gurdy Man,3
+138,Doyle Bramhall II,177,Jellycream,1999,2,1913,I Wanna Be,1
+138,Doyle Bramhall II,177,Jellycream,1999,2,1912,Day Come Down,2
+138,Doyle Bramhall II,177,Jellycream,1999,2,1917,Marry You,3
+138,Doyle Bramhall II,177,Jellycream,1999,2,1918,Snakecharmer,4
+138,Doyle Bramhall II,177,Jellycream,1999,2,1919,Who I Am,5
+138,Doyle Bramhall II,177,Jellycream,1999,2,1907,Away We Go Away,6
+138,Doyle Bramhall II,177,Jellycream,1999,2,1911,Close to Heaven,7
+138,Doyle Bramhall II,177,Jellycream,1999,2,1916,I'm the One,8
+138,Doyle Bramhall II,177,Jellycream,1999,2,1908,Baby's Gone,9
+138,Doyle Bramhall II,177,Jellycream,1999,2,1915,I'm Leavin',10
+138,Doyle Bramhall II,177,Jellycream,1999,2,1910,Chasin' the Sun,11
+138,Doyle Bramhall II,177,Jellycream,1999,2,1914,I Will Remember,12
+138,Doyle Bramhall II,177,Jellycream,1999,2,1909,Chariot,13
+139,Drive-By Truckers,178,Go-Go Boots,2010,2,1920,Used To Be A Cop,1
+139,Drive-By Truckers,179,The Big To-Do,2010,2,1924,Daddy Learned To Fly,1
+139,Drive-By Truckers,179,The Big To-Do,2010,2,1930,The Fourth Night Of My Drinking,2
+139,Drive-By Truckers,179,The Big To-Do,2010,2,1923,Birthday Boy,3
+139,Drive-By Truckers,179,The Big To-Do,2010,2,1925,Drag The Lake Charlie,4
+139,Drive-By Truckers,179,The Big To-Do,2010,2,1931,The Wig He Made Her Wear,5
+139,Drive-By Truckers,179,The Big To-Do,2010,2,1933,You Got Another,6
+139,Drive-By Truckers,179,The Big To-Do,2010,2,1932,This Fucking Job,7
+139,Drive-By Truckers,179,The Big To-Do,2010,2,1927,Get Downtown,8
+139,Drive-By Truckers,179,The Big To-Do,2010,2,1922,After The Scene Dies,9
+139,Drive-By Truckers,179,The Big To-Do,2010,2,1921,(It's Gonna Be) I Told You So,10
+139,Drive-By Truckers,179,The Big To-Do,2010,2,1928,Santa Fe,11
+139,Drive-By Truckers,179,The Big To-Do,2010,2,1929,The Flying Wallendas,12
+139,Drive-By Truckers,179,The Big To-Do,2010,2,1926,Eyes Like Glue,13
+139,Drive-By Truckers,180,The Dirty South,2004,2,1947,Where The Devil Don't Stay,1
+139,Drive-By Truckers,180,The Dirty South,2004,2,1946,Tornadoes,2
+139,Drive-By Truckers,180,The Dirty South,2004,2,1944,The Day John Henry Died,3
+139,Drive-By Truckers,180,The Dirty South,2004,2,1941,Puttin' People On The Moon,4
+139,Drive-By Truckers,180,The Dirty South,2004,2,1934,Carl Perkins' Cadillac,5
+139,Drive-By Truckers,180,The Dirty South,2004,2,1945,The Sands Of Iwo Jima,6
+139,Drive-By Truckers,180,The Dirty South,2004,2,1937,Danko/Manuel,7
+139,Drive-By Truckers,180,The Dirty South,2004,2,1942,The Boys From Alabama,8
+139,Drive-By Truckers,180,The Dirty South,2004,2,1935,Cottonseed,9
+139,Drive-By Truckers,180,The Dirty South,2004,2,1943,The Buford Stick,10
+139,Drive-By Truckers,180,The Dirty South,2004,2,1936,Daddy's Cup,11
+139,Drive-By Truckers,180,The Dirty South,2004,2,1940,Never Gonna Change,12
+139,Drive-By Truckers,180,The Dirty South,2004,2,1939,Lookout Mountain,13
+139,Drive-By Truckers,180,The Dirty South,2004,2,1938,Goddamn Lonely Love,14
+140,Dusty Springfield,181,Ultimate Collection: Dusty Springfield,2001,5,1957,Silver Threads And Golden Needles,1
+140,Dusty Springfield,181,Ultimate Collection: Dusty Springfield,2001,5,1954,I Only Want To Be With You,2
+140,Dusty Springfield,181,Ultimate Collection: Dusty Springfield,2001,5,1960,Stay Awhile,3
+140,Dusty Springfield,181,Ultimate Collection: Dusty Springfield,2001,5,1966,Wishin' And Hopin',4
+140,Dusty Springfield,181,Ultimate Collection: Dusty Springfield,2001,5,1953,I Just Don't Know What To Do With Myself,5
+140,Dusty Springfield,181,Ultimate Collection: Dusty Springfield,2001,5,1950,All Cried Out,6
+140,Dusty Springfield,181,Ultimate Collection: Dusty Springfield,2001,5,1956,Oh No! Not My Baby,7
+140,Dusty Springfield,181,Ultimate Collection: Dusty Springfield,2001,5,1967,You Don't Have To Say You Love Me,8
+140,Dusty Springfield,181,Ultimate Collection: Dusty Springfield,2001,5,1951,All I See Is You,9
+140,Dusty Springfield,181,Ultimate Collection: Dusty Springfield,2001,5,1961,The Look Of Love,10
+140,Dusty Springfield,181,Ultimate Collection: Dusty Springfield,2001,5,1965,What's It Gonna Be,11
+140,Dusty Springfield,181,Ultimate Collection: Dusty Springfield,2001,5,1959,Son Of A Preacher Man,12
+140,Dusty Springfield,181,Ultimate Collection: Dusty Springfield,2001,5,1952,Breakfast In Bed,13
+140,Dusty Springfield,181,Ultimate Collection: Dusty Springfield,2001,5,1962,The Windmills Of Your Mind,14
+140,Dusty Springfield,181,Ultimate Collection: Dusty Springfield,2001,5,1948,A Brand New Me,15
+140,Dusty Springfield,181,Ultimate Collection: Dusty Springfield,2001,5,1963,Tupelo Honey,16
+140,Dusty Springfield,181,Ultimate Collection: Dusty Springfield,2001,5,1955,Mama's Little Girl,17
+140,Dusty Springfield,181,Ultimate Collection: Dusty Springfield,2001,5,1949,A Love Like Yours,18
+140,Dusty Springfield,181,Ultimate Collection: Dusty Springfield,2001,5,1958,Something In Your Eyes,19
+140,Dusty Springfield,181,Ultimate Collection: Dusty Springfield,2001,5,1964,What Have I Done To Deserve This,20
+143,Dwight Slade,182,Shut Up...,2002,3,1980,Prologue - 20 some years,1
+143,Dwight Slade,182,Shut Up...,2002,3,1976,Hanson,2
+143,Dwight Slade,182,Shut Up...,2002,3,1969,Coffee,3
+143,Dwight Slade,182,Shut Up...,2002,3,1984,Traffic,4
+143,Dwight Slade,182,Shut Up...,2002,3,1981,Quad 4,5
+143,Dwight Slade,182,Shut Up...,2002,3,1977,I Hate The Rich,6
+143,Dwight Slade,182,Shut Up...,2002,3,1974,Fired!,7
+143,Dwight Slade,182,Shut Up...,2002,3,1978,Mary Kay and The Five Headed Beast,8
+143,Dwight Slade,182,Shut Up...,2002,3,1971,Dwight Slade / Clinton/Lewinsky,9
+143,Dwight Slade,182,Shut Up...,2002,3,1975,Getting Older,10
+143,Dwight Slade,182,Shut Up...,2002,3,1970,Dad,11
+143,Dwight Slade,182,Shut Up...,2002,3,1982,Suicide State,12
+143,Dwight Slade,182,Shut Up...,2002,3,1979,No Cherry Bombs,13
+143,Dwight Slade,182,Shut Up...,2002,3,1968,Californians,14
+143,Dwight Slade,182,Shut Up...,2002,3,1972,Dwight Slade / The Border,15
+143,Dwight Slade,182,Shut Up...,2002,3,1983,The Border,15
+143,Dwight Slade,182,Shut Up...,2002,3,1973,Dwight Slade / Wierd State Rythm,16
+143,Dwight Slade,183,Weird State,1997,3,1994,Powell's Books,1
+143,Dwight Slade,183,Weird State,1997,3,1989,Hwy 26,2
+143,Dwight Slade,183,Weird State,1997,3,1985,Albany,3
+143,Dwight Slade,183,Weird State,1997,3,1995,Scott Thomason/Tom Peterson,4
+143,Dwight Slade,183,Weird State,1997,3,1997,Windstorms, Earthquakes and Floods,5
+143,Dwight Slade,183,Weird State,1997,3,1990,Lake Oswego,6
+143,Dwight Slade,183,Weird State,1997,3,1992,Oregonians (Tonya, et.al),7
+143,Dwight Slade,183,Weird State,1997,3,1993,Portland,8
+143,Dwight Slade,183,Weird State,1997,3,1988,Family,9
+143,Dwight Slade,183,Weird State,1997,3,1987,Ducks and Beavers,10
+143,Dwight Slade,183,Weird State,1997,3,1996,The OCA,11
+143,Dwight Slade,183,Weird State,1997,3,1991,Married With Children,12
+143,Dwight Slade,183,Weird State,1997,3,1986,Beaver State Anthem,13
+144,Dwight Yoakam,184,Gone,1995,11,2006,Sorry You Asked?,1
+144,Dwight Yoakam,184,Gone,1995,11,2002,Near You,2
+144,Dwight Yoakam,184,Gone,1995,11,1999,Don't Be Sad,3
+144,Dwight Yoakam,184,Gone,1995,11,2000,Gone (That'll Be Me),4
+144,Dwight Yoakam,184,Gone,1995,11,2004,Nothing,5
+144,Dwight Yoakam,184,Gone,1995,11,2003,Never Hold You,6
+144,Dwight Yoakam,184,Gone,1995,11,2007,This Much I Know,7
+144,Dwight Yoakam,184,Gone,1995,11,1998,Baby Why Not,8
+144,Dwight Yoakam,184,Gone,1995,11,2005,One More Night,9
+144,Dwight Yoakam,184,Gone,1995,11,2001,Heart Of Stone,10
+145,Eagles,185,On The Border,1974,2,2008,Already Gone,1
+145,Eagles,185,On The Border,1974,2,2017,You Never Cry Like a Lover,2
+145,Eagles,185,On The Border,1974,2,2013,Midnight Flyer,3
+145,Eagles,185,On The Border,1974,2,2014,My Man,4
+145,Eagles,185,On The Border,1974,2,2016,On the Border,5
+145,Eagles,185,On The Border,1974,2,2012,James Dean,6
+145,Eagles,185,On The Border,1974,2,2015,Ol' '55,7
+145,Eagles,185,On The Border,1974,2,2011,Is It True?,8
+145,Eagles,185,On The Border,1974,2,2010,Good Day in Hell,9
+145,Eagles,185,On The Border,1974,2,2009,Best of My Love,10
+565,Easybeats,840,Friday On My Mind,1967,2,9236,River Deep, Mountain High,1
+565,Easybeats,840,Friday On My Mind,1967,2,9227,Do You Have A Soul ,2
+565,Easybeats,840,Friday On My Mind,1967,2,9237,Saturday Night,3
+565,Easybeats,840,Friday On My Mind,1967,2,9234,Pretty Girl,5
+565,Easybeats,840,Friday On My Mind,1967,2,9228,Friday On My Mind,6
+565,Easybeats,840,Friday On My Mind,1967,2,9229,Happy Is The Man,7
+565,Easybeats,840,Friday On My Mind,1967,2,9231,Hound Dog,8
+565,Easybeats,840,Friday On My Mind,1967,2,9239,Who'll Be The One You Love,9
+565,Easybeats,840,Friday On My Mind,1967,2,9233,Made My Bed (Gonna Lie In It),10
+565,Easybeats,840,Friday On My Mind,1967,2,9235,Remember Sam,11
+565,Easybeats,840,Friday On My Mind,1967,2,9238,See Line Woman,12
+565,Easybeats,840,Friday On My Mind,1967,2,9230,Heaven And Hell  ,13
+565,Easybeats,840,Friday On My Mind,1967,2,9226,Do You Have A Soul  (Long Version),14
+565,Easybeats,840,Friday On My Mind,1967,2,9240,Women (Make You Feel Alright)  ,15
+565,Easybeats,840,Friday On My Mind,1967,2,9225,All Gone Boy (Million Dollar Baby)  ,16
+565,Easybeats,840,Friday On My Mind,1967,2,9241,You Me, We Love ,17
+565,Easybeats,840,Friday On My Mind,1967,2,9232,Lisa ,18
+225,Echo In The Canyon,379,Echo in the Canyon (feat. Jakob Dylan) [Original Motion Picture Soundtrack],2019,9,4043,Go Where You Wanna Go (feat. Jakob Dylan & Jade Castrinos),1
+225,Echo In The Canyon,379,Echo in the Canyon (feat. Jakob Dylan) [Original Motion Picture Soundtrack],2019,9,4052,The Bells of Rhymney (feat. Jakob Dylan & Beck),2
+225,Echo In The Canyon,379,Echo in the Canyon (feat. Jakob Dylan) [Original Motion Picture Soundtrack],2019,9,4054,You Showed Me (feat. Jakob Dylan & Cat Power),3
+225,Echo In The Canyon,379,Echo in the Canyon (feat. Jakob Dylan) [Original Motion Picture Soundtrack],2019,9,4051,She (feat. Jakob Dylan & Josh Homme),4
+225,Echo In The Canyon,379,Echo in the Canyon (feat. Jakob Dylan) [Original Motion Picture Soundtrack],2019,9,4046,In My Room (feat. Jakob Dylan & Fiona Apple),5
+225,Echo In The Canyon,379,Echo in the Canyon (feat. Jakob Dylan) [Original Motion Picture Soundtrack],2019,9,4044,Goin' Back (feat. Jakob Dylan & Beck),6
+225,Echo In The Canyon,379,Echo in the Canyon (feat. Jakob Dylan) [Original Motion Picture Soundtrack],2019,9,4048,Never My Love (feat. Jakob Dylan & Norah Jones),7
+225,Echo In The Canyon,379,Echo in the Canyon (feat. Jakob Dylan) [Original Motion Picture Soundtrack],2019,9,4047,It Won't Be Wrong (feat. Jakob Dylan & Fiona Apple),8
+225,Echo In The Canyon,379,Echo in the Canyon (feat. Jakob Dylan) [Original Motion Picture Soundtrack],2019,9,4049,No Matter What You Do (feat. Jakob Dylan & Regina Spektor),9
+225,Echo In The Canyon,379,Echo in the Canyon (feat. Jakob Dylan) [Original Motion Picture Soundtrack],2019,9,4050,Questions (feat. Jakob Dylan & Eric Clapton),10
+225,Echo In The Canyon,379,Echo in the Canyon (feat. Jakob Dylan) [Original Motion Picture Soundtrack],2019,9,4045,I Just Wasn't Made For These Times (feat. Jakob Dylan & Neil Young),11
+225,Echo In The Canyon,379,Echo in the Canyon (feat. Jakob Dylan) [Original Motion Picture Soundtrack],2019,9,4042,Expecting To Fly (feat. Jakob Dylan & Regina Spektor),12
+225,Echo In The Canyon,379,Echo in the Canyon (feat. Jakob Dylan) [Original Motion Picture Soundtrack],2019,9,4053,What's Happening (feat. Jakob Dylan),13
+146,Eddie Cochran,186,The Complete 1950's Masters Eddie Cochran,2010,5,2018,Summertime Blues,2
+146,Eddie Cochran,186,The Complete 1950's Masters Eddie Cochran,2010,5,2019,Tell Me Why,29
+147,Eddie Hazel,187,Game, Dames And Guitar Thangs,1977,8,2021,California Dreamin',1
+147,Eddie Hazel,187,Game, Dames And Guitar Thangs,1977,8,2022,Frantic Moment,2
+147,Eddie Hazel,187,Game, Dames And Guitar Thangs,1977,8,2025,So Goes The Story,3
+147,Eddie Hazel,187,Game, Dames And Guitar Thangs,1977,8,2023,I Want You (She's So Heavy),4
+147,Eddie Hazel,187,Game, Dames And Guitar Thangs,1977,8,2024,Physical Love,5
+147,Eddie Hazel,187,Game, Dames And Guitar Thangs,1977,8,2026,What About It?,6
+147,Eddie Hazel,187,Game, Dames And Guitar Thangs,1977,8,2020,California Dreamin' (Reprise),7
+148,Eddie Izzard,188,Dress to Kill,2002,3,2044,San Francisco,1
+148,Eddie Izzard,188,Dress to Kill,2002,3,2028,American Dream,2
+148,Eddie Izzard,188,Dress to Kill,2002,3,2030,Empire,3
+148,Eddie Izzard,188,Dress to Kill,2002,3,2027,2nd World War,4
+148,Eddie Izzard,188,Dress to Kill,2002,3,2041,Pearl Harbour to Russia,5
+148,Eddie Izzard,188,Dress to Kill,2002,3,2037,Italians & Fascists,6
+148,Eddie Izzard,188,Dress to Kill,2002,3,2032,European Union,7
+148,Eddie Izzard,188,Dress to Kill,2002,3,2039,Male Tomboy,8
+148,Eddie Izzard,188,Dress to Kill,2002,3,2033,Executive Transvestite,9
+148,Eddie Izzard,188,Dress to Kill,2002,3,2046,Stonehenge,10
+148,Eddie Izzard,188,Dress to Kill,2002,3,2029,Church of England,11
+148,Eddie Izzard,188,Dress to Kill,2002,3,2045,Scooby Doo,12
+148,Eddie Izzard,188,Dress to Kill,2002,3,2035,Heimlich Maneouvre,13
+148,Eddie Izzard,188,Dress to Kill,2002,3,2036,I'm a Film Nut,14
+148,Eddie Izzard,188,Dress to Kill,2002,3,2034,Great Escape,15
+148,Eddie Izzard,188,Dress to Kill,2002,3,2042,President Kennedy,16
+148,Eddie Izzard,188,Dress to Kill,2002,3,2040,One Step for Man,17
+148,Eddie Izzard,188,Dress to Kill,2002,3,2043,Puberty,18
+148,Eddie Izzard,188,Dress to Kill,2002,3,2038,Lost My Virginity,19
+148,Eddie Izzard,188,Dress to Kill,2002,3,2031,Encore,20
+149,Eddy Grant,189,Pure Reggae,1998,12,2047,Electric Avenue,1
+152,Ekseption,191,Beggar Julia's Time Trip,1969,4,2065,Side 1,1
+152,Ekseption,191,Beggar Julia's Time Trip,1969,4,2066,Side 2,2
+153,Electric Light Orchestra,192,Out of the Blue,1977,2,2067,Turn to Stone,2
+153,Electric Light Orchestra,193,The Essential Electric Light Orchestra,2003,2,2069,Evil Woman,1
+153,Electric Light Orchestra,193,The Essential Electric Light Orchestra,2003,2,2068,Don't Bring Me Down,3
+566,Electric Prunes,841,Rhino Hi-Five: The Electric Prunes,2007,2,9244,I Had Too Much To Dream (Last Night),1
+566,Electric Prunes,841,Rhino Hi-Five: The Electric Prunes,2007,2,9243,Get Me To The World On Time,2
+566,Electric Prunes,841,Rhino Hi-Five: The Electric Prunes,2007,2,9245,I Happen To Love You,3
+566,Electric Prunes,841,Rhino Hi-Five: The Electric Prunes,2007,2,9246,Kyrie Eleison,4
+566,Electric Prunes,841,Rhino Hi-Five: The Electric Prunes,2007,2,9242,Are You Lovin' Me More (But Enjoying It Less),5
+154,Elmore James,194,Dust My Broom,1991,6,2082,Something Inside of Me,1
+154,Elmore James,194,Dust My Broom,1991,6,2079,Person to Person,2
+154,Elmore James,194,Dust My Broom,1991,6,2071,Baby Please Set a Date,3
+154,Elmore James,194,Dust My Broom,1991,6,2078,One Way Out,4
+154,Elmore James,194,Dust My Broom,1991,6,2084,The Sky Is Crying,5
+154,Elmore James,194,Dust My Broom,1991,6,2083,Talk to Me,6
+154,Elmore James,194,Dust My Broom,1991,6,2070,Anna Lee,7
+154,Elmore James,194,Dust My Broom,1991,6,2077,I Needed You,8
+154,Elmore James,194,Dust My Broom,1991,6,2073,Done Somebody Wrong,9
+154,Elmore James,194,Dust My Broom,1991,6,2074,Dust My Broom,10
+154,Elmore James,194,Dust My Broom,1991,6,2081,Shake Your Money Maker,11
+154,Elmore James,194,Dust My Broom,1991,6,2075,Fine Little Mama,12
+154,Elmore James,194,Dust My Broom,1991,6,2072,Can't Stop Lovin My Baby,13
+154,Elmore James,194,Dust My Broom,1991,6,2076,Help My Baby Last Night,14
+154,Elmore James,194,Dust My Broom,1991,6,2080,Rollin' and Tumblin',15
+155,Elton John,196,Goodbye Yellow Brick Road,1973,5,2103,Funeral for a Friend (Love Lies Bleeding),1
+155,Elton John,196,Goodbye Yellow Brick Road,1973,5,2101,Candle in the Wind,2
+155,Elton John,196,Goodbye Yellow Brick Road,1973,5,2100,Bennie and the Jets,3
+155,Elton John,196,Goodbye Yellow Brick Road,1973,5,2104,Goodbye Yellow Brick Road,4
+155,Elton John,196,Goodbye Yellow Brick Road,1973,5,2114,This Song Has No Title,5
+155,Elton John,196,Goodbye Yellow Brick Road,1973,5,2105,Greay Seal,6
+155,Elton John,196,Goodbye Yellow Brick Road,1973,5,2108,Jamaica Jerk Off,7
+155,Elton John,196,Goodbye Yellow Brick Road,1973,5,2107,I've Seen That Movie Too,8
+155,Elton John,196,Goodbye Yellow Brick Road,1973,5,2112,Sweet Painted Lady,9
+155,Elton John,196,Goodbye Yellow Brick Road,1973,5,2113,The Ballad of Danny Bailey (1909-34),10
+155,Elton John,196,Goodbye Yellow Brick Road,1973,5,2102,Dirty Little Girl,11
+155,Elton John,196,Goodbye Yellow Brick Road,1973,5,2099,All the Girls Love Alice,12
+155,Elton John,196,Goodbye Yellow Brick Road,1973,5,2115,Your Sister Can't Twist (But She Can Rock 'n Roll),13
+155,Elton John,196,Goodbye Yellow Brick Road,1973,5,2110,Saturday Night's Alright for Fighting,14
+155,Elton John,196,Goodbye Yellow Brick Road,1973,5,2109,Roy Rogers,15
+155,Elton John,196,Goodbye Yellow Brick Road,1973,5,2111,Social Disease,16
+155,Elton John,196,Goodbye Yellow Brick Road,1973,5,2106,Harmony,17
+155,Elton John,195,Live In Australia,1987,5,2091,Sixty Years On,1
+155,Elton John,195,Live In Australia,1987,5,2089,I Need You To Turn To,2
+155,Elton John,195,Live In Australia,1987,5,2094,The Greatest Discovery,3
+155,Elton John,195,Live In Australia,1987,5,2097,Tonight,4
+155,Elton John,195,Live In Australia,1987,5,2092,Sorry Seems To Be The Hardest Word,5
+155,Elton John,195,Live In Australia,1987,5,2095,The King Must Die,6
+155,Elton John,195,Live In Australia,1987,5,2093,Take Me To The Pilot,7
+155,Elton John,195,Live In Australia,1987,5,2096,Tiny Dancer,8
+155,Elton John,195,Live In Australia,1987,5,2088,Have Mercy On The Criminal,9
+155,Elton John,195,Live In Australia,1987,5,2090,Madman Across The Water,10
+155,Elton John,195,Live In Australia,1987,5,2086,Candle In The Wind,11
+155,Elton John,195,Live In Australia,1987,5,2085,Burn Down The Mission,12
+155,Elton John,195,Live In Australia,1987,5,2098,Your Song,13
+155,Elton John,195,Live In Australia,1987,5,2087,Don't Let The Sun Go Down On Me,14
+155,Elton John,197,Madman Across the Water,1971,2,2124,Tiny Dancer,1
+155,Elton John,197,Madman Across the Water,1971,2,2120,Levon,2
+155,Elton John,197,Madman Across the Water,1971,2,2122,Razor Face,3
+155,Elton John,197,Madman Across the Water,1971,2,2121,Madman Across the Water,4
+155,Elton John,197,Madman Across the Water,1971,2,2119,Indian Sunset,5
+155,Elton John,197,Madman Across the Water,1971,2,2118,Holiday Inn,6
+155,Elton John,197,Madman Across the Water,1971,2,2123,Rotten Peaches,7
+155,Elton John,197,Madman Across the Water,1971,2,2116,All the Nasties,8
+155,Elton John,197,Madman Across the Water,1971,2,2117,Goodbye,9
+155,Elton John,198,Tumbleweed Connection,1970,2,2126,Ballad of a Well-Known Gun,1
+155,Elton John,198,Tumbleweed Connection,1970,2,2128,Come Down in Time,2
+155,Elton John,198,Tumbleweed Connection,1970,2,2129,Country Comfort,3
+155,Elton John,198,Tumbleweed Connection,1970,2,2134,Son of Your Father,4
+155,Elton John,198,Tumbleweed Connection,1970,2,2133,My Father's Gun,5
+155,Elton John,198,Tumbleweed Connection,1970,2,2136,Where to Now St. Peter?,6
+155,Elton John,198,Tumbleweed Connection,1970,2,2131,Love Song,7
+155,Elton John,198,Tumbleweed Connection,1970,2,2125,Amoreena,8
+155,Elton John,198,Tumbleweed Connection,1970,2,2135,Talking Old Soldiers,9
+155,Elton John,198,Tumbleweed Connection,1970,2,2127,Burn Down the Mission,10
+155,Elton John,198,Tumbleweed Connection,1970,2,2130,Into the Old Man's Shoes,11
+155,Elton John,198,Tumbleweed Connection,1970,2,2132,Madman Across the Water [Original Version],12
+157,Elvis Costello,201,My Aim Is True,1977,2,2183,Welcome to the Working Week,1
+157,Elvis Costello,201,My Aim Is True,1977,2,2176,Miracle Man,2
+157,Elvis Costello,201,My Aim Is True,1977,2,2178,No Dancing,3
+157,Elvis Costello,201,My Aim Is True,1977,2,2173,Blame It on Cain,4
+157,Elvis Costello,201,My Aim Is True,1977,2,2172,Alison,5
+157,Elvis Costello,201,My Aim Is True,1977,2,2180,Sneaky Feelings,6
+157,Elvis Costello,201,My Aim Is True,1977,2,2171,(The Angels Wanna Wear My) Red Shoes,7
+157,Elvis Costello,201,My Aim Is True,1977,2,2175,Less Than Zero,8
+157,Elvis Costello,201,My Aim Is True,1977,2,2177,Mystery Dance,9
+157,Elvis Costello,201,My Aim Is True,1977,2,2179,Pay It Back,10
+157,Elvis Costello,201,My Aim Is True,1977,2,2174,I'm Not Angry,11
+157,Elvis Costello,201,My Aim Is True,1977,2,2181,Waiting for the End of the World,12
+157,Elvis Costello,201,My Aim Is True,1977,2,2182,Watching the Detectives,13
+157,Elvis Costello,202,This Year's Model,1978,2,2191,No Action,1
+157,Elvis Costello,202,This Year's Model,1978,2,2195,This Year's Girl,2
+157,Elvis Costello,202,This Year's Model,1978,2,2194,The Beat,3
+157,Elvis Costello,202,This Year's Model,1978,2,2192,Pump It Up,4
+157,Elvis Costello,202,This Year's Model,1978,2,2188,Little Triggers,5
+157,Elvis Costello,202,This Year's Model,1978,2,2196,You Belong to Me,6
+157,Elvis Costello,202,This Year's Model,1978,2,2185,Hand in Hand,7
+157,Elvis Costello,202,This Year's Model,1978,2,2184,(I Don't Want to Go To) Chelsea,8
+157,Elvis Costello,202,This Year's Model,1978,2,2186,Lip Service,9
+157,Elvis Costello,202,This Year's Model,1978,2,2189,Living in Paradise,10
+157,Elvis Costello,202,This Year's Model,1978,2,2187,Lipstick Vogue,11
+157,Elvis Costello,202,This Year's Model,1978,2,2190,Night Rally,12
+157,Elvis Costello,202,This Year's Model,1978,2,2193,Radio, Radio [*],13
+156,Elvis Costello & the Attractions,199,Armed Forces,1979,2,2138,Accidents Will Happen,1
+156,Elvis Costello & the Attractions,199,Armed Forces,1979,2,2147,Senior Service,2
+156,Elvis Costello & the Attractions,199,Armed Forces,1979,2,2145,Oliver's Army,3
+156,Elvis Costello & the Attractions,199,Armed Forces,1979,2,2139,Big Boys,4
+156,Elvis Costello & the Attractions,199,Armed Forces,1979,2,2143,Green Shirt,5
+156,Elvis Costello & the Attractions,199,Armed Forces,1979,2,2146,Party Girl,6
+156,Elvis Costello & the Attractions,199,Armed Forces,1979,2,2142,Goon Squad,7
+156,Elvis Costello & the Attractions,199,Armed Forces,1979,2,2140,Busy Bodies,8
+156,Elvis Costello & the Attractions,199,Armed Forces,1979,2,2148,Sunday's Best,9
+156,Elvis Costello & the Attractions,199,Armed Forces,1979,2,2144,Moods for Moderns,10
+156,Elvis Costello & the Attractions,199,Armed Forces,1979,2,2141,Chemistry Class,11
+156,Elvis Costello & the Attractions,199,Armed Forces,1979,2,2149,Two Little Hitlers,12
+156,Elvis Costello & the Attractions,199,Armed Forces,1979,2,2137,(What's So Funny 'Bout) Peace, Love and Understanding?,13
+156,Elvis Costello & the Attractions,200,Get Happy!!,1980,2,2161,Love for Tender,1
+156,Elvis Costello & the Attractions,200,Get Happy!!,1980,2,2165,Opportunity,2
+156,Elvis Costello & the Attractions,200,Get Happy!!,1980,2,2170,The Imposter,3
+156,Elvis Costello & the Attractions,200,Get Happy!!,1980,2,2168,Secondary Modern,4
+156,Elvis Costello & the Attractions,200,Get Happy!!,1980,2,2160,King Horse,5
+156,Elvis Costello & the Attractions,200,Get Happy!!,1980,2,2166,Possession,6
+156,Elvis Costello & the Attractions,200,Get Happy!!,1980,2,2162,Men Called Uncle,7
+156,Elvis Costello & the Attractions,200,Get Happy!!,1980,2,2154,Clowntime Is Over,8
+156,Elvis Costello & the Attractions,200,Get Happy!!,1980,2,2164,New Amsterdam,9
+156,Elvis Costello & the Attractions,200,Get Happy!!,1980,2,2156,High Fidelity,10
+156,Elvis Costello & the Attractions,200,Get Happy!!,1980,2,2158,I Can't Stand Up (for Falling Down),11
+156,Elvis Costello & the Attractions,200,Get Happy!!,1980,2,2153,Black & White World,12
+156,Elvis Costello & the Attractions,200,Get Happy!!,1980,2,2150,5ive Gears in Reverse,13
+156,Elvis Costello & the Attractions,200,Get Happy!!,1980,2,2151,B Movie,14
+156,Elvis Costello & the Attractions,200,Get Happy!!,1980,2,2163,Motel Matches,15
+156,Elvis Costello & the Attractions,200,Get Happy!!,1980,2,2157,Human Touch,16
+156,Elvis Costello & the Attractions,200,Get Happy!!,1980,2,2152,Beaten to the Punch,17
+156,Elvis Costello & the Attractions,200,Get Happy!!,1980,2,2169,Temptation,18
+156,Elvis Costello & the Attractions,200,Get Happy!!,1980,2,2159,I Stand Accused,19
+156,Elvis Costello & the Attractions,200,Get Happy!!,1980,2,2167,Riot Act,20
+156,Elvis Costello & the Attractions,200,Get Happy!!,1980,2,2155,Girls Talk [*],21
+158,Emilia Sosa,203,Rhythm of Life,2007,5,2204,Rhythm of Life,1
+158,Emilia Sosa,203,Rhythm of Life,2007,5,2202,Nothing Good to Say,2
+158,Emilia Sosa,203,Rhythm of Life,2007,5,2205,Rumour of a Hooker,3
+158,Emilia Sosa,203,Rhythm of Life,2007,5,2197,Ancestors,4
+158,Emilia Sosa,203,Rhythm of Life,2007,5,2198,Burning in the Sun,5
+158,Emilia Sosa,203,Rhythm of Life,2007,5,2207,Wondrous Skies,6
+158,Emilia Sosa,203,Rhythm of Life,2007,5,2200,Lost Without You,7
+158,Emilia Sosa,203,Rhythm of Life,2007,5,2199,Hypnotized,8
+158,Emilia Sosa,203,Rhythm of Life,2007,5,2203,Perfect Girl,9
+158,Emilia Sosa,203,Rhythm of Life,2007,5,2201,Medicated,10
+158,Emilia Sosa,203,Rhythm of Life,2007,5,2206,Wondrous DuB 7,11
+159,Eminem,204,Blue Print,2001,14,2208,Renegade,1
+159,Eminem,205,Recovery,2010,14,2212,Cold Wind Blows,1
+159,Eminem,205,Recovery,2010,14,2223,Talkin' 2 Myself,2
+159,Eminem,205,Recovery,2010,14,2217,On Fire,3
+159,Eminem,205,Recovery,2010,14,2226,Won't Back Down,4
+159,Eminem,205,Recovery,2010,14,2225,W.T.P.,5
+159,Eminem,205,Recovery,2010,14,2213,Going Through Changes,6
+159,Eminem,205,Recovery,2010,14,2216,Not Afraid,7
+159,Eminem,205,Recovery,2010,14,2219,Seduction,8
+159,Eminem,205,Recovery,2010,14,2215,No Love,9
+159,Eminem,205,Recovery,2010,14,2222,Space Bound,10
+159,Eminem,205,Recovery,2010,14,2211,Cinderella Man,11
+159,Eminem,205,Recovery,2010,14,2209,25 to Life,12
+159,Eminem,205,Recovery,2010,14,2221,So Bad,13
+159,Eminem,205,Recovery,2010,14,2210,Almost Famous,14
+159,Eminem,205,Recovery,2010,14,2214,Love the Way You Lie,15
+159,Eminem,205,Recovery,2010,14,2227,You're Never Over,16
+159,Eminem,205,Recovery,2010,14,2224,Untitled,17
+159,Eminem,205,Recovery,2010,14,2218,Ridaz,18
+159,Eminem,205,Recovery,2010,14,2220,Session One,19
+160,Emmylou Harris,206,Heartaches and Highways,2005,11,2236,Love Hurts,1
+160,Emmylou Harris,206,Heartaches and Highways,2005,11,2231,Boulder to Birmingham,2
+160,Emmylou Harris,206,Heartaches and Highways,2005,11,2237,Making Believe,3
+160,Emmylou Harris,206,Heartaches and Highways,2005,11,2241,Pancho And Lefty,4
+160,Emmylou Harris,206,Heartaches and Highways,2005,11,2239,One Of These Days,5
+160,Emmylou Harris,206,Heartaches and Highways,2005,11,2228,(Lost His Love) On Our Last Date (Live),6
+160,Emmylou Harris,206,Heartaches and Highways,2005,11,2230,Born To Run,7
+160,Emmylou Harris,206,Heartaches and Highways,2005,11,2229,Beneath Still Waters,8
+160,Emmylou Harris,206,Heartaches and Highways,2005,11,2235,If I Could Only Win Your Love,9
+160,Emmylou Harris,206,Heartaches and Highways,2005,11,2245,Together Again,10
+160,Emmylou Harris,206,Heartaches and Highways,2005,11,2242,That Lovin' You Feelin' Again (With Roy Orbison),11
+160,Emmylou Harris,206,Heartaches and Highways,2005,11,2244,To Know Him Is To Love Him (With Dolly Parton & Linda Ronstadt),12
+160,Emmylou Harris,206,Heartaches and Highways,2005,11,2246,Two More Bottles Of Wine,13
+160,Emmylou Harris,206,Heartaches and Highways,2005,11,2247,Wayfaring Stranger,14
+160,Emmylou Harris,206,Heartaches and Highways,2005,11,2232,Calling My Children Home,15
+160,Emmylou Harris,206,Heartaches and Highways,2005,11,2233,Green Pastures,16
+160,Emmylou Harris,206,Heartaches and Highways,2005,11,2240,Orphan Girl,17
+160,Emmylou Harris,206,Heartaches and Highways,2005,11,2238,Michaelangelo,18
+160,Emmylou Harris,206,Heartaches and Highways,2005,11,2234,Here I Am,19
+160,Emmylou Harris,206,Heartaches and Highways,2005,11,2243,The Connection,20
+161,En Vogue,207,Best Of En Vogue,2000,8,2253,My Lovin' (You're Never Gonna Get It),1
+161,En Vogue,207,Best Of En Vogue,2000,8,2258,Whatta Man,3
+161,En Vogue,207,Best Of En Vogue,2000,8,2248,Don't Let Go (Love),5
+161,En Vogue,207,Best Of En Vogue,2000,8,2254,No Fool No More,7
+161,En Vogue,207,Best Of En Vogue,2000,8,2257,Whatever,8
+161,En Vogue,207,Best Of En Vogue,2000,8,2251,Lies,9
+161,En Vogue,207,Best Of En Vogue,2000,8,2255,Runaway Love,11
+161,En Vogue,207,Best Of En Vogue,2000,8,2256,Too Gone, Too Long,12
+161,En Vogue,207,Best Of En Vogue,2000,8,2250,Let It Flow,13
+161,En Vogue,207,Best Of En Vogue,2000,8,2252,Love Don't Love You,14
+161,En Vogue,207,Best Of En Vogue,2000,8,2249,Hold On (Remix),16
+161,En Vogue,208,Funky Divas,1992,8,2269,This is Your Life,1
+161,En Vogue,208,Funky Divas,1992,8,2267,My Lovin' (You're Never Gonna Get It),2
+161,En Vogue,208,Funky Divas,1992,8,2263,Hip Hop Lover,3
+161,En Vogue,208,Funky Divas,1992,8,2260,Free Your Mind,4
+161,En Vogue,208,Funky Divas,1992,8,2259,Desire,5
+161,En Vogue,208,Funky Divas,1992,8,2262,Giving Him Something He Can Feel,6
+161,En Vogue,208,Funky Divas,1992,8,2265,It Ain't Over Till the Fat Lady Sings,7
+161,En Vogue,208,Funky Divas,1992,8,2261,Give it Up, Turn it Loose,8
+161,En Vogue,208,Funky Divas,1992,8,2271,Yesterday,9
+161,En Vogue,208,Funky Divas,1992,8,2264,Hooked on Your Love,10
+161,En Vogue,208,Funky Divas,1992,8,2266,Love Don't Love You,11
+161,En Vogue,208,Funky Divas,1992,8,2270,What is Love,12
+161,En Vogue,208,Funky Divas,1992,8,2268,Thanks - Prayer,13
+162,Eric Burdon and the Animals,209,Love Is,1968,2,2278,River Deep, Mountain High,1
+162,Eric Burdon and the Animals,209,Love Is,1968,2,2275,I'm An Animal,2
+162,Eric Burdon and the Animals,209,Love Is,1968,2,2276,I'm Dying (Or Am I),3
+162,Eric Burdon and the Animals,209,Love Is,1968,2,2277,Ring Of Fire,4
+162,Eric Burdon and the Animals,209,Love Is,1968,2,2273,Coloured Rain,5
+162,Eric Burdon and the Animals,209,Love Is,1968,2,2279,To Love Somebody,6
+162,Eric Burdon and the Animals,209,Love Is,1968,2,2272,As The Years Go Passing By,7
+162,Eric Burdon and the Animals,209,Love Is,1968,2,2274,Gemini,8
+162,Eric Burdon and the Animals,211,The Twain Shall Meet,2002,2,2287,Monterey,1
+162,Eric Burdon and the Animals,211,The Twain Shall Meet,2002,2,2286,Just the Thought,2
+162,Eric Burdon and the Animals,211,The Twain Shall Meet,2002,2,2285,Closer to the Truth,3
+162,Eric Burdon and the Animals,211,The Twain Shall Meet,2002,2,2288,No Self Pity,4
+162,Eric Burdon and the Animals,211,The Twain Shall Meet,2002,2,2289,Orange and Red Beams,5
+162,Eric Burdon and the Animals,211,The Twain Shall Meet,2002,2,2290,Sky Pilot,6
+162,Eric Burdon and the Animals,211,The Twain Shall Meet,2002,2,2291,We Love You Lil,7
+162,Eric Burdon and the Animals,211,The Twain Shall Meet,2002,2,2284,All Is One,8
+162,Eric Burdon and the Animals,212,Winds of Change,2002,2,2301,Winds of Change,1
+162,Eric Burdon and the Animals,212,Winds of Change,2002,2,2298,Poem by the Sea,2
+162,Eric Burdon and the Animals,212,Winds of Change,2002,2,2297,Paint It Black,3
+162,Eric Burdon and the Animals,212,Winds of Change,2002,2,2300,The Black Plague,4
+162,Eric Burdon and the Animals,212,Winds of Change,2002,2,2302,Yes I Am Experienced,5
+162,Eric Burdon and the Animals,212,Winds of Change,2002,2,2299,San Franciscan Nights,6
+162,Eric Burdon and the Animals,212,Winds of Change,2002,2,2296,Man - Woman,7
+162,Eric Burdon and the Animals,212,Winds of Change,2002,2,2294,Hotel Hell,8
+162,Eric Burdon and the Animals,212,Winds of Change,2002,2,2293,Good Times,9
+162,Eric Burdon and the Animals,212,Winds of Change,2002,2,2292,Anything,10
+162,Eric Burdon and the Animals,212,Winds of Change,2002,2,2295,It's All Meat,11
+70,Eric Clapton,213,461 Ocean Boulevard,1990,2,2310,Motherless Children,1
+70,Eric Clapton,213,461 Ocean Boulevard,1990,2,2303,Better Make It Through Today,2
+70,Eric Clapton,213,461 Ocean Boulevard,1990,2,2313,Willie and the Hand Jive,3
+70,Eric Clapton,213,461 Ocean Boulevard,1990,2,2304,Get Ready,4
+70,Eric Clapton,213,461 Ocean Boulevard,1990,2,2307,I Shot the Sheriff,5
+70,Eric Clapton,213,461 Ocean Boulevard,1990,2,2306,I Can’t Hold Out,6
+70,Eric Clapton,213,461 Ocean Boulevard,1990,2,2311,Please Be With Me,7
+70,Eric Clapton,213,461 Ocean Boulevard,1990,2,2308,Let It Grow,8
+70,Eric Clapton,213,461 Ocean Boulevard,1990,2,2312,Steady Rollin’ Man,9
+70,Eric Clapton,213,461 Ocean Boulevard,1990,2,2309,Mainline Florida,10
+70,Eric Clapton,213,461 Ocean Boulevard,1990,2,2305,Give Me Strength,11
+70,Eric Clapton,214,Behind The Sun,1985,2,2322,She's Waiting,1
+70,Eric Clapton,214,Behind The Sun,1985,2,2321,See What Love Can Do,2
+70,Eric Clapton,214,Behind The Sun,1985,2,2320,Same Old Blues,3
+70,Eric Clapton,214,Behind The Sun,1985,2,2318,Knock On Wood,4
+70,Eric Clapton,214,Behind The Sun,1985,2,2323,Something's Happening,5
+70,Eric Clapton,214,Behind The Sun,1985,2,2315,Forever Man,6
+70,Eric Clapton,214,Behind The Sun,1985,2,2316,It All Depends,7
+70,Eric Clapton,214,Behind The Sun,1985,2,2324,Tangled In Love,8
+70,Eric Clapton,214,Behind The Sun,1985,2,2319,Never Make You Cry,9
+70,Eric Clapton,214,Behind The Sun,1985,2,2317,Just Like A Prisoner,10
+70,Eric Clapton,214,Behind The Sun,1985,2,2314,Behind The Sun,11
+70,Eric Clapton,215,Crossroads Disc 1,1988,2,2329,Boom Boom  [The Yardbirds],1
+70,Eric Clapton,215,Crossroads Disc 1,1988,2,2335,Honey In Your Hips  [The Yardbirds],2
+70,Eric Clapton,215,Crossroads Disc 1,1988,2,2327,Baby What's Wrong  [The Yardbirds],3
+70,Eric Clapton,215,Crossroads Disc 1,1988,2,2338,I Wish You Would  [The Yardbirds],4
+70,Eric Clapton,215,Crossroads Disc 1,1988,2,2325,A Certain Girl  [The Yardbirds],5
+70,Eric Clapton,215,Crossroads Disc 1,1988,2,2331,Good Morning LIttle Schoolgirl  [The Yardbirds],6
+70,Eric Clapton,215,Crossroads Disc 1,1988,2,2336,I Ain't Got You  [The Yardbirds],7
+70,Eric Clapton,215,Crossroads Disc 1,1988,2,2330,For Your Love  [The Yardbirds],8
+70,Eric Clapton,215,Crossroads Disc 1,1988,2,2332,Got To Hurry  [The Yardbirds],9
+70,Eric Clapton,215,Crossroads Disc 1,1988,2,2340,Lonely Years  [John Mayall & Eric Clapton],10
+70,Eric Clapton,215,Crossroads Disc 1,1988,2,2328,Bernard Jenkins  [John Mayall & Eric Clapton],11
+70,Eric Clapton,215,Crossroads Disc 1,1988,2,2334,Hideaway  [John Mayall's Bluesbreakers],12
+70,Eric Clapton,215,Crossroads Disc 1,1988,2,2326,All Your LOve  [John Mayall's Bluesbreakers],13
+70,Eric Clapton,215,Crossroads Disc 1,1988,2,2341,Ramblin' On My MInd  [John Mayall's Bluesbreakers],14
+70,Eric Clapton,215,Crossroads Disc 1,1988,2,2333,Have You Ever Loved A Woman  [John Mayall's Bluesbreakers],15
+70,Eric Clapton,215,Crossroads Disc 1,1988,2,2347,Wrapping Paper  [Cream],16
+70,Eric Clapton,215,Crossroads Disc 1,1988,2,2337,I Feel Free  [Cream],17
+70,Eric Clapton,215,Crossroads Disc 1,1988,2,2342,Spoonful  [Cream],18
+70,Eric Clapton,215,Crossroads Disc 1,1988,2,2339,Lawdy Mama  [Cream],19
+70,Eric Clapton,215,Crossroads Disc 1,1988,2,2344,Strange Brew  [Cream],20
+70,Eric Clapton,215,Crossroads Disc 1,1988,2,2345,Sunshine Of Your Love  [Cream],21
+70,Eric Clapton,215,Crossroads Disc 1,1988,2,2346,Tales Of Brave Ulysses  [Cream],22
+70,Eric Clapton,215,Crossroads Disc 1,1988,2,2343,Steppin' Out  [Cream],23
+70,Eric Clapton,216,Crossroads Disc 2,1988,2,2349,Anyone For Tennis,1
+70,Eric Clapton,216,Crossroads Disc 2,1988,2,2363,White Room,2
+70,Eric Clapton,216,Crossroads Disc 2,1988,2,2350,Badge,4
+70,Eric Clapton,216,Crossroads Disc 2,1988,2,2359,Presence Of The Lord,5
+70,Eric Clapton,216,Crossroads Disc 2,1988,2,2352,Can't Find My Way Home,6
+70,Eric Clapton,216,Crossroads Disc 2,1988,2,2361,Sleeping In The Ground,7
+70,Eric Clapton,216,Crossroads Disc 2,1988,2,2353,Comin' Home,8
+70,Eric Clapton,216,Crossroads Disc 2,1988,2,2351,Blues Power,9
+70,Eric Clapton,216,Crossroads Disc 2,1988,2,2348,After Midnight,10
+70,Eric Clapton,216,Crossroads Disc 2,1988,2,2357,Let It Rain,11
+70,Eric Clapton,216,Crossroads Disc 2,1988,2,2362,Tell The Truth,12
+70,Eric Clapton,216,Crossroads Disc 2,1988,2,2360,Roll It Over,13
+70,Eric Clapton,216,Crossroads Disc 2,1988,2,2356,Layla,14
+70,Eric Clapton,216,Crossroads Disc 2,1988,2,2358,Mean Old World,15
+70,Eric Clapton,216,Crossroads Disc 2,1988,2,2355,Key To The Highway,16
+70,Eric Clapton,216,Crossroads Disc 2,1988,2,2354,Crossroads,17
+70,Eric Clapton,217,Crossroads Disc 3,1988,2,2368,Got To Get Better In A Little While (Derek And The Dominos),1
+70,Eric Clapton,217,Crossroads Disc 3,1988,2,2367,Evil (Derek And The Dominos),2
+70,Eric Clapton,217,Crossroads Disc 3,1988,2,2375,One More Chance (Derek And The Dominos),3
+70,Eric Clapton,217,Crossroads Disc 3,1988,2,2373,Mean Old Frisco (Derek And The Dominos),4
+70,Eric Clapton,217,Crossroads Disc 3,1988,2,2376,Snake Lake Blues (Derek And The Dominos),5
+70,Eric Clapton,217,Crossroads Disc 3,1988,2,2372,Let It Grow (Eric Clapton),6
+70,Eric Clapton,217,Crossroads Disc 3,1988,2,2365,Ain't That Lovin' You (Eric Clapton),7
+70,Eric Clapton,217,Crossroads Disc 3,1988,2,2374,Motherless Children (Eric Clapton),8
+70,Eric Clapton,217,Crossroads Disc 3,1988,2,2370,I Shot The Sheriff (Eric Clapton),9
+70,Eric Clapton,217,Crossroads Disc 3,1988,2,2366,Better Make It Through Today (Eric Clapton),10
+70,Eric Clapton,217,Crossroads Disc 3,1988,2,2378,The Sky Is Crying (Eric Clapton),11
+70,Eric Clapton,217,Crossroads Disc 3,1988,2,2369,I Found A Love (Eric Clapton),12
+70,Eric Clapton,217,Crossroads Disc 3,1988,2,2364,(When Things Go Wrong) It Hurts Me Too (Eric Clapton),13
+70,Eric Clapton,217,Crossroads Disc 3,1988,2,2379,Whatcha Gonna Do (Eric Clapton),14
+70,Eric Clapton,217,Crossroads Disc 3,1988,2,2371,Knockin' On Heaven's Door (Eric Clapton),15
+70,Eric Clapton,217,Crossroads Disc 3,1988,2,2377,Someone Like You (Eric Clapton),16
+70,Eric Clapton,218,Crossroads Disc 4,1988,2,2385,Hello Old Friend,1
+70,Eric Clapton,218,Crossroads Disc 4,1988,2,2392,Sign Language,2
+70,Eric Clapton,218,Crossroads Disc 4,1988,2,2383,Further On Up The Road,3
+70,Eric Clapton,218,Crossroads Disc 4,1988,2,2388,Lay Down Sally,4
+70,Eric Clapton,218,Crossroads Disc 4,1988,2,2396,Wonderful Tonight,5
+70,Eric Clapton,218,Crossroads Disc 4,1988,2,2381,Cocaine,6
+70,Eric Clapton,218,Crossroads Disc 4,1988,2,2390,Promises,7
+70,Eric Clapton,218,Crossroads Disc 4,1988,2,2387,If I Don't Be There By Morning,8
+70,Eric Clapton,218,Crossroads Disc 4,1988,2,2382,Double Trouble,9
+70,Eric Clapton,218,Crossroads Disc 4,1988,2,2386,I Can't Stand It,10
+70,Eric Clapton,218,Crossroads Disc 4,1988,2,2393,The Shape You're In,11
+70,Eric Clapton,218,Crossroads Disc 4,1988,2,2384,Heaven Is One Step Away,12
+70,Eric Clapton,218,Crossroads Disc 4,1988,2,2391,She's Waiting,13
+70,Eric Clapton,218,Crossroads Disc 4,1988,2,2394,Too Bad,14
+70,Eric Clapton,218,Crossroads Disc 4,1988,2,2389,Miss You,15
+70,Eric Clapton,218,Crossroads Disc 4,1988,2,2395,Wanna Make Love To You,16
+70,Eric Clapton,218,Crossroads Disc 4,1988,2,2380,After Midnight,17
+70,Eric Clapton,219,From the Cradle,1994,2,2397,Blues Before Sunrise,1
+70,Eric Clapton,219,From the Cradle,1994,2,2412,Third Degree,2
+70,Eric Clapton,219,From the Cradle,1994,2,2408,Reconsider Baby,3
+70,Eric Clapton,219,From the Cradle,1994,2,2403,Hoochie Coochie Man,4
+70,Eric Clapton,219,From the Cradle,1994,2,2400,Five Long Years,5
+70,Eric Clapton,219,From the Cradle,1994,2,2406,I’m Tore Down,6
+70,Eric Clapton,219,From the Cradle,1994,2,2404,How Long Blues,7
+70,Eric Clapton,219,From the Cradle,1994,2,2401,Goin’ Away Baby,8
+70,Eric Clapton,219,From the Cradle,1994,2,2398,Blues Leave Me Alone,9
+70,Eric Clapton,219,From the Cradle,1994,2,2409,Sinner’s Prayer,10
+70,Eric Clapton,219,From the Cradle,1994,2,2407,Motherless Child,11
+70,Eric Clapton,219,From the Cradle,1994,2,2405,It Hurts Me Too,12
+70,Eric Clapton,219,From the Cradle,1994,2,2410,Someday After a While,13
+70,Eric Clapton,219,From the Cradle,1994,2,2411,Standin’ Round Crying,14
+70,Eric Clapton,219,From the Cradle,1994,2,2399,Driftin’,15
+70,Eric Clapton,219,From the Cradle,1994,2,2402,Groaning the Blues,16
+70,Eric Clapton,220,Journeyman,1989,2,2422,Pretending,1
+70,Eric Clapton,220,Journeyman,1989,2,2413,Anything For Your Love,2
+70,Eric Clapton,220,Journeyman,1989,2,2414,Bad Love,3
+70,Eric Clapton,220,Journeyman,1989,2,2424,Running On Faith,4
+70,Eric Clapton,220,Journeyman,1989,2,2417,Hard Times,5
+70,Eric Clapton,220,Journeyman,1989,2,2418,Hound Dog,6
+70,Eric Clapton,220,Journeyman,1989,2,2420,No Alibis,7
+70,Eric Clapton,220,Journeyman,1989,2,2423,Run So Far,8
+70,Eric Clapton,220,Journeyman,1989,2,2421,Old Love,9
+70,Eric Clapton,220,Journeyman,1989,2,2416,Breaking Point,10
+70,Eric Clapton,220,Journeyman,1989,2,2419,Lead Me On,11
+70,Eric Clapton,220,Journeyman,1989,2,2415,Before You Accuse Me,12
+70,Eric Clapton,221,Reptile,2001,2,2434,Reptile,1
+70,Eric Clapton,221,Reptile,2001,2,2430,Got You On My Mind,2
+70,Eric Clapton,221,Reptile,2001,2,2438,Travelin' Light,3
+70,Eric Clapton,221,Reptile,2001,2,2425,Believe In Life,4
+70,Eric Clapton,221,Reptile,2001,2,2427,Come Back Baby,5
+70,Eric Clapton,221,Reptile,2001,2,2426,Broken Down,6
+70,Eric Clapton,221,Reptile,2001,2,2429,Find Myself,7
+70,Eric Clapton,221,Reptile,2001,2,2431,I Ain't Gonna Stand For It,8
+70,Eric Clapton,221,Reptile,2001,2,2432,I Want A Little Girl,9
+70,Eric Clapton,221,Reptile,2001,2,2435,Second Nature,10
+70,Eric Clapton,221,Reptile,2001,2,2428,Don't Let Me Be Lonely Tonight,11
+70,Eric Clapton,221,Reptile,2001,2,2433,Modern Girl,12
+70,Eric Clapton,221,Reptile,2001,2,2437,Superman Inside,13
+70,Eric Clapton,221,Reptile,2001,2,2436,Son & Sylvia,14
+70,Eric Clapton,222,Unplugged,1992,2,2450,Signe,1
+70,Eric Clapton,222,Unplugged,1992,2,2440,Before You Accuse Me,2
+70,Eric Clapton,222,Unplugged,1992,2,2441,Hey Hey,3
+70,Eric Clapton,222,Unplugged,1992,2,6426,Jesus Doesn't Want Me for a Sunbeam,3
+70,Eric Clapton,222,Unplugged,1992,2,2451,Tears In Heaven,4
+70,Eric Clapton,222,Unplugged,1992,2,2443,Lonely Strange,5
+70,Eric Clapton,222,Unplugged,1992,2,2445,Nobody Knows You When You're Down & Out,6
+70,Eric Clapton,222,Unplugged,1992,2,2442,Layla,7
+70,Eric Clapton,222,Unplugged,1992,2,2448,Running On Faith,8
+70,Eric Clapton,222,Unplugged,1992,2,2452,Walkin' Blues,9
+70,Eric Clapton,222,Unplugged,1992,2,2439,Alberta,10
+70,Eric Clapton,222,Unplugged,1992,2,6429,Plateau,10
+70,Eric Clapton,222,Unplugged,1992,2,6428,Oh, Me,11
+70,Eric Clapton,222,Unplugged,1992,2,2449,San Francisco Bay Blues,11
+70,Eric Clapton,222,Unplugged,1992,2,2444,Malted Milk,12
+70,Eric Clapton,222,Unplugged,1992,2,6427,Lake of Fire,12
+70,Eric Clapton,222,Unplugged,1992,2,2446,Old Love,13
+70,Eric Clapton,222,Unplugged,1992,2,2447,Rollin' & Tumblin',14
+70,Eric Clapton,222,Unplugged,1992,2,6430,Where Did You Sleep Last Night?,14
+368,Eric Idle/John Du Prez/Tim Curry/David Hyde Pierce/Hank Azaria,535,Monty Python's Spamalot (2005 Original Broadway Cast),2005,3,5821,Overture,2
+368,Eric Idle/John Du Prez/Tim Curry/David Hyde Pierce/Hank Azaria,535,Monty Python's Spamalot (2005 Original Broadway Cast),2005,3,5816,Historian's Introduction to Act I,3
+368,Eric Idle/John Du Prez/Tim Curry/David Hyde Pierce/Hank Azaria,535,Monty Python's Spamalot (2005 Original Broadway Cast),2005,3,5814,Finland/Fisch Schlapping Dance,4
+368,Eric Idle/John Du Prez/Tim Curry/David Hyde Pierce/Hank Azaria,535,Monty Python's Spamalot (2005 Original Broadway Cast),2005,3,5820,Monks Chant / He Is Not Dead Yet,5
+368,Eric Idle/John Du Prez/Tim Curry/David Hyde Pierce/Hank Azaria,535,Monty Python's Spamalot (2005 Original Broadway Cast),2005,3,5819,Laker Girls Cheer,7
+368,Eric Idle/John Du Prez/Tim Curry/David Hyde Pierce/Hank Azaria,535,Monty Python's Spamalot (2005 Original Broadway Cast),2005,3,5810,All For One,10
+368,Eric Idle/John Du Prez/Tim Curry/David Hyde Pierce/Hank Azaria,535,Monty Python's Spamalot (2005 Original Broadway Cast),2005,3,5818,Knights of the Round Table/The Song That Goes Like This (Reprise),11
+368,Eric Idle/John Du Prez/Tim Curry/David Hyde Pierce/Hank Azaria,535,Monty Python's Spamalot (2005 Original Broadway Cast),2005,3,5813,Find Your Grail,12
+368,Eric Idle/John Du Prez/Tim Curry/David Hyde Pierce/Hank Azaria,535,Monty Python's Spamalot (2005 Original Broadway Cast),2005,3,5822,Run Away!,13
+368,Eric Idle/John Du Prez/Tim Curry/David Hyde Pierce/Hank Azaria,535,Monty Python's Spamalot (2005 Original Broadway Cast),2005,3,5812,Brave Sir Robin,17
+368,Eric Idle/John Du Prez/Tim Curry/David Hyde Pierce/Hank Azaria,535,Monty Python's Spamalot (2005 Original Broadway Cast),2005,3,5824,Where Are You?,20
+368,Eric Idle/John Du Prez/Tim Curry/David Hyde Pierce/Hank Azaria,535,Monty Python's Spamalot (2005 Original Broadway Cast),2005,3,5815,His Name Is Lancelot,21
+368,Eric Idle/John Du Prez/Tim Curry/David Hyde Pierce/Hank Azaria,535,Monty Python's Spamalot (2005 Original Broadway Cast),2005,3,5817,I'm All Alone,22
+368,Eric Idle/John Du Prez/Tim Curry/David Hyde Pierce/Hank Azaria,535,Monty Python's Spamalot (2005 Original Broadway Cast),2005,3,5823,Twice In Every Show,23
+368,Eric Idle/John Du Prez/Tim Curry/David Hyde Pierce/Hank Azaria,535,Monty Python's Spamalot (2005 Original Broadway Cast),2005,3,5811,Always Look On The Bright Side of Life - Company Bow,25
+164,Etta James,223,Live From San Fransciso,1994,6,2455,I Just Want To Make Love To You,1
+164,Etta James,223,Live From San Fransciso,1994,6,2459,Take It To the Limit,2
+164,Etta James,223,Live From San Fransciso,1994,6,2453,Baby What You Want Me To Do,3
+164,Etta James,223,Live From San Fransciso,1994,6,2458,Sugar On the Floor,4
+164,Etta James,223,Live From San Fransciso,1994,6,2460,Tell Mama,5
+164,Etta James,223,Live From San Fransciso,1994,6,2456,I'd Rather Go Blind,6
+164,Etta James,223,Live From San Fransciso,1994,6,2457,Otis Redding Medley--Hard To Handle--Just One More Day--Can't Turn You Loose,7
+164,Etta James,223,Live From San Fransciso,1994,6,2454,Born Blue,8
+165,Eve 6,224,Eve 6,1998,2,2461,How Much Longer,1
+165,Eve 6,224,Eve 6,1998,2,2462,Inside Out,2
+165,Eve 6,224,Eve 6,1998,2,2464,Leech,3
+165,Eve 6,224,Eve 6,1998,2,2467,Showerhead,4
+165,Eve 6,224,Eve 6,1998,2,2465,Open Road Song,5
+165,Eve 6,224,Eve 6,1998,2,2463,Jesus Nitelite,6
+165,Eve 6,224,Eve 6,1998,2,2469,Superhero Girl,7
+165,Eve 6,224,Eve 6,1998,2,2471,Tongue Tied,8
+165,Eve 6,224,Eve 6,1998,2,2466,Saturday Night,9
+165,Eve 6,224,Eve 6,1998,2,2470,There's a Face,10
+165,Eve 6,224,Eve 6,1998,2,2468,Small Town Trap,11
+166,Everclear,225,Slow Motion Daydream,2003,7,2475,How To Win Friends And Influence People,1
+166,Everclear,225,Slow Motion Daydream,2003,7,2473,Blackjack,2
+166,Everclear,225,Slow Motion Daydream,2003,7,2476,I Want To Die a Beautiful Death,3
+166,Everclear,225,Slow Motion Daydream,2003,7,2483,Volvo Driving Soccer Mom,4
+166,Everclear,225,Slow Motion Daydream,2003,7,2478,Science Fiction,5
+166,Everclear,225,Slow Motion Daydream,2003,7,2477,New Blue Champion,6
+166,Everclear,225,Slow Motion Daydream,2003,7,2481,TV Show,7
+166,Everclear,225,Slow Motion Daydream,2003,7,2474,Chrysanthemum,8
+166,Everclear,225,Slow Motion Daydream,2003,7,2479,Sunshine (The Acid Summer),9
+166,Everclear,225,Slow Motion Daydream,2003,7,2472,A Beautiful Life,10
+166,Everclear,225,Slow Motion Daydream,2003,7,2480,The New York Times,11
+166,Everclear,225,Slow Motion Daydream,2003,7,2482,Untitled (Hidden Track),12
+166,Everclear,226,So Much for the Afterglow,1997,7,2493,So Much for the Afterglow,1
+166,Everclear,226,So Much for the Afterglow,1997,7,2487,Everything to Everyone,2
+166,Everclear,226,So Much for the Afterglow,1997,7,2485,Ataraxia [Media Intro],3
+166,Everclear,226,So Much for the Afterglow,1997,7,2491,Normal Like You,4
+166,Everclear,226,So Much for the Afterglow,1997,7,2489,I Will Buy You a New Life,5
+166,Everclear,226,So Much for the Afterglow,1997,7,2488,Father of Mine,6
+166,Everclear,226,So Much for the Afterglow,1997,7,2492,One Hit Wonder,7
+166,Everclear,226,So Much for the Afterglow,1997,7,2486,El Distorto de Melodica [Instrumental],8
+166,Everclear,226,So Much for the Afterglow,1997,7,2484,Amphetamine,9
+166,Everclear,226,So Much for the Afterglow,1997,7,2495,White Men in Black Suits,10
+166,Everclear,226,So Much for the Afterglow,1997,7,2494,Sunflowers,11
+166,Everclear,226,So Much for the Afterglow,1997,7,2496,Why I Don't Believe in God,12
+166,Everclear,226,So Much for the Afterglow,1997,7,2490,Like a California King,13
+166,Everclear,227,Songs from an American Movie Vol. One: Learning How To Smile,2000,7,2506,Song From An American Movie Pt. 1,1
+166,Everclear,227,Songs from an American Movie Vol. One: Learning How To Smile,2000,7,2500,Here We Go Again,2
+166,Everclear,227,Songs from an American Movie Vol. One: Learning How To Smile,2000,7,2497,AM Radio,3
+166,Everclear,227,Songs from an American Movie Vol. One: Learning How To Smile,2000,7,2499,Brown Eyed Girl,4
+166,Everclear,227,Songs from an American Movie Vol. One: Learning How To Smile,2000,7,2501,Learning How To Smile,5
+166,Everclear,227,Songs from an American Movie Vol. One: Learning How To Smile,2000,7,2507,The Honeymoon Song,6
+166,Everclear,227,Songs from an American Movie Vol. One: Learning How To Smile,2000,7,2502,Now That It's Over,7
+166,Everclear,227,Songs from an American Movie Vol. One: Learning How To Smile,2000,7,2508,Thrift Store Chair,8
+166,Everclear,227,Songs from an American Movie Vol. One: Learning How To Smile,2000,7,2503,Otis Redding,9
+166,Everclear,227,Songs from an American Movie Vol. One: Learning How To Smile,2000,7,2509,Unemployed Boyfriend,10
+166,Everclear,227,Songs from an American Movie Vol. One: Learning How To Smile,2000,7,2510,Wonderful,11
+166,Everclear,227,Songs from an American Movie Vol. One: Learning How To Smile,2000,7,2498,Annabela's Song,12
+166,Everclear,227,Songs from an American Movie Vol. One: Learning How To Smile,2000,7,2504,Out Of My Depth,13
+166,Everclear,227,Songs from an American Movie Vol. One: Learning How To Smile,2000,7,2505,Rock Star,14
+166,Everclear,228,Songs From an American Movie, Vol. Two: Good Time for a Bad Attitude,2000,7,2522,When It All Goes Wrong Again,1
+166,Everclear,228,Songs From an American Movie, Vol. Two: Good Time for a Bad Attitude,2000,7,2519,Slide,2
+166,Everclear,228,Songs From an American Movie, Vol. Two: Good Time for a Bad Attitude,2000,7,2512,Babytalk,3
+166,Everclear,228,Songs From an American Movie, Vol. Two: Good Time for a Bad Attitude,2000,7,2517,Rock Star,4
+166,Everclear,228,Songs From an American Movie, Vol. Two: Good Time for a Bad Attitude,2000,7,2518,Short Blonde Hair,5
+166,Everclear,228,Songs From an American Movie, Vol. Two: Good Time for a Bad Attitude,2000,7,2514,Misery Whip,6
+166,Everclear,228,Songs From an American Movie, Vol. Two: Good Time for a Bad Attitude,2000,7,2515,Out of My Depth,7
+166,Everclear,228,Songs From an American Movie, Vol. Two: Good Time for a Bad Attitude,2000,7,2521,The Good Witch of the North,8
+166,Everclear,228,Songs From an American Movie, Vol. Two: Good Time for a Bad Attitude,2000,7,2513,Halloween Americana,9
+166,Everclear,228,Songs From an American Movie, Vol. Two: Good Time for a Bad Attitude,2000,7,2511,

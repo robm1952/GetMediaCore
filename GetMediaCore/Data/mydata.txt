@@ -1,0 +1,17 @@
+"C:\Users\robme\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\Windows PowerShell\Windows PowerShell.lnk"
+
+%ProgramFiles%\PowerShell\7\pwsh.exe%
+
+%ProgramFiles%
+
+revise database to include a rating.
+	Artists, Albums, Songs
+	Above classes will be extended to include Ranking
+	Move PlayListHistory to a separate program and database
+	
+refactor GetMediaCore
+Classes
+Database layer
+
+TrafficManager
+	handles requests from the front end and manages the flow of data between the front end and the database layer. It will also handle any necessary data transformations and business logic.

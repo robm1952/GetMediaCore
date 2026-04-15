@@ -1,4 +1,5 @@
 ﻿using Microsoft.Extensions.Configuration;
+using Microsoft.Extensions.Logging;
 using GetMediaCore.Traffic;
 using GetMediaCore.Manager;
 
@@ -16,8 +17,13 @@ internal class Program
     private static void Main(string[] args)
     {
         _config = InitializeConfig();
+        // wire up logging
+        using var loggerFactory = LoggerFactory.Create(builder => builder.SetMinimumLevel(LogLevel.Information));
+        ILogger logger = loggerFactory.CreateLogger<Program>();
+        logger.LogInformation("Application started.");
         //InitializeApp();
-        Managers _managers = new Managers(_config);
+        Managers _managers = new Managers(_config, loggerFactory);
+        
         _dbManager = _managers.GetDBManager();
         _fileManager = _managers.GetFileManager();
         tm = _managers.GetTrafficManager();

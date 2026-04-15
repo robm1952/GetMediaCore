@@ -1,7 +1,5 @@
 ﻿using GetMediaCore.Models;
 using Microsoft.Extensions.Configuration;
-using Microsoft.Extensions.Logging;
-using Microsoft.Extensions.Logging.Abstractions;
 
 namespace GetMediaCore.Data
 {
@@ -9,18 +7,17 @@ namespace GetMediaCore.Data
     {
         private IConfiguration _configuration;
         private MediaCore _mediaCore;
-        private readonly ILogger<InfoLayer> _logger;
-
-        public InfoLayer(IConfiguration configuration, ILogger<InfoLayer>? logger = null)
+        
+        public InfoLayer(IConfiguration configuration)
         {
             _configuration = configuration;
             _mediaCore = new MediaCore();
-            _logger = logger ?? NullLogger<InfoLayer>.Instance;
         }
 
-        public Artist PutEntityToDb(Artist artist)
+        public Artist PutEntityToDb(Artist? artist)
         {
-            if (artist == null) return artist;
+            // Ensure a non-null Artist is used (fix CS8603)
+            artist ??= new Artist();
             try
             {
                 using (var ctx = new MediaCore())
@@ -34,7 +31,6 @@ namespace GetMediaCore.Data
             }
             catch (Exception ex)
             {
-                _logger.LogError(ex, "Error saving Artist to database");
                 return artist;
             }
         }
@@ -51,7 +47,7 @@ namespace GetMediaCore.Data
             }
             catch (Exception ex)
             {
-                Console.WriteLine(ex.Message);
+                System.Diagnostics.Debug.WriteLine(ex.Message);
             }
             return album;
         }
@@ -68,7 +64,7 @@ namespace GetMediaCore.Data
             }
             catch (Exception ex)
             {
-                _logger.LogError(ex, "Error saving Genre to database");
+                System.Diagnostics.Debug.WriteLine($"Error saving Genre to database: {ex.Message}");
                 return null;
             }
             return genre;
@@ -88,7 +84,7 @@ namespace GetMediaCore.Data
                 }
                 catch (Exception ex)
                 {
-                    _logger.LogError(ex, "Error saving Song to database");
+                    System.Diagnostics.Debug.WriteLine($"Error saving Song to database: {ex.Message}");
                     return new Song();
                 }
                 return song;
@@ -111,7 +107,7 @@ namespace GetMediaCore.Data
                 }
                 catch (Exception ex)
                 {
-                    _logger.LogError(ex, "Error saving SongFile to database");
+                    System.Diagnostics.Debug.WriteLine(ex, "Error saving SongFile to database");
                     return new SongFile();
                 }
                 return songFile;
@@ -133,7 +129,7 @@ namespace GetMediaCore.Data
                 }
                 catch (Exception ex)
                 {
-                    _logger.LogError(ex, "Error saving ArtistAlbumSongXref to database");
+                    System.Diagnostics.Debug.WriteLine($"Error saving ArtistAlbumSongXref to database: {ex.Message}");
                     return new ArtistAlbumSongXref();
                 }
                 return xref;

@@ -1,8 +1,6 @@
 ﻿using GetMediaCore.Manager;
 using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.Logging;
-using GetMediaCore.Traffic;
-using GetMediaCore.Manager;
 
 internal class Program {
     private static IConfiguration? _config;
@@ -10,8 +8,6 @@ internal class Program {
     private static DbManager? _dbManager;
     private static HashSet<FileInfo>? lfi;
     private static TrafficManager? tm;
-    private static List<FileInfo> fileInfos2Add = new List<FileInfo>();
-    private static List<FileInfo> fileInfos2Delete = new List<FileInfo>();
     private static long dbCount = 0;
 
     private static void Main(string[] args) {
@@ -23,7 +19,7 @@ internal class Program {
         logger.LogInformation("Application started.");
 
         Managers _managers = new Managers(_config, loggerFactory);
-        
+
         _dbManager = _managers.GetDBManager();
         _fileManager = _managers.GetFileManager();
         tm = _managers.GetTrafficManager();

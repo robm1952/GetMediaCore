@@ -152,5 +152,9 @@ namespace GetMediaCore.Data {
             }
             return null;
         }
+
+        internal List<Artist>? GetArtistsList() {
+            throw new NotImplementedException();
+        }
     }
 }

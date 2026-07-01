@@ -1,25 +1,16 @@
 ﻿using Microsoft.Extensions.Configuration;
-using System;
-using System.Collections.Generic;
-using System.IO;
-using System.Linq;
 
-namespace GetMediaCore.Traffic
-{
-    internal class FileSysemAccessor
-    {
+namespace GetMediaCore.Traffic {
+    internal class FileSysemAccessor {
         private IConfiguration _configuration;
 
-        public FileSysemAccessor(IConfiguration configuration)
-        {
+        public FileSysemAccessor(IConfiguration configuration) {
             _configuration = configuration;
         }
 
-        public List<FileInfo> GetFiles()
-        {
+        public List<FileInfo> GetFiles() {
             string? path = _configuration["AppSettings:PathToFLAC"];
-            if (string.IsNullOrWhiteSpace(path))
-            {
+            if (string.IsNullOrWhiteSpace(path)) {
                 throw new InvalidOperationException("The configuration value for 'AppSettings:PathToFLAC' is missing or empty.");
             }
 

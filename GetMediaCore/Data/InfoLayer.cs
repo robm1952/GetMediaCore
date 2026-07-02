@@ -124,11 +124,20 @@ namespace GetMediaCore.Data {
         internal Artist CheckDB(Artist artist) {
             if (artist == null) return new Artist();
             var name = artist.ArtistName?.Trim() ?? string.Empty;
-            using (var ctx = new MediaCore()) {
-                var existing = ctx.Artists
-                    .Where(x => x.ArtistName != null && x.ArtistName.Trim().Equals(name, StringComparison.OrdinalIgnoreCase))
-                    .FirstOrDefault();
-                return existing ?? artist;
+            try {
+                using (var ctx = new MediaCore()) {
+                    var existing = ctx.Artists
+                        //.Where(x => x.ArtistName != null && x.ArtistName.Trim().Equals(name))
+                        .Where(x => x.ArtistName == name)
+                        .FirstOrDefault();
+                    //var existing = ctx.Artists
+                    //    .Where(x => x.ArtistName != null && x.ArtistName.Trim().Equals(name, StringComparison.OrdinalIgnoreCase))
+                    //    .FirstOrDefault();
+                    return existing ?? artist;
+                }
+            }
+            catch (Exception ex) {
+                throw new Exception($"{artist.ArtistName} is funky");
             }
         }
 

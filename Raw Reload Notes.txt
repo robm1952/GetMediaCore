@@ -1,0 +1,20 @@
+older version of MediaCore did have a dependence between SongTitle and FileName.  The file name was split from fqn and file type was removed, creating the songtitle.
+This version of MediaCore does not have a dependence between SongTitle and FileName.  SongTitle is coming from the Meta data and filename is coming from the file system
+===============================================================
+So the current state of the database is iffy at best.  The plan:
+0. Use MP3Tag to review data on the fales
+	NOTE: data was really dirty in the album artist catagory plus file count should match db song count I hope
+1. truncate existing tables, reseed indexes to 1
+3. reload data
+	Problems with the load should be resolved as they occur.  So steps 1,2,3 are a loop until lthe program runs completely. Any egreious errors need investigation and correction.
+
+Since the file system is source of record, the MP3Tag meta data was edited
+reload of data looks good.  No problems with the loading of the data using the tag lib library.
+
+start of collection of data about the songs, in Stats on MediaCore.sql. Sql will be added to repository
+	
+	
+	
+	
+	
+	

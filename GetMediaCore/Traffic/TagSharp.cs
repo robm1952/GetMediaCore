@@ -86,10 +86,9 @@ namespace GetMediaCore.Traffic {
         }
 
         private int? GetGenreId(string[] genres) {
-            List<int> returnInts = new List<int>();
             try {
                 if (genres == null || genres.Length == 0) {
-                    return null;
+                    return 0;
                 }
 
                 foreach (string genre in genres) {
@@ -98,21 +97,20 @@ namespace GetMediaCore.Traffic {
 
                     var g = genre.Trim();
                     var car = _il.CheckDB(g);
-                    if (car == null) {
-                        car = AddGenre(g);
-                        if (car != null) {
-                            returnInts.Add(car.GenreId);
-                        }
+                    if (car != null) {
+                        return car.GenreId;
                     }
-                    else {
-                        returnInts.Add(car.GenreId);
+
+                    car = AddGenre(g);
+                    if (car != null) {
+                        return car.GenreId;
                     }
                 }
             }
             catch (Exception ex) {
                 Console.WriteLine(ex.ToString());
             }
-            return returnInts.Count > 0 ? (int?)returnInts[0] : null;
+            return null;
         }
 
         private Genre? AddGenre(string GenreName) {

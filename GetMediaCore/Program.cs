@@ -24,7 +24,7 @@ internal class Program {
         _fileManager = _managers.GetFileManager();
         tm = _managers.GetTrafficManager();
 
-        lfi = _fileManager.GetFiles().ToHashSet<FileInfo>();
+        lfi = [.. _fileManager.GetFiles()];
 
         ResolveFileSystemDb(_fileManager, tm);
     }

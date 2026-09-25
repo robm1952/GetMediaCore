@@ -3,39 +3,29 @@ using GetMediaCore.Models;
 using Microsoft.Extensions.Configuration;
 using System.Text.RegularExpressions;
 
-namespace GetMediaCore.Traffic
-{
-    internal class TagSharp
-    {
+namespace GetMediaCore.Traffic {
+    internal class TagSharp {
         private IConfiguration _configuration;
         private InfoLayer _il;
 
-        public TagSharp(IConfiguration configuration)
-        {
+        public TagSharp(IConfiguration configuration) {
             _configuration = configuration;
             _il = new InfoLayer(_configuration);
         }
 
         public void ProcessListToDb(List<FileInfo> lfi) {
-            foreach (FileInfo fi in lfi)
-            {
-                try
-                {
+            foreach (FileInfo fi in lfi) {
+                try {
                     var tFile = TagLib.File.Create(fi.FullName);
-                    if (tFile != null)
-                    {
+                    if (tFile != null) {
                         // check here to ensure genre, album, artist are not empty strings
                         Artist artist = AddArtist(tFile);
-                        if (artist != null)
-                        {
+                        if (artist != null) {
                             Album album = AddAlbum(tFile, artist.ArtistId);
-                            if (album != null)
-                            {
+                            if (album != null) {
                                 Song song = AddSong(tFile, album.AlbumId);
-                                if (song != null)
-                                {
-                                    ArtistAlbumSongXref xref = new ArtistAlbumSongXref()
-                                    {
+                                if (song != null) {
+                                    ArtistAlbumSongXref xref = new ArtistAlbumSongXref() {
                                         ArtistId = artist.ArtistId,
                                         AlbumId = album.AlbumId,
                                         SongId = song.SongId
@@ -47,29 +37,14 @@ namespace GetMediaCore.Traffic
                         }
                     }
                 }
-                catch (Exception ex)
-                {
+                catch (Exception ex) {
                     Console.WriteLine($"Error processing file '{fi.FullName}': {ex}");
                 }
             }
         }
 
-        //private ArtistAlbumSongXref AddXref(int artistId, int albumId, int songId)
-        //{
-        //    ArtistAlbumSongXref xref = new ArtistAlbumSongXref()
-        //    {
-        //        ArtistId = artistId,
-        //        AlbumId = albumId,
-        //        SongId = songId
-        //    };
-        //    xref = _il.PutEntityToDb(xref);
-        //    return xref;
-        //}
-
-        private Song AddSong(TagLib.File tFile, int albumId)
-        {
-            Song song = new Song()
-            {
+        private Song AddSong(TagLib.File tFile, int albumId) {
+            Song song = new Song() {
                 SongAlbumId = albumId,
                 SongDuration = tFile.Properties.Duration.Ticks,
                 SongTitle = tFile.Tag.Title,
@@ -79,11 +54,9 @@ namespace GetMediaCore.Traffic
             return song;
         }
 
-        private SongFile AddSongFile(TagLib.File tfile, int songId, FileInfo fi)
-        {
+        private SongFile AddSongFile(TagLib.File tfile, int songId, FileInfo fi) {
 
-            SongFile songFile = new SongFile()
-            {
+            SongFile songFile = new SongFile() {
                 SongFileSongId = songId,
                 SongFileFqn = fi.FullName,
                 SongFileSize = fi.Length,
@@ -93,12 +66,10 @@ namespace GetMediaCore.Traffic
             return songFile;
         }
 
-        private Album AddAlbum(TagLib.File tFile, int artistId)
-        {
+        private Album AddAlbum(TagLib.File tFile, int artistId) {
             //need to check the genre value in the tFile for empty genre
             //what to do with these --salt genres with unknown 
-            Album album = new Album()
-            {
+            Album album = new Album() {
                 AlbumArtistId = artistId,
                 AlbumTitle = tFile.Tag.Album,
                 AlbumYear = (Int16?)tFile.Tag.Year,
@@ -108,55 +79,42 @@ namespace GetMediaCore.Traffic
 
             album = _il.CheckDB(album);
             //if (album != null)
-            if (album.AlbumId == 0)
-            {
+            if (album.AlbumId == 0) {
                 album = _il.PutEntityToDb(album);
             }
             return album;
         }
 
-        private int? GetGenreId(string[] genres)
-        {
-            List<int> returnInts = new List<int>();
-            try
-            {
-                if (genres == null || genres.Length == 0)
-                {
-                    return null;
+        private int? GetGenreId(string[] genres) {
+            try {
+                if (genres == null || genres.Length == 0) {
+                    return 0;
                 }
 
-                foreach (string genre in genres)
-                {
+                foreach (string genre in genres) {
                     if (string.IsNullOrWhiteSpace(genre))
                         continue;
 
                     var g = genre.Trim();
                     var car = _il.CheckDB(g);
-                    if (car == null)
-                    {
-                        car = AddGenre(g);
-                        if (car != null)
-                        {
-                            returnInts.Add(car.GenreId);
-                        }
+                    if (car != null) {
+                        return car.GenreId;
                     }
-                    else
-                    {
-                        returnInts.Add(car.GenreId);
+
+                    car = AddGenre(g);
+                    if (car != null) {
+                        return car.GenreId;
                     }
                 }
             }
-            catch (Exception ex)
-            {
+            catch (Exception ex) {
                 Console.WriteLine(ex.ToString());
             }
-            return returnInts.Count > 0 ? (int?)returnInts[0] : null;
+            return null;
         }
 
-        private Genre? AddGenre(string GenreName)
-        {
-            Genre genre = new Genre()
-            {
+        private Genre? AddGenre(string GenreName) {
+            Genre genre = new Genre() {
                 GenreName = GenreName
             };
             return _il.PutEntityToDb(genre);
@@ -165,30 +123,24 @@ namespace GetMediaCore.Traffic
         private Artist AddArtist(TagLib.File tFile) {
             Artist artist = new Artist();
             var performers = tFile.Tag.Performers;
-            if (performers != null && performers.Length > 0)
-            {
+            if (performers != null && performers.Length > 0) {
                 artist.ArtistName = string.Join(", ", performers.Where(p => !string.IsNullOrWhiteSpace(p)).Select(p => p.Trim()));
             }
-            else
-            {
+            else {
                 artist.ArtistName = "Artist Missing";
             }
 
             artist.ArtistSortName = CreateSortName(artist.ArtistName);
             artist = _il.CheckDB(artist);
-            if (artist.ArtistId == 0)
-            {
+            if (artist.ArtistId == 0) {
                 return _il.PutEntityToDb(artist);
             }
-            else
-            {
+            else {
                 return artist;
             }
-            //return artist;
         }
 
-        private string? CreateSortName(string? artistName)
-        {
+        private string? CreateSortName(string? artistName) {
             if (string.IsNullOrWhiteSpace(artistName))
                 return artistName;
 
@@ -196,8 +148,7 @@ namespace GetMediaCore.Traffic
             // match leading 'the ' case-insensitive
             var regex = new Regex("^the\\s+", RegexOptions.IgnoreCase | RegexOptions.CultureInvariant);
             var result = regex.Replace(name, string.Empty);
-            if (!string.Equals(result, name, StringComparison.Ordinal))
-            {
+            if (!string.Equals(result, name, StringComparison.Ordinal)) {
                 return $"{result}, The";
             }
 
